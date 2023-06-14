@@ -36,120 +36,120 @@
 
 |<ˆˆ>|
 
-|<Fin del juego>|
+|<Fin do xogo>|
 
-|<Has llegado a la ronda &&1>|
+|<Chegaches á ronda &&1>|
 
 |<Ronda: &&1>|
 
-|<Ronda &&1 terminada.>|
+|<Ronda &&1 rematada.>|
 
-|<Sala extra descubierta>|
+|<Sala extra descuberta>|
 
 |<Ronda de desafío>|
 
 |<¡Fuga de prisión!>|
 
-|<Bichejos espeluznantes>|
+|<Bichos escalofriantes>|
 
-|<¿Quién ha dado falsa alarma?>|
+|<¿Quén deu falsa alarma?>|
 
 |<¡Chaparrón!>|
 
-|<Elige tu camino>|
+|<Elixe o teu camiño>|
 
 |<Gorila cósmico>|
 
-|<Se te ha concedido el don Pies frenéticos>|
+|<Concedeusete o don Pés frenéticos>|
 
-|<Se te ha concedido el don Potencia de fuego>|
+|<Concedeusete o don Potencia de fogo>|
 
-|<Se te ha concedido el don Amistad
+|<Concedeusete o don Amizade
 >|
 
-|<Se te han concedido los dones Fortuna y Fortaleza
+|<Concederonsete os dons Fortuna e Fortaleza
 >|
 
-|<La sala del destino>|
+|<A sala do destino>|
 
-|<Elige una salida y decide tu destino>|
+|<Elixe unha saida e decide o teu destino>|
 
-|<Los hados no esperarán eternamente>|
+|<Os hados non esperarán eternamente>|
 
-|<Tu destino está decidido>|
+|<O teu destino está decidido>|
 
-|<Ronda de jefe>|
+|<Ronda de xefe>|
 
-|<El gorila cósmico>|
+|<O gorila cósmico>|
 
-|<¡VICTORIA!>|
+|<¡VITORIA!>|
 
-|<¡El gorila cósmico, DERROTADO!>|
+|<¡O gorila cósmico, DERROTADO!>|
 
-|<... ¿O no? ... >|
+|<... ¿Ou non? ... >|
 
-|<Súbete al teletransporte para ir a una nueva arena
+|<Súbete ao teletransporte para ir a unha nova arena
 >|
 
 |<¡Estampida!>|
 
-|<¡El gorila cósmico ha huido! ¡Dale caza!>|
+|<¡O gorila cósmico fuxiu! ¡Dalle caza!>|
 
-|<O sube a la plataforma de teletransporte para recibir instrucciones.>|
+|<Ou sube á plataforma de teletransporte para recibir instruccións.>|
 
-|<Instrucciones>|
+|<Instruccións>|
 
-|<El objetivo final de este juego es hacer frente al malvado gorila cósmico y vengar la muerte de la princesa.>|
+|<O obxectivo final deste xogo é facer frente ao malvado gorila cósmico e vengar a muerte da princesa.>|
 
-|<El gorila cósmico no te pondrá fácil el viaje. Entre tú y él hay todo un ejército de no muertos.>|
+|<O gorila cósmico non te pondrá fácil a vaxe. Entre ti e mais el hai todo un exército de non mortos.>|
 
-|<¡No te desanimes! Por el camino encontrarás potentes armas y objetos que te ayudarán a luchar.>|
+|<¡Non te desanimes! Polo camiño encontrarás potentes armas e obxetos que ayudarante a loitar.>|
 
 |<Usa  para moverte.>|
 
 |<Usa  para disparar.>|
 
-|<Pulsa  para lanzar una bomba táctica que despeje toda una zona de enemigos.>|
+|<Pulsa  para lanzar unha bomba táctica que despexe toda unha zona de enimigos.>|
 
-|<Pulsa  para usar un acelerón. Resulta útil para salir de situaciones peliagudas.>|
+|<Pulsa  para usar un acelerón. Resulta útil para sair de situacións peliagudas.>|
 
-|<Para reponer tu inventario de bombas tácticas, recoge objetos que se parezcan a ellas.
-Se guardarán para más tarde.>|
+|<Para repoñer o teu inventario de bombas tácticas, recolle obxetos que parezanse a elas.
+Gardaranse para máis tarde.>|
 
-|<De forma similar a la reposición de bombas tácticas, puedes acumular acelerones. Haré aparecer unos cuantos. 
-Fíjate cómo se acumulan.>|
+|<De forma similar á reposición de bombas tácticas, podes acumular acelerones. Farei aparecer uns cantos. 
+Fíxate cómo se acumulan.>|
 
-|<Encontrarás tesoros por el camino. Recógelos siempre que puedas.>|
+|<Encontrarás tesoros polo camiño. Recólleos sempre que podas.>|
 
-|<El tesoro se agrega a tu multiplicador de puntuación. Cada &&1 puntos, recibirás una vida extra.>|
+|<O tesoro agregarase ao teu multiplicador de puntuación. Cada &&1 puntos, recibirás unha vida extra.>|
 
-|<Verás una serie de armas y objetos especiales. ¡Cógelos! Todos ofrecen sus propias ventajas y son potentes.>|
+|<Verás unha serie de armas e obxetos especiais. ¡Cólleos! Todos ofrecen as suas propias ventaxas e son potentes.>|
 
-|<Ahora dirígete a la flecha de salida y buena suerte en tu misión de derrotar al gorila cósmico.>|
+|<Agora diríxete á frecha de saida e boa sorte na tua misión de derrotar ao gorila cósmico.>|
 
 |<ZOMBIETRON>|
 
-|<Página &&1 de &&2>|
+|<Páxina &&1 de &&2>|
 
-|<¡Hora de relajarse!>|
+|<¡Hora de relaxarse!>|
 
 |<¡Somos ricos!>|
 
-|<¡Mi tesoro!>|
+|<¡Meu tesoro!>|
 
-|<¡No!>|
+|<¡Non!>|
 
-|<¡NOOOOOOO!>|
+|<¡NOOOOOOON!>|
 
 |<¡JA, JA, JA!>|
 
 |<¡J@$€*!>|
 
-|<¡Ganador!>|
+|<¡Gañador!>|
 
-|<¿Estoy muerto?>|
+|<¿Estoy morto?>|
 
-|<¡Sí!>|
+|<¡Si!>|
 
 |<¿Qué diablos...?>|
 
