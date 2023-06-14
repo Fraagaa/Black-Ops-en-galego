@@ -1,0 +1,900 @@
+|<Obtén puntos eliminando a los jugadores enemigos.>|
+
+|<Obtén puntos eliminando a los jugadores enemigos. Gana el primer equipo en llegar a &&1.>|
+
+|<Elimina a los enemigos.>|
+
+|<Toma todas las banderas.>|
+
+|<Obtén puntos al tomar la bandera en disputa. Gana el primer equipo en llegar a &&1.>|
+
+|<Toma la bandera en disputa.>|
+
+|<Destruye el objetivo A o el B colocando explosivos en su posición.>|
+
+|<Destruye el objetivo A o el B colocando explosivos en su posición. Impide que los desactiven una vez que estén colocados. Límite de puntuación: &&1>|
+
+|<DESTRUYE EL OBJETIVO A O EL B>|
+
+|<Impide que destruyan los objetivos.>|
+
+|<Impide que destruyan los objetivos. Si colocan explosivos en cualquiera de los dos lugares, desactívalos antes de que exploten. Límite de puntuación: &&1.>|
+
+|<PROTEGE LOS OBJETIVOS A Y B>|
+
+|<Recupera los explosivos y colócalos en el objetivo enemigo mientras proteges el tuyo.>|
+
+|<Recupera los explosivos y colócalos en el objetivo enemigo mientras proteges el tuyo. Gana el primer equipo que destruya el blanco. Límite de puntuación: &&1.>|
+
+|<DESTRUYE EL BLANCO ENEMIGO>|
+
+|<Toma y defiende las banderas.>|
+
+|<Toma y defiende las banderas. Gana el primer equipo que llegue a &&1 puntos.>|
+
+|<TOMA Y DEFIENDE BANDERAS>|
+
+|<Obtén puntos eliminando a los demás jugadores.>|
+
+|<Obtén puntos eliminando a los demás jugadores. Gana el primer jugador que llegue a &&1 puntos.>|
+
+|<ELIMINA A LOS DEMÁS JUGADORES>|
+
+|<Obtén puntos eliminando a los jugadores mientras la llevas. Para llevarla, elimina al jugador que la lleva.>|
+
+|<Obtén puntos eliminando a los jugadores mientras la llevas. Para llevarla, elimina al jugador que la lleva. Gana el primer jugador que llegue a &&1 puntos.>|
+
+|<Para llevarla, elimina al jugador que la lleva.>|
+
+|<Obtén puntos eliminando a los jugadores enemigos mientras la llevas. Para llevarla, elimina al enemigo que la lleva.>|
+
+|<Obtén puntos eliminando a los jugadores enemigos mientras la llevas. Para llevarla, elimina al enemigo que la lleva. Gana el primer equipo que llegue a &&1 puntos.>|
+
+|<Conviértete en quien la lleva y elimina a los jugadores enemigos.>|
+
+|<Obtén puntos al llevar la bandera.>|
+
+|<Obtén puntos al llevar la bandera. Gana el primer jugador que llegue a &&1 puntos.>|
+
+|<Toma y lleva la bandera.>|
+
+|<Obtén puntos al llevar la bandera para tu equipo.>|
+
+|<Obtén puntos al llevar la bandera para tu equipo. Gana el primer jugador que llegue a &&1 puntos.>|
+
+|<Ayuda a tu equipo a tomar y llevar la bandera.>|
+
+|<Toma el cuartel general y defiéndelo para obtener puntos.>|
+
+|<Toma el cuartel general y defiéndelo para obtener puntos. Gana el primer equipo que llegue a &&1 puntos.>|
+
+|<DEFIENDE LA COLINA>|
+
+|<DEFIENDE LA COLINA PARA TU EQUIPO>|
+
+|<ELIMINA A LOS JUGADORES ENEMIGOS>|
+
+|<Gana puntos robando la bandera enemiga y llevándola a tu bandera en tu base.>|
+
+|<Gana puntos robando la bandera enemiga y llevándola a tu bandera en tu base. Toma &&1 banderas para ganar la ronda.>|
+
+|<TOMA LA BANDERA>|
+
+|<EN LA BASE>|
+
+|<FUERA>|
+
+|<Destruye el objetivo A o el B colocando explosivos en sus posiciones. Impide que los desactiven una vez que estén colocados. Límite de puntuación: &&1.>|
+
+|<DESTRUYE LOS OBJETIVOS A Y B>|
+
+|<Destruye el objetivo A o el B colocando explosivos en sus posiciones.>|
+
+|<Elimina a los demás jugadores. Quiebra a los rivales con el tomahawk.>|
+
+|<Elimina a los demás jugadores.>|
+
+|<Entra en la zona de puntuación para puntuar para tu equipo.>|
+
+|<Mantén al enemigo alejado de la zona objetivo.>|
+
+|<Entra en la zona objetivo y aguanta allí para puntuar para tu equipo.  >|
+
+|<Evita que el enemigo entre en la zona objetivo por todos los medios necesarios.>|
+
+|<Aviso: tu enemigo es rápido y puede verte en todo momento en el radar.>|
+
+|<Aviso: tu enemigo es lento, pero tiene un potente armamento.>|
+
+|<Consigue una baja con cada arma.>|
+
+|<Consigue una baja con las &&1 armas. Apuñala jugadores para degradarlos.>|
+
+|<CAUSA UNA BAJA CON CADA ARMA>|
+
+|<CONSIGUE VENTAJAS AL OBTENER RACHAS DE BAJAS>|
+
+|<Pre-partida>|
+
+|<Aguafiestas>|
+
+|<Has matado un enemigo que iba a tener racha de bajas.>|
+
+|<Tiro lejano>|
+
+|<Has matado a un enemigo a distancia.>|
+
+|<Tiro cabeza>|
+
+|<¡Bum! A la cabeza.>|
+
+|<Pillado>|
+
+|<Has puesto un explosivo a un enemigo.>|
+
+|<Cazacabelleras>|
+
+|<Has matado a un enemigo con un tomahawk.>|
+
+|<Ejecución>|
+
+|<Has matado a un enemigo caído de un tiro a la cabeza.>|
+
+|<Recuperación>|
+
+|<Te has recuperado de una racha de muertes.>|
+
+|<Vengador>|
+
+|<Has matado a un enemigo que hace poco mató a un compañero.>|
+
+|<Más allá>|
+
+|<Has matado a un enemigo estando muerto.>|
+
+|<Doble baja>|
+
+|<Has matado a 2 personas en poco tiempo.>|
+
+|<Triple baja>|
+
+|<Has matado a 3 personas en poco tiempo.>|
+
+|<Baja múltiple>|
+
+|<Has matado a más de 3 en poco tiempo.>|
+
+|<Primera sangre>|
+
+|<Has conseguido la primera baja.>|
+
+|<Apuñalador>|
+
+|<Has apuñalado a un jugador por la espalda.>|
+
+|<Secuestrador>|
+
+|<Has robado una caja enemiga.>|
+
+|<Paquete común>|
+
+|<Un compañero salvó tu caja.>|
+
+|<Un tiro basta>|
+
+|<Has matado a un enemigo de un tiro.>|
+
+|<Venganza>|
+
+|<Has matado al enemigo que te mató.>|
+
+|<Rescatador>|
+
+|<Has salvado a un compañero herido.>|
+
+|<Eutanasia>|
+
+|<Has herido a un enemigo que se suicidó.>|
+
+|<Has tomado un punto estando en Segunda oportunidad.>|
+
+|<Asistencia>|
+
+|<Has ayudado en una baja.>|
+
+|<Chatarrero>|
+
+|<Has destruido un vehículo enemigo.>|
+
+|<En racha>|
+
+|<Has solicitado una racha de bajas.>|
+
+|<Héroe>|
+
+|<Has desactivado la bomba.>|
+
+|<Antibombas>|
+
+|<Has matado a un enemigo que estaba desactivando una bomba.>|
+
+|<Ofensiva>|
+
+|<Has matado a un enemigo cerca del objetivo.>|
+
+|<Defensa>|
+
+|<Has matado a un enemigo cerca del punto de defensa.>|
+
+|<Pos. asegurada>|
+
+|<Has tomado un objetivo.>|
+
+|<Portador>|
+
+|<Has cogido la bandera enemiga.>|
+
+|<Toma bandera>|
+
+|<Has conseguido la bandera enemiga.>|
+
+|<Saboteador>|
+
+|<Has colocado la bomba.>|
+
+|<Terrorista>|
+
+|<Has detonado la bomba.>|
+
+|<Has derribado un avión de contraespionaje.>|
+
+|<Has derribado un avión espía.>|
+
+|<Has acabado con una torreta.>|
+
+|<Has derribado un helicóptero.>|
+
+|<Devol. bandera>|
+
+|<Has devuelto la bandera.>|
+
+|<&&1 &&2>|
+
+|<^3+&&1^7>|
+
+|<^2+&&1^7>|
+
+|<Baja torreta>|
+
+|<Ensartado>|
+
+|<Has matado a un enemigo con el cuchillo balístico.>|
+
+|<De rebote>|
+
+|<Has matado a un enemigo con un tomahawk rebotado.>|
+
+|<Sanitario>|
+
+|<Has reanimado a un compañero caído.>|
+
+|<Interceptado>|
+
+|<Has destruido un Valkyrie.>|
+
+|<Ira al volante>|
+
+|<Has destruido un RC-XD.>|
+
+|<Chatarrero adjunto>|
+
+|<Has ayudado a derribar una aeronave enemiga.>|
+
+|<necesita que lo reanimen.>|
+
+|<Has reanimado a &&1.>|
+
+|<Un espectador no puede usar la charla de voz.>|
+
+|<ESPECTADOR>|
+
+|<Tu queja ha sido archivada>|
+
+|<Queja desestimada>|
+
+|<No puede haber quejas contra el host del servidor>|
+
+|<El host del servidor te ha matado, pese a ser compañero tuyo>|
+
+|<¿Quieres enviar una queja contra &&1 por matar a los de su equipo?>|
+
+|<Pulsa '&&1' para Sí o '&&2' para No>|
+
+|<VOTO>|
+
+|<SÍ>|
+
+|<NO>|
+
+|<siguiendo>|
+
+|<Has matado a &&1>|
+
+|<COMPAÑERO DE EQUIPO>|
+
+|<desconocido>|
+
+|<OBJETIVOS MISIÓN>|
+
+|<Objetivos misión>|
+
+|<Pausa>|
+
+|<cambiado de nombre a>|
+
+|<Conexión interrumpida>|
+
+|<&&1>|
+
+|<Espectadores>|
+
+|<Punt.>|
+
+|<Muertes>|
+
+|<Ping>|
+
+|<para>|
+
+|<muerto>|
+
+|<cuerpo a cuerpo>|
+
+|<suicidio>|
+
+|<caída>|
+
+|<aplastado>|
+
+|<ahogado>|
+
+|<fango>|
+
+|<Esperando a que el servidor cargue un nuevo mapa>|
+
+|<tiro a la cabeza>|
+
+|<Cuerpo a tierra bloqueado>|
+
+|<No puedes tumbarte con esta arma>|
+
+|<Salud>|
+
+|<Servidor pasivo>|
+
+|<Esta arma no dispone de modo alternativo>|
+
+|<&&1 te ha reanimado.>|
+
+|<&&1 te ha matado.>|
+
+|<Guardando>|
+
+|<GUARDAR Y SALIR>|
+
+|<Guardar y salir>|
+
+|<Si guardas ahora, se perderán todos los progresos 
+desde el último punto de control. 
+
+¿Quieres seguir guardando?>|
+
+|<Si reinicias ahora, se perderán todos 
+los progresos realizados 
+en esta misión
+
+¿Quieres seguir con el reinicio?>|
+
+|<¿Quieres guardar los progresos del juego?>|
+
+|<Objetivo debajo>|
+
+|<Objetivo encima>|
+
+|<El jefe de pelotón ha cancelado la orden.>|
+
+|<Orden de ataque dada por el jefe de pelotón.>|
+
+|<Orden de reagrupación dada por el jefe de pelotón.>|
+
+|<Orden de defensa dada por el jefe de pelotón.>|
+
+|<¡Jefe de pelotón cambiado! El nuevo jefe de pelotón es >|
+
+|<Tu pelotón se ha disuelto. Ahora vas en solitario.>|
+
+|<se ha unido al pelotón.>|
+
+|<ha dejado el pelotón.>|
+
+|<te ha expulsado del pelotón.>|
+
+|<te ha invitado al pelotón.>|
+
+|<te ha invitado a una partida.>|
+
+|<ha aceptado tu solicitud de amistad.>|
+
+|<ha cancelado su solicitud de amistad.>|
+
+|<ha revocado su amistad.>|
+
+|<ha rechazado tu solicitud de amistad.>|
+
+|<quiere ser tu amigo.>|
+
+|<no está conectado.>|
+
+|<está conectado.>|
+
+|<Puntos>|
+
+|<Bajas>|
+
+|<Asistenc.>|
+
+|<Reanim.>|
+
+|<Caídos>|
+
+|<Precisión>|
+
+|<T. cabeza>|
+
+|<&&1 se ha puesto en cabeza.>|
+
+|<Has creado un pelotón.>|
+
+|<Te has unido a un pelotón.>|
+
+|<Has abandonado un pelotón.>|
+
+|<Ahora eres un solitario.>|
+
+|<&&1 ha encontrado una carta de muerte>|
+
+|<Has apostado por este jugador.>|
+
+|<Muerto>|
+
+|<Equipo muerto>|
+
+|<Ejecutor>|
+
+|<Ejecutor de equipo>|
+
+|<Puntos COD>|
+
+|<Se han cometido errores.>|
+
+|<Prop.>|
+
+|<Defensas>|
+
+|<Bombas
+colocadas>|
+
+|<Bombas
+desactivadas>|
+
+|<Devoluc.>|
+
+|<Tomas>|
+
+|<Destrucciones>|
+
+|<¡Has traicionado a tus hermanos!>|
+
+|<¡No se permitirá el fuego amigo!>|
+
+|<¡Has disparado a un compañero de equipo!>|
+
+|<La estrella de tu brújula señala tu siguiente objetivo.>|
+
+|<Destruye los tanques antiaéreos "Flakpanzer" [quedan &&1]>|
+
+|<Entrevístate con el capitán Foley en el cruce de caminos>|
+
+|<Esta puerta no se puede abrir. No te molestes en intentar abrir puertas cerradas.>|
+
+|<EXPLOSIVOS COLOCADOS. ¡ATRÁS!>|
+
+|<Para recoger munición para otra arma, acércate a ella o mírala y pulsa USAR [&&1].>|
+
+|<Mientras estés inclinado, te moverás más lento.>|
+
+|<No puedes llevar más granadas.>|
+
+|<Stielhandgranates recogidas.>|
+
+|<Busca el indicador brillante en el vehículo antiaéreo alemán.>|
+
+|<Despeja el edificio con las ametralladoras de su interior.>|
+
+|<Toma el flanco izquierdo.>|
+
+|<Haz clic en DISPARO para omitir.>|
+
+|<Usa las armas anticarro Panzerfaust de detrás del búnker para destruir los tanques.>|
+
+|<Estás demasiado lejos del operador de radio para usar la artillería.>|
+
+|<Elimina las dotaciones de Flak 88.>|
+
+|<Elimina las dotaciones de Flak 88. [&&1 restantes]>|
+
+|<Te ha matado un virote explosivo.>|
+
+|<Te ha matado una granada.
+Atento al indicador de peligro de granadas.>|
+
+|<Has muerto al sujetar demasiado tiempo una granada.>|
+
+|<Mantén ^3[{+frag}]^7 para demorar las granadas.>|
+
+|<Te ha matado la explosión de un vehículo.
+Los vehículos en llamas suelen explotar.>|
+
+|<Te ha matado la explosión de un barril.
+Los barriles rojos explotan cuando les disparan.>|
+
+|<x 2>|
+
+|<x 3>|
+
+|<+>|
+
+|<->|
+
+|<+%s>|
+
+|<-%s>|
+
+|<+$>|
+
+|<-$>|
+
+|<$>|
+
+|<Mantén pulsado ^3 &&1 ^7 para obtener inteligencia del enemigo.>|
+
+|<Has encontrado datos de inteligencia enemigos.>|
+
+|<&&1/30 datos de inteligencia enemigos encontrados.>|
+
+|<&&1/45 datos de inteligencia enemigos encontrados.>|
+
+|<&&1/60 datos de inteligencia enemigos encontrados.>|
+
+|<Has encontrado &&1 datos de inteligencia enemigos.>|
+
+|<Quedan &&1 datos de inteligencia enemigos.>|
+
+|<Queda &&1 dato de inteligencia enemigo.>|
+
+|<Fin del nivel actual.>|
+
+|<Pulsa ^3[{+actionslot 2}]^7 para usar C4.>|
+
+|<Pulsa ^3[{+actionslot 1}]^7 para activar la visión nocturna.>|
+
+|<Pulsa ^3[{+actionslot 1}]^7 para desactivar la visión nocturna.>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar el lanzagranadas M203.>|
+
+|<¡Apoyo aéreo a la espera!>|
+
+|<¡Apoyo aéreo a la espera! Pulsa ^3[{+actionslot 4}]^7.>|
+
+|<El blindaje solo se puede dañar
+con C4 y cohetes.>|
+
+|<Pulsa ^3[{+gostand}]^7 para >|
+
+|<Pulsa ^3[{weapnext}]^7 para cambiar a tu fusil de precisión M21.>|
+
+|<Pulsa ^3 [{+actionslot 4}] ^7 para usar las Claymore.>|
+
+|<Mantén pulsado ^3 &&1 ^7 para usar>|
+
+|<Evita las zonas de radiación.
+Atento a las señales del contador Geiger.>|
+
+|<Pulsa ^3[{+attack}]^7 para colocar minas Claymore.>|
+
+|<:>|
+
+|<Pulsa ^3[{+throw}]^7 para lanzar C4.>|
+
+|<Pulsa ^3[{+toggleads_throw}]^7 para lanzar C4.>|
+
+|<Presiona ^3[{+speed_throw}]^7 para lanzar C4.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para lanzar C4.>|
+
+|<Bonificación de dificultad>|
+
+|<x &&1>|
+
+|<Bonificación de rondas>|
+
+|<x>|
+
+|<Estás a un suicidio de ser expulsado.>|
+
+|<Te han penalizado por suicidarte.>|
+
+|<Te han expulsado por suicidarte demasiadas veces.>|
+
+|<AVISO: se te expulsará por tener una baja puntuación negativa.>|
+
+|<&&1 ha sido expulsado.>|
+
+|<Puntuación de la misión>|
+
+|<Bonificación terminada>|
+
+|<Bonificación caducada>|
+
+|<¡NUEVO RÉCORD!>|
+
+|<PUNTUACIÓN TOTAL:>|
+
+|<TIEMPO RESTANTE:>|
+
+|<Más difícil de matar +&&1>|
+
+|<Más reanimaciones +&&1>|
+
+|<Más tiros a la cabeza +&&1>|
+
+|<¡Te han matado con un obús de tanque!>|
+
+|<Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo.>|
+
+|<Mantén ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<Mantén ^3 &&1 ^7 para hacerte con los datos.>|
+
+|<Datos obtenidos>|
+
+|<Has encontrado %1 de %2 datos.>|
+
+|<Le has dado a un civil. ¡Mira dónde disparas!>|
+
+|<Te ha matado un vehículo en movimiento.>|
+
+|<Pulsa [&&1] para ver los objetivos.>|
+
+|<Pulsa [&&1] para echarte cuerpo a tierra.>|
+
+|<Pulsa dos veces [&&1] para ponerte cuerpo a tierra.>|
+
+|<Mantén pulsado [&&1] para ponerte cuerpo a tierra.>|
+
+|<Pulsa [&&1] para apuntar con la mira.>|
+
+|<Mantén pulsado [&&1] para apuntar con la mira.>|
+
+|<Pulsa [&&1] para levantarte del suelo.>|
+
+|<Pulsa dos veces [&&1] para levantarte del suelo.>|
+
+|<Pulsa [&&1] para cambiar a las granadas.>|
+
+|<Pulsa [&&1] para hacer un ataque cuerpo a cuerpo.>|
+
+|<Espera a que el perro muerda para agarrarlo por la garganta. ^3( ^3[{+melee}]^7 )^7 >|
+
+|<Pulsa ^3( [{+melee}] )^7 antes de que el perro muerda para agarrar su garganta.>|
+
+|<Pulsa ^3( [{+melee}] )^7 cuando el perro muerda para agarrar su garganta.>|
+
+|<Pulsa ^3( ^3[{+melee}]^7 )^7>|
+
+|<Mira hacia el punto de los explosivos y pulsa [&&1] para colocarlos.>|
+
+|<Pulsa USAR [&&1] para asomarte a la ventana.>|
+
+|<Mira tu primer objetivo y pulsa USAR [&&1] para retomarlo.>|
+
+|<Pulsa la tecla de Moverse a la izquierda [&&1] para moverte a la izquierda.>|
+
+|<Pulsa la tecla de Moverse a la derecha &&1 para moverte a la derecha.>|
+
+|<Pulsa tu tecla de Avanzar [&&1] para moverte hacia delante.>|
+
+|<Pulsa tu tecla de Retroceder [&&1] para moverte hacia atrás.>|
+
+|<Pulsa [&&1] para comprobar tu objetivo actual.>|
+
+|<Ahora tienes dos armas. Pulsa [&&1] para cambiar a tu segunda arma.>|
+
+|<Pulsa [&&1] para cambiar a tus granadas.>|
+
+|<Aproxímate al muro de cemento y pulsa la tecla USAR [&&1] para colocar los explosivos.>|
+
+|<Pulsa [&&1] para agacharte.>|
+
+|<Pulsa [&&1] una segunda vez para levantarte desde la posición agachada.>|
+
+|<Mantén pulsado [&&1] para agacharte.>|
+
+|<Pulsa [&&1] para cambiar de agachado a cuerpo a tierra.>|
+
+|<Pulsa [&&1] para levantarte.>|
+
+|<Suelta [&&1] para dejar de agacharte.>|
+
+|<Si esto te hace ponerte cuerpo a tierra, pulsa dos veces [&&1].>|
+
+|<Pulsa dos veces [&&1] para levantarte desde la posición agachada.>|
+
+|<Pulsa una vez [&&1] para levantarte desde agachado.>|
+
+|<Suelta [&&1] para dejar de estar cuerpo a tierra.>|
+
+|<Pulsa [&&1] una segunda vez para dejar de apuntar con la mira.>|
+
+|<Pulsa [&&1] para cambiar a tu primera arma.>|
+
+|<Pulsa [&&1] para cambiar a tu segunda arma.>|
+
+|<Mantén USAR [&&1] para cambiar tu arma actual por otra que estés mirando.>|
+
+|<Para coger un arma, mírala y pulsa USAR [&&1].>|
+
+|<Mientras estés erguido, pulsa [&&1] para saltar.>|
+
+|<Mantén pulsado [&&1] para inclinarte a la izquierda.>|
+
+|<Mantén pulsado [&&1] para inclinarte a la derecha.>|
+
+|<Pulsa [&&1] para coger las granadas.>|
+
+|<Pulsa [&&1] para colocar los explosivos.>|
+
+|<Pulsa [&&1] para coger los documentos.>|
+
+|<Pulsa [&&1] para recoger los explosivos.>|
+
+|<Pulsa [&&1] para recoger el cuaderno de la patrulla.>|
+
+|<Pulsa [&&1] para activar el ascensor.>|
+
+|<Pulsa [&&1] para recargar en cualquier momento.>|
+
+|<Para mirar por los prismáticos, pulsa [&&1].>|
+
+|<Pulsa [^3[{+binoculars}]^7] para mirar por los prismáticos y dirigir la artillería.>|
+
+|<Pulsa [^3[{+breath_binoculars}]^7] para mirar por los prismáticos y dirigir la artillería.>|
+
+|<Pulsa [^3[{+activate}]^7] para solicitar artillería.>|
+
+|<Pulsa [&&1].>|
+
+|<Pulsa [&&1] para coger el Panzerschreck.>|
+
+|<Pulsa [&&1] para usar la radio.>|
+
+|<Pulsa^3 &&1 ^7para colocar la baliza IR.>|
+
+|<Para colocar C4, acércate a la marca brillante de objetivo y mantén ^3[{+activate}]^7.>|
+
+|<Mantén pulsado^3 &&1 ^7para recoger a la piloto.>|
+
+|<Mantén pulsado^3 &&1 ^7para bajar por la cuerda.>|
+
+|<Lanza humo ^3[{+smoke}]^7 para acercarte con seguridad al vehículo enemigo.>|
+
+|<Acércate a la piloto y mantén pulsado ^3[{+usereload}]^7 para sacarla.>|
+
+|<Mantén pulsado^3 &&1 ^7para recoger el detonador.>|
+
+|<Mantén pulsado ^3[{+speed_throw}]^7 para poner en marcha la ametralladora.>|
+
+|<Usa ^3[{+melee}]^7 para iniciar o detener la cámara lenta.>|
+
+|<Pulsa ^3[{+attack}]^7 para dar las coordenadas de ataque.>|
+
+|<Apuñala al atacante banzai después de que te haya derribado. ^3( ^3[{+melee}]^7 )^7>|
+
+|<Apuñala al atacante banzai antes de que te apuñale. ^3( ^3[{+melee}]^7 )^7>|
+
+|<Apuñala al atacante banzai que está a punto de apuñalarte. ^3( ^3[{+melee}]^7 )^7>|
+
+|<Pulsa ^3[{gocrouch}]^7 para agacharte.>|
+
+|<Mantén pulsado ^3[{+activate}]^7 para bajarte del tanque.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+

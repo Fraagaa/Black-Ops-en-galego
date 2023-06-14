@@ -1,0 +1,174 @@
+|<^0^LTransmisión núm. 0. Designación: ECHO^L>|
+
+|<^0^LInforme de Seguridad Nacional: Prioridad 1^L>|
+
+|<^0^L17:00,^L ^C110 de noviembre de 1963^C>|
+
+|<^0^LRedirigir a^L ^C1Mason, Alex^C ^Lal^L ^C1Pentágono^C>|
+
+|<^1INTERROGATOR: ^7Le permitieron volver al servicio y lo llamaron al Pentágono.>|
+
+|<^1MASON: ^7Jason Hudson era mi nuevo enlace.>|
+
+|<^1INTERROGATOR: ^7¿Por qué al Pentágono?>|
+
+|<^1MASON: ^7Hudson no tenía permiso para decírmelo.>|
+
+|<^1INTERROGATOR: ^7Reconoció a Dragovich. De Cuba.>|
+
+|<^1MASON: ^7Era como si todos nos vigilaran... O me vigilaran.>|
+
+|<^1MASON: ^7No te podías fiar de nadie.>|
+
+|<^1MASON: ^7A veces, ni de ti mismo.>|
+
+|<^1INTERROGADOR: ^7Por eso estamos aquí, Mason. Para ver si puedo fiarme de usted.>|
+
+|<^1INTERROGATOR: ^7Lo tuvimos vigilado en todo momento.>|
+
+|<^1MASON: ^7No es posible.>|
+
+|<^1INTERROGATOR: ^7Estuve en el Pentágono.>|
+
+|<^1MASON: ^7Lo recuerdo. No hacía más que oír números. No me los sacaba de la cabeza.>|
+
+|<^1MASON: ^7Era como si algo me devorara...>|
+
+|<^1INTERROGATOR: ^7¿El qué, Mason?>|
+
+|<^1MASON: ^7No sé, era como si estuviera soñando... Paso dos, asciende de la oscuridad... Paso tres, lluvia de fuego...>|
+
+|<^1INTERROGATOR: ^7Se acercaba a su objetivo.>|
+
+|<^1INTERROGATOR: ^7Funcionaba.>|
+
+|<^1MASON: ^7Funcionaba.>|
+
+|<^1INTERROGADOR: ^7La programación de Dragovich estaba funcionando.>|
+
+|<^1HUDSON: ^7Hemos llegado.>|
+
+|<^1PENTAGON MP: ^7Su convoy está listo, señor. Bienvenido al Pentágono.>|
+
+|<^1HUDSON: ^7Llegamos tarde.>|
+
+|<^1PENTAGON MP: ^7Bienvenido, señor.>|
+
+|<^1MASON: ^7Secretario McNamara.>|
+
+|<^1MCNAMARA: ^7Su reputación lo precede, señor.>|
+
+|<^1GENERAL: ^7¡Acelere!>|
+
+|<^1MCNAMARA: ^7Lo que está en juego es nuestra seguridad nacional. No tiene miedo ni conciencia ni debilidades. Se apellida Dragovich. Creo que ustedes dos ya se conocen.>|
+
+|<^1DRAGOVICH: ^7Sufrirá más que en sus peores pesadillas...>|
+
+|<^1SWIFT: ^7¿Puede saberse qué coño pasa?>|
+
+|<^1SWIFT: ^7¿Puede saberse qué le pasa?>|
+
+|<^1MASON: ^7¿Cuándo lo mato?>|
+
+|<^1MCNAMARA: ^7Me alegro de que haya vuelto, Mason.>|
+
+|<^1MCNAMARA: ^7El VIP.>|
+
+|<^1CLERK: ^7Está aquí.>|
+
+|<^1MCNAMARA: ^7Tranquilo, no hay rusos.>|
+
+|<^1MCNAMARA: ^7La mejor gente del mundo, justo aquí. De forma continuada.>|
+
+|<^1MCNAMARA: ^7Dígale que estamos aquí.>|
+
+|<^1CHECKPOINT CLERK: ^7¿El código de hoy, señor?>|
+
+|<^1CHECKPOINT CLERK: ^7Autorización Próspero.>|
+
+|<^1MCNAMARA: ^7Héroes destacados.>|
+
+|<^1MCNAMARA: ^7Líderes destacados.>|
+
+|<^1MCNAMARA: ^7Ariel.>|
+
+|<^1ELEVATOR GUARD: ^7VIP.>|
+
+|<^1MCNAMARA: ^7Lo espera.>|
+
+|<^1MCNAMARA: ^7El centro neurálgico. Creo que no me equivoco al decir que la civilización ha sido salvada más de una vez en esta sala.>|
+
+|<^1HUDSON: ^7No falla. Sobrecogedor, ¿eh?>|
+
+|<^1MCNAMARA: ^7Aún no.>|
+
+|<^1AGENT: ^7Williams, ¿qué sabe sobre la operación Fénix? ¿Ya hemos descubierto la fuga?>|
+
+|<^1WILLIAMS: ^7Bueno... Sabemos de dónde sale, pero está enterrado. La fuga sigue activa...>|
+
+|<^1MCNAMARA: ^7Sicorax.>|
+
+|<^1MCNAMARA: ^7Este santuario fue construido en 1943. Apenas lo utilizamos.>|
+
+|<^1HUDSON: ^7Gracias, señor secretario.>|
+
+|<^1HUDSON: ^7Buena suerte, Mason.>|
+
+|<^1MCNAMARA: ^7Sr. presidente.>|
+
+|<^1PRESIDENT KENNEDY: ^7Agente Mason.>|
+
+|<^1MASON: ^7Es un honor, Sr. presidente.>|
+
+|<^1PRESIDENT KENNEDY: ^7Siéntense.>|
+
+|<^1PRESIDENT KENNEDY: ^7Tenemos un gran problema con los comunistas. Nuestra libertad y modo de vida están en peligro.>|
+
+|<^1PRESIDENT KENNEDY: ^7Nikita Dragovich.>|
+
+|<^1PRESIDENT KENNEDY: ^7Me han dicho que es usted nuestra mejor baza... Tendrá que serlo... Sr. Mason, ocúpese de ello.>|
+
+|<^1MASON: ^7Sí.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@#>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

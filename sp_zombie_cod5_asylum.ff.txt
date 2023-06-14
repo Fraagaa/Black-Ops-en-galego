@@ -1,0 +1,650 @@
+|<lever_handle_lod0>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_zombie_power_lever>|
+
+|<}v€­Š€€>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|< ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|< ÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<1º>|
+
+|< €,€Q1€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<Y]	€Åt	€e|	€>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<'ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<'ÿÿÿÿÿÿÿÿ>|
+
+|<">|
+
+|<$>|
+
+|<™¢>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿ>|
+
+|<mc/mtl_char_jap_impinf_gore_blend>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_char_jap_impinf_gore_limbs>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_char_ger_headz1_1>|
+
+|<Y€©;€e€i€Y€©;€e€i€Y€©;€e€i€ÿÿÿÿP>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_zombie_asylum_chair>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_char_ger_head1_1>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_zombie_asylum_chair_light_off>|
+
+|<Hay que activar la tirolina antes de usarla>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 950).>|
+
+|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2).>|
+
+|<Que comience el ataque>|
+
+|<Has sobrevivido al ataque>|
+
+|<Ronda>|
+
+|<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 10).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 20).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 50).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 100).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 100).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 200).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 250).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 500).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 750).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 100).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 200).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 250).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 750).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 100).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 200).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 250).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 750).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.000).>|
+
+|<Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para comprar Colt (coste: 50).>|
+
+|<Mantén ^3&&1^7 para comprar Colt pesado (coste: 100).>|
+
+|<Mantén ^3&&1^7 para comprar Nambu (coste: 50).>|
+
+|<Mantén ^3&&1^7 para comprar .357 Magnum (coste: 100).>|
+
+|<Mantén ^3&&1^7 para comprar Tokarev TT-30 (coste: 50).>|
+
+|<Mantén ^3&&1^7 para comprar Walther P38 (coste: 50).>|
+
+|<Mantén ^3&&1^7 para comprar Colt zombi (coste: 25).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Kar98k (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Kar98k + bayoneta (coste: 200).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant (coste: 200).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Springfield (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Springfield + bayoneta (coste: 200).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Arisaka (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Type 99 + bayoneta (coste: 200).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Gewehr 43 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar carabina M1 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar carabina M1 + bayoneta (coste: 600).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M1 Garand (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M1 Garand + bayoneta (coste: 600).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar SVT-40 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar granadas de fragmentación M2 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Molotov (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar granada de mango RGD-33 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Stielhandgranate (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar granada Type 97 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica + bayoneta (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica + bayoneta (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar PTRS-41 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica + bayoneta (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Arisaka + mira óptica (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Type 99 + mira óptica + bayoneta (coste: 750).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MP40 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar PPSh-41 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar STG-44 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Thompson (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Type 100 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar escopeta de dos cañones (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar escopeta recortada (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar escopeta M1897 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Browning M1919 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar BAR (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar DP-28 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar FG42 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar FG42 + mira óptica (coste: 1.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MG42 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M1 Garand + granada propulsada (coste: 1.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + granada propulsada (coste: 1.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Browning M1919 + patas (coste: 3.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar BAR + patas (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar DP-28 + patas (coste: 2.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar FG42 + patas (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 + patas (coste: 2.250).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Bazuca M9A1 (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MG42 + patas (coste: 3.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Panzerschrek (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar lanzallamas (coste: 3.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar munición de mortero (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar carga explosiva (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar arma de rayos (coste: 10.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar cuchillo Bowie (coste: &&1).>|
+
+|<¡Zombi abatido!>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Reanimación (coste: 1.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Cola rápida (coste: 3.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Doble tiro (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Titán (coste: 2.500).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar mejora de potenciación (coste: 5.000).>|
+
+|<Baja instantánea: >|
+
+|<¡Bombazo zombi!>|
+
+|<Doble puntuación: >|
+
+|<¡Munición máxima!>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 10).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 20).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 30).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 40).>|
+
+|<FIN DEL JUEGO>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 50).>|
+
+|<Has sobrevivido &&1 rondas.>|
+
+|<Has sobrevivido 1 ronda.>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 850).>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 750).>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 650).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera.>|
+
+|<Primero hay que activar la energía.>|
+
+|<Mantén ^3&&1^7 para activar la barrera de fuego (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 2500).>|
+
+|<Mantén ^3&&1^7 para activar barrera eléctrica (coste: 1.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Bouncing Bettys (coste: 1.000 - una única vez).>|
+
+|<Ya has adquirido las Bouncing Bettys.>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Bouncing Betty.>|
+
+|<Mantén ^3&&1^7 para activar la torreta de la fuente (coste: 750).>|
+
+|<Mantén ^3&&1^7 para conectar la electricidad.>|
+
+|<Berlín, Alemania>|
+
+|<Sanatorio de Wittenau >|
+
+|<Septiembre de 1945>|
+
+|<Mantén ^3&&1^7 para comprar arma Tesla (coste: 10).>|
+
+|<Mantén ^3&&1^7 para comprar granadas adhesivas (coste: 10).>|
+
+|<Mantén ^3&&1^7 para activar la trampa (coste: 750).>|
+
+|<Antes hay que abrir la puerta.>|
+
+|<Mantén ^3&&1^7 para cambiar de arma.>|
+
+|<Mantén ^3&&1^7 para activar la tirolina (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para activar la tirolina.>|
+
+|<Mantén ^3&&1^7 para comprar munición máxima (cuesta todo lo que tienes; mínimo 10.000)>|
+
+|<Mantén ^3&&1^7 para comprar >|
+
+|<Mantén ^3&&1^7 para iniciar el enlace con el ordenador central.>|
+
+|<Mantén ^3&&1^7 para teletransportarte al ordenador central (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para enlazar la plataforma de teletransporte al ordenador central.>|
+
+|<Enlace activado.>|
+
+|<Hay que activar la plataforma de teletransporte.>|
+
+|<Vuelve al núcleo.>|
+
+|<El teletransporte se está recuperando.>|
+
+|<Mantén ^3&&1^7 para activar la trampilla (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta.>|
+
+|<Mantén ^3&&1^7 para activar el elevador (coste: 500).>|
+
+|<Mantén ^3[{+activate}]^7 para usar la torreta (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para activar la torreta automática (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para construir el puente (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para coger el arma mejorada.>|
+
+|<Mantén ^3&&1^7 para usar el teletransporte (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para activar el teletransporte.>|
+
+|<Mantén ^3&&1^7 para usar la tirolina (coste: 1.000).>|
+
+|<Primero hay que activar la tirolina.>|
+
+|<Alrededores de Breslau, Alemania>|
+
+|<Hora: desconocida>|
+
+|<Fecha: desconocida>|
+
+|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2),
+             munición mejorada (4.500).>|
+
+|<Artillero antitanque>|
+
+|<Lanzallamas>|
+
+|<Fusilero>|
+
+|<Escopetero>|
+
+|<Francotirador>|
+
+|<Subfusilero>|
+
+|<Artillero de apoyo>|
+
+|<Browning M1919>|
+
+|<Acelerador de B115>|
+
+|<BAR>|
+
+|<Widow Maker>|
+
+|<Bazuca M9A1>|
+
+|<Colt M1911>|
+
+|<C-3000 b1at-ch35>|
+
+|<Escopeta de dos cañones>|
+
+|<Calibre 24 de largo alcance>|
+
+|<Recortada de dos cañones con empuñadura>|
+
+|<Caja de rapé>|
+
+|<FG42>|
+
+|<420 Impulsor>|
+
+|<Gewehr 43>|
+
+|<G115 Compresor>|
+
+|<Kar98k>|
+
+|<Armagedón>|
+
+|<Kar98k con mira óptica>|
+
+|<Carabina M1>|
+
+|<Widdershins RC-1>|
+
+|<M1 Garand>|
+
+|<M1000>|
+
+|<M1 Garand con lanzador>|
+
+|<Lanzallamas M2>|
+
+|<FIW refrigerado con nitrógeno
+>|
+
+|<Lanzagranadas M7>|
+
+|<El implosionador>|
+
+|<MG42>|
+
+|<Barracuda FU-A11>|
+
+|<Cóctel Molotov>|
+
+|<Mosin-Nagant con lanzador>|
+
+|<Mosin-Nagant con mira óptica>|
+
+|<MP40>|
+
+|<Posquemador>|
+
+|<Panzerschrek>|
+
+|<Longinus>|
+
+|<PPSh-41>|
+
+|<La parca>|
+
+|<PTRS-41>|
+
+|<El penetrador>|
+
+|<Escopeta M1897>|
+
+|<Tiro en la barriga>|
+
+|<Springfield con mira óptica>|
+
+|<STG-44>|
+
+|<Spatz-447 +>|
+
+|<.357 Magnum>|
+
+|<.357 Plus 1 K1L-u>|
+
+|<Thompson>|
+
+|<Gibs-o-matic>|
+
+|<Type 100>|
+
+|<1.001 samuráis>|
+
+|<Arisaka>|
+
+|<El destripador>|
+
+|<Arisaka con mira óptica>|
+
+|<Arma de rayos>|
+
+|<Wunderwaffe DG-2>|
+
+|<Bouncing Betty>|
+
+|<Fragmentación>|
+
+|<Stielhandgranate>|
+
+|<No quedan granadas básicas>|
+
+|<Springfield>|
+
+|<Arma de rayos X2 de Porter>|
+
+|<Wunderwaffe DG-3 JZ>|
+
+|<BAR desplegable>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+

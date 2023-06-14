@@ -1,0 +1,370 @@
+|<Nuevo texto>|
+
+|<Pulsa ^3[{+gostand}]^7 para sentarte.>|
+
+|<Pulsa ^3[{+activate}]^7 para salir.>|
+
+|<Mantén ^3[{+activate}]^7 para usar el ordenador.>|
+
+|<Partida guardada de Zork>|
+
+|<Mantén ^3[{+gostand}]^7 para omitir.>|
+
+|<Mantén  para omitir>|
+
+|<^1BROADCASTER: ^7Veintiuno, treinta y seis, cuarenta y nueve. Diecisiete, diecisiete, tres, cinco, seis. Veintiuno, treinta y seis, cuarenta y nueve. Diecisiete, diecisiete...>|
+
+|<^1HUDSON: ^7Tendrá que contarnos TODO.>|
+
+|<^1HUDSON: ^7¿Se cree muy fuerte porque no nos dice nada? Eso no es ser fuerte; es ser cabezota.>|
+
+|<^1HUDSON: ^7Me está haciendo perder la paciencia. No lo complique más aún.>|
+
+|<^1HUDSON: ^7No tiene amigos aquí. Está solo. Únicamente estoy yo.>|
+
+|<^1HUDSON: ^7Su destino depende de usted. Hable.>|
+
+|<^1HUDSON: ^7Sé que está ahí dentro. Sé que puede oírme.>|
+
+|<^1HUDSON: ^7Si habla, no tiene nada que temer. Pero si sigue callado... debe temer a todo...>|
+
+|<^1HUDSON: ^7No puede escapar. Resístase todo lo que quiera, pero estará aquí mientras yo lo desee.>|
+
+|<^1HUDSON: ^7Puedo hacer lo que quiera con usted. Nadie lo sabrá. Usted ha sido olvidado. Nunca ha existido.>|
+
+|<^1HUDSON: ^7Sí, sí... Sigamos adelante.>|
+
+|<^1HUDSON: ^7Piense. Esfuércese más. ¿Qué recuerda?>|
+
+|<^1HUDSON: ^7Eso es. Siga así.>|
+
+|<^1HUDSON: ^7Vamos. Ya casi está. Quiere marcharse de aquí, ¿no? ¡Haga algo!>|
+
+|<^1HUDSON: ^7Listos. Empiece a hablar.>|
+
+|<^1HUDSON: ^7Bien. Está listo para hablar.>|
+
+|<^1HUDSON: ^7Desde el principio, pero el tiempo apremia.>|
+
+|<^1HUDSON: ^7Vamos, eso es. Podemos aclarar este asunto entre todos.>|
+
+|<^1HUDSON: ^7¿Nos hemos perdido algo?>|
+
+|<^1HUDSON: ^7Ya estoy perdiendo la paciencia. Repitámoslo.>|
+
+|<^1HUDSON: ^7¿Hay algo en esto que no nos haya dicho?>|
+
+|<^1HUDSON: ^7¿Dónde está ahora? Vuelva aquí.>|
+
+|<^1HUDSON: ^7Fíjese en sus ojos. Está pensando en algo.>|
+
+|<^1HUDSON: ^7Creo que está intentando sentirse cómodo. Aquí no lo conseguirá, amigo.>|
+
+|<^1INTERROGATOR: ^7Se nos acaba el tiempo.>|
+
+|<^1INTERROGATOR: ^7Céntrese, Mason. Debe recordar.>|
+
+|<^1INTERROGATOR: ^7Puede detener esto ya mismo.>|
+
+|<^1INTERROGATOR: ^7Solo tiene que recordar.>|
+
+|<^1INTERROGATOR: ^7¿Cómo puede estar seguro de saber lo que ocurrió?>|
+
+|<^1INTERROGATOR: ^7Sabe por qué está aquí.>|
+
+|<^1INTERROGATOR: ^7Los números, Mason... ¿Qué significan?>|
+
+|<^1INTERROGATOR: ^7¿Por qué confió en él?>|
+
+|<^1INTERROGATOR: ^7¿Por qué lo hizo, Mason? ¿Por qué?>|
+
+|<^1INTERROGATOR: ^7Depende de usted, Mason. Todo depende de usted.>|
+
+|<^1INTERROGATOR: ^7Sé cuándo está mintiendo.>|
+
+|<^1INTERROGATOR: ^7Usted lo mató, Mason. Lo hizo. Nadie más. Solo usted.>|
+
+|<^1INTERROGATOR: ^7¿Para quién trabajaba?>|
+
+|<^1INTERROGATOR: ^7Dijo que era Cuba. ¿Qué pasó en Cuba?>|
+
+|<^1INTERROGATOR: ^7¿Estuvo involucrado Castro?>|
+
+|<^1INTERROGATOR: ^7Cualquier cosa. Lo que sea. Esfuércese.>|
+
+|<^1INTERROGATOR: ^7¿Por qué no lo mataron?>|
+
+|<^1INTERROGATOR: ^7¿Qué le dijeron?>|
+
+|<^1INTERROGATOR: ^7¿A quién iba a ver Castro?>|
+
+|<^1INTERROGATOR: ^7Estaban esperándolo... Lo sabe, ¿verdad?>|
+
+|<^1INTERROGATOR: ^7¿Estaba colaborando con los comunistas?>|
+
+|<^1INTERROGATOR: ^7Hay demasiadas lagunas en su historia, Mason.>|
+
+|<^1INTERROGATOR: ^7La única revuelta registrada en Vorkuta terminó en tres días... pacíficamente.>|
+
+|<^1INTERROGATOR: ^7¿Qué le pasó a Reznov?>|
+
+|<^1INTERROGATOR: ^7Solo. Lejos de casa. Demasiado fácil.>|
+
+|<^1INTERROGATOR: ^7¿El propio Kennedy dio la orden?>|
+
+|<^1INTERROGATOR: ^7¿Quién lo sabía?>|
+
+|<^1INTERROGATOR: ^7¿Alguien podría corroborar sus afirmaciones?>|
+
+|<^1INTERROGATOR: ^7¿Qué pasó después?>|
+
+|<^1INTERROGATOR: ^7¿Pudo confirmar la muerte?>|
+
+|<^1INTERROGATOR: ^7Pasó bastante tiempo buscando a Dragovich.>|
+
+|<^1INTERROGATOR: ^7¿Seguro que quería encontrarlo?>|
+
+|<^1INTERROGATOR: ^7¿Qué opinaba sobre la guerra de Vietnam?>|
+
+|<^1INTERROGATOR: ^7¿Pensaba que la participación de su país estaba justificada?>|
+
+|<^1INTERROGATOR: ^7¿Qué esperaba averiguar del desertor?>|
+
+|<^1INTERROGATOR: ^7¿Creyó que lo llevaría hasta Dragovich?>|
+
+|<^1INTERROGATOR: ^7¿Conocía la identidad del desertor con antelación?>|
+
+|<^1INTERROGATOR: ^7El desertor... ¿Lo conocía de antes?>|
+
+|<^1INTERROGATOR: ^7¿Considera que Viktor Reznov es su amigo?>|
+
+|<^1INTERROGATOR: ^7¿Qué le dijo el agente especial Hudson sobre el doctor Clarke?>|
+
+|<^1INTERROGATOR: ^7¿Qué cree que hacían allí los soviéticos?>|
+
+|<^1INTERROGATOR: ^7¿Vio los efectos del Nova 6?>|
+
+|<^1INTERROGATOR: ^7¿Hay algún motivo por el que decidió mantener al desertor con usted?>|
+
+|<^1INTERROGATOR: ^7¿Quién aprobó esta línea de acción?>|
+
+|<^1INTERROGATOR: ^7¿Fue este su primer encuentro con Kravchenko desde la operación Flashpoint?>|
+
+|<^1INTERROGATOR: ^7¿Fue este su primer encuentro con Dragovich desde la operación Flashpoint?>|
+
+|<^1INTERROGATOR: ^7¿Cree que los soviéticos estaban esperándolo?>|
+
+|<^1INTERROGATOR: ^7¿Quién estaba con usted en los túneles?>|
+
+|<^1INTERROGATOR: ^7¿Puede describir a las víctimas del Nova 6?>|
+
+|<^1INTERROGATOR: ^7¿Confiaba en el agente Hudson?>|
+
+|<^1INTERROGATOR: ^7¿Qué esperaba conseguir?>|
+
+|<^1INTERROGATOR: ^7Antes de la misión de Hudson, ¿se había reunido con Steiner?>|
+
+|<^1INTERROGATOR: ^7¿Qué tenía que ver Yamantau con el proyecto Nova?>|
+
+|<^1INTERROGATOR: ^7¿Capturaron al desertor con usted?>|
+
+|<^1INTERROGATOR: ^7¿Lo reconoció Kravchenko?>|
+
+|<^1INTERROGATOR: ^7¿Por qué lo dejaron con vida?>|
+
+|<^1INTERROGATOR: ^7¿Qué le dijo Reznov?>|
+
+|<^1INTERROGATOR: ^7¿Lo creyó?>|
+
+|<^1INTERROGATOR: ^7¿Confía en él?>|
+
+|<^1INTERROGATOR: ^7¿Sabe lo que hizo?>|
+
+|<^1INTERROGATOR: ^7¿Consiguió lo que esperaba?>|
+
+|<^1INTERROGATOR: ^7¿Lo mató?>|
+
+|<^1INTERROGADOR: ^7Despierte. ¡Despierte!>|
+
+|<^1MASON: ^7¿Dónde estoy...? ¿Dónde está Reznov?>|
+
+|<^1INTERROGADOR: ^7Va a responder nuestras preguntas. ¿Me entiende?>|
+
+|<^1MASON: ^7¿Quién coño es usted?>|
+
+|<^1INTERROGADOR: ^7Eso da igual. Lo importante es quién es usted. ¿Cómo se llama?>|
+
+|<^1MASON: ^7Que le den.>|
+
+|<^1MASON: ^7Piérdase.>|
+
+|<^1INTERROGATOR: ^7¿Dónde nació usted?>|
+
+|<^1MASON: ^7Béseme el culo.>|
+
+|<^1MASON: ^7¡Aarrgh!>|
+
+|<^1INTERROGADOR: ^7Usted se llama Alex Mason y nació en Fairbanks, Alaska. En 1961 formó parte de un equipo de asesinos de la CIA llamado Operación 40. ¿Es correcto?>|
+
+|<^1INTERROGATOR: ^7¿Es correcto?>|
+
+|<^1MASON: ^7Sí.>|
+
+|<^1INTERROGATOR: ^7¿Dónde está la emisora?>|
+
+|<^1MASON: ^7No sé de qué me habla...>|
+
+|<^1INTERROGADOR: ^7Los números, Mason... ¿Qué significan? ¿Desde dónde emiten?>|
+
+|<^1MASON: ^7¡No sé nada de ningún número!>|
+
+|<^1INTERROGATOR: ^7¿Qué hay de Dragovich? ¿Se acuerda de él? Denos lo que queremos y garantizaremos su seguridad...>|
+
+|<^1INTERROGADOR: ^7Empecemos por el principio. Cuba, 1961. Bahía de Cochinos. Sabemos que estuvo allí.>|
+
+|<^1MASON: ^7Fue una trampa. Sabían que íbamos. Ese cerdo, Dragovich...>|
+
+|<^1INTERROGATOR: ^7El ruso.>|
+
+|<^1MASON: ^7Sí. Estaba detrás de todo.>|
+
+|<^1INTERROGATOR: ^7¿Adónde lo llevó Dragovich?>|
+
+|<^1MASON: ^7A Rusia, a un campo de trabajo. Un agujero llamado Vorkuta... Dios mío...>|
+
+|<^1INTERROGADOR: ^7¿Qué demonios le hicieron, Mason?>|
+
+|<^1MASON: ^7Qué no me hicieron...>|
+
+|<^1MASON: ^7Pero sabía que Dragovich seguía vivo.>|
+
+|<^1INTERROGATOR: ^7Se convirtió en su obsesión. Se tiró los siguientes cinco años intentando localizarlo.>|
+
+|<^1MASON: ^7¡Estaba por todas partes! ¡No podía quitármelo de la cabeza! Igual que los otros...>|
+
+|<^1INTERROGATOR: ^7¿A qué otros se refiere?>|
+
+|<^1INTERROGADOR: ^7Perdemos el tiempo.>|
+
+|<^1INTERROGADOR: ^7Tiene alucinaciones.>|
+
+|<^1INTERROGADOR: ^7Le hemos metido tanta mierda que no sabe lo que dice.>|
+
+|<^1INTERROGATOR: ^7He doesn't even know what he's saying.>|
+
+|<^1MASON: ^7Voces... Rusos... En mi cabeza...>|
+
+|<^1INTERROGATOR: ^7No, quiero seguir insistiendo...>|
+
+|<^1MASON: ^7¡Eh! ¿Quiénes son ustedes? ¿Qué quieren de mí?>|
+
+|<^1WEAVER: ^7Queremos los números, Mason. Es lo que siempre hemos querido.>|
+
+|<^1INTERROGATOR: ^7Sabemos que Jason Hudson le dio a conocer la información que le sacó al Dr. Clarke en Kowloon.>|
+
+|<^1MASON: ^7Hudson dijo que Clarke estaba loco... Paranoico... Obsesionado con los números.>|
+
+|<^1INTERROGATOR: ^7Clarke creó Nova 6, una neurotoxina que destrozaba cuerpos instantáneamente.>|
+
+|<^1MASON: ^7Kravchenko, el lugarteniente de Dragovich, la probó en Vietnam. Con ellos, con nosotros, con los suyos... Le daba igual.>|
+
+|<^1MASON: ^7Los odiaba. Me lo repitió muchas veces: tenían que morir.>|
+
+|<^1INTERROGATOR: ^7¿Cuándo? ¿Cuándo se lo dijo?>|
+
+|<^1INTERROGADOR: ^7Usted confirmó que Kravchenko, el lugarteniente de Dragovich, actuaba en Laos.>|
+
+|<^1MASON: ^7Sí. Según Reznov, habían matado a más gente de la que podía contar.>|
+
+|<^1INTERROGATOR: ^7Escuche atentamente, Mason. Reznov no es de fiar. Le diga lo que le diga, cuente lo que cuente...>|
+
+|<^1MASON: ^7¡Pero nos dio el dossier de Clarke! ¡Nos llevó hasta Nova 6!>|
+
+|<^1INTERROGADOR: ^7Reznov no es quien usted cree.>|
+
+|<^1MASON: ^7¡No, es amigo mío! ¡Me ayudó a huir! Traicionados, olvidados, abandonados... Todos hermanos...>|
+
+|<^1INTERROGADOR: ^7¡Olvídese de Reznov y céntrese, Mason! ¡Se nos acaba el tiempo! ¡El mundo está al borde de la guerra!>|
+
+|<^1INTERROGATOR: ^7¡Olvídese de Reznov y céntrese, Mason! ¡Se nos acaba el tiempo! ¡El mundo está al borde de la guerra!>|
+
+|<^1MASON: ^7¿La guerra de quién? ¿Quién coño es usted?>|
+
+|<^1MASON: ^7Agggh... Joder... sigo... oyendo... números...>|
+
+|<^1MASON: ^7Agggh. Sigo... oyendo... números...>|
+
+|<^1INTERROGADOR: ^7Es una emisión, Mason. Los números son una emisión. Le han lavado el cerebro.>|
+
+|<^1INTERROGATOR: ^7Usted mató a Kravchenko y arrasó su base. ¿Mason?>|
+
+|<^1INTERROGATOR: ^7Woods y Bowman murieron. Aniquilaron a todo su equipo SOG. Solo sobrevivió usted, Mason. Nadie más.>|
+
+|<^1MASON: ^7No, Reznov sobrevivió.>|
+
+|<^1INTERROGATOR: ^7Solo usted, Mason.>|
+
+|<^1MASON: ^7No, Reznov sigue conmigo... desde Vorkuta.>|
+
+|<^1INTERROGADOR: ^7Después de salir del complejo de Kravchenko en Laos y de que mataran a su equipo, se rebeló.>|
+
+|<^1MASON: ^7¡No me rebelé! ¡Estaba continuando la misión!>|
+
+|<^1INTERROGATOR: ^7Desobedeció sus órdenes y fue a Isla Renacimiento. ¿Por qué?>|
+
+|<^1MASON: ^7Steiner estaba allí. Tenía que matarlo.>|
+
+|<^1INTERROGATOR: ^7Pero Hudson y la CIA ya iban de camino a Renacimiento a por Steiner. ¿Por qué decidió ir?>|
+
+|<^1MASON: ^7Dragovich. Kravchenko. Steiner. Todos tenían que morir.>|
+
+|<^1INTERROGATOR: ^7Queríamos vivo a Steiner. ¿Por qué tuvo que matarlo?>|
+
+|<^1MASON: ^7¡Me lo decían los números! ¿Por qué no lo entiende?>|
+
+|<CLASIFICADO>|
+
+|<Este mapa contiene material CLASIFICADO. Se necesita un permiso de nivel superior.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+

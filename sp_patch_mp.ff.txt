@@ -1,0 +1,569 @@
+|<NOM4D>|
+
+|<Todos los usuarios deben tener la misma versión del juego para jugar en Interconexión. Inicia sesión en Xbox LIVE para comprobar que dispones de la última actualización del juego.>|
+
+|<Los datos guardados no son compatibles con la versión actual del juego. Puedes continuar desde el principio de tu misión más reciente o salir a los menús.>|
+
+|<Colores alt.>|
+
+|<Las versiones del juego son incompatibles con el juego en línea en este modo.>|
+
+|<NOMBRE DEL SERVIDOR>|
+
+|<MÁXIMO DE JUGADORES>|
+
+|<PING MÍNIMO>|
+
+|<PING MÁXIMO>|
+
+|<CONTRASEÑA>|
+
+|<AUTOEQUILIBRAR EQUIPOS>|
+
+|<PERMITIR VOTACIONES>|
+
+|<PREPARTIDA>|
+
+|<JUGADORES MÍN. EN PREPARTIDA>|
+
+|<Act./Desact. comparar amigo>|
+
+|<PARTIDA>|
+
+|<COOPERATIVA>|
+
+|<ALTAVO. PEQUEÑOS/PORTÁTIL>|
+
+|<Se restablecerán los controles predeterminados del juego.>|
+
+|<Este es el nombre de tu servidor.>|
+
+|<Los jugadores que no alcancen el ping mínimo no podrán unirse.>|
+
+|<Los jugadores que superen el ping máximo no podrán unirse.>|
+
+|<Esta es la contraseña necesaria para unirse tu servidor.>|
+
+|<Comunícate durante la partida mediante charla de voz.>|
+
+|<Los jugadores se dividirán de forma equitativa entre los equipos.>|
+
+|<Permite que los jugadores voten para elegir el modo de juego y el mapa, o si expulsan a un jugador.>|
+
+|<Juega a Contra todos, sin puntos y sin PX hasta que empiece la partida.>|
+
+|<Cantidad de jugadores necesaria para terminar la prepartida y comenzar la partida.>|
+
+|<La cantidad máxima de jugadores que pueden unirse.>|
+
+|<Asegura el servidor contra tramposos.>|
+
+|<Ratón izq. para mover>|
+
+|<Rueda ratón para hacer zoom>|
+
+|<CONEXIÓN>|
+
+|<Has sido excluido de este servidor.>|
+
+|<No tienes invitaciones de juego recientes.>|
+
+|<^3F2^7>|
+
+|<^3F4^7 Act./Desact. HUD>|
+
+|<^3F1^7 Act./Desact. controles>|
+
+|<^3IZ.^7>|
+
+|<^3DE.^7>|
+
+|<^3AB.^7>|
+
+|<^3AR.^7>|
+
+|<Tus estadísticas no han podido validarse.>|
+
+|<Los datos de tu lista de partidas son más antiguos que los del host. Tienes que reiniciar el juego para obtener las nuevas listas de partidas.>|
+
+|<Los datos de tu lista de partidas son más recientes que los del host. No podrás jugar con ellos hasta que se reinicien para obtener las nuevas listas de partidas.>|
+
+|<Has sido expulsado automáticamente por un espacio reservado.>|
+
+|<No se puede cambiar de equipo ahora.>|
+
+|<Cambios de equipo permitidos durante &&1 segundos.>|
+
+|<Intensidad de Shader...>|
+
+|<INTENSIDAD DE SHADER>|
+
+|<CAMBIO DE EQUIPO>|
+
+|<Está permitido cambiar de equipo.>|
+
+|<EQUILIBRAR EQUIPOS>|
+
+|<Solo está permitido cambiar de equipo si se mantiene el equilibrio.>|
+
+|<PERIODO DE AGRUPACIÓN>|
+
+|<Periodo de tiempo inicial en el que se permiten los cambios de equipo y los equipos se equilibran automáticamente.>|
+
+|<COLOREAR AMIGOS EN EQUIPO>|
+
+|<Esta demo utiliza el mod ^3&&1^7.
+Debes cargar el mod para poder ver la demo.>|
+
+|<Este vídeo utiliza el mod ^3&&1^7.
+Debes cargar el mod para poder ver el vídeo.>|
+
+|<Estás usando el mod ^3&&1^7.
+Debes descargar el mod para poder ver la demo.>|
+
+|<Estás usando el mod ^3&&1^7.
+Debes descargar el mod para poder ver el vídeo.>|
+
+|<RADAR SIEMPRE ACTIVO>|
+
+|<Los enemigos aparecen en el radar.>|
+
+|<TEMPORIZADOR PREVIO>|
+
+|<Cambia la cantidad de tiempo antes de que empiece la partida.>|
+
+|<Quedan &&1 horas para poder disponer de acceso.>|
+
+|<Quedan &&1 días para poder disponer de acceso.>|
+
+|<Esta consola ha sido excluida permanentemente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+
+|<Esta consola ha sido excluida temporalmente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+
+|<Esta consola ha sido excluida permanentemente de usar esta función. Para más información: www.callofduty.com/blackops/help.>|
+
+|<Esta consola ha sido excluida temporalmente de usar esta función. Para más información: www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido permanentemente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido temporalmente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido permanentemente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido temporalmente de jugar en los servidores de Call of Duty: Black Ops. Para más información, visita www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido permanentemente de usar esta función. Para más información: www.callofduty.com/blackops/help.>|
+
+|<&&1 ha sido excluido temporalmente de usar esta función. Para más información, visita www.callofduty.com/blackops/help.>|
+
+|<Has sido excluido de aparecer en este marcador.>|
+
+|<Reiniciadas estadísticas por violación de política de seguridad en línea de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+
+|<puntuación>|
+
+|<ping>|
+
+|<nombre>|
+
+|<Gamertag no válido>|
+
+|<Esta consola ha sido excluida temporalmente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
+
+|<Esta consola ha sido excluida permanentemente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
+
+|<No se puede descargar automáticamente el archivo de juego:
+^3&&1^7
+El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más tarde.>|
+
+|<Comprobando partidas: &&1,&&2% - &&3/&&4 partidas buenas.>|
+
+|<Descargando ajustes>|
+
+|<Conectando...>|
+
+|<Elige para adquirir y descargar.>|
+
+|<No te has encontrado con ningún jugador recientemente.>|
+
+|<No tienes amigos.>|
+
+|<Ya has alcanzado el número máximo de marcadores permitidos.>|
+
+|<No puedes colocar 2 o más marcadores en el mismo punto de la línea temporal.>|
+
+|<Modo Libre>|
+
+|<Editar modo de cámara>|
+
+|<Cámara dolly>|
+
+|<Paquete comprado y descargado.>|
+
+|<Adquirido. Elige para descargar.>|
+
+|<ASCENSION>|
+
+|<Los muertos vivientes han invadido un cosmódromo soviético y se ha desatado un infierno. La cuenta atrás para el apocalipsis zombi ha comenzado.>|
+
+|<Editar marc. cámara dolly &&1>|
+
+|<Ajustes de velocidad>|
+
+|<Borrar marcador>|
+
+|<Borrar todos los marcadores>|
+
+|<¿Seguro que quieres borrar todos los marcadores de cámara?>|
+
+|<CALL OF THE DEAD>|
+
+|<Un grupo de intrépidos exploradores naufragados se encuentra aislado en un puesto avanzado de Siberia. Su sueño de descubrir el auténtico origen del misterioso elemento 115 se convertirá en una horrible pesadilla.>|
+
+|<Has cambiado a la cámara dolly, pero no has colocado ningún marcador. Asegúrate de colocarlos en Editar modo de cámara. >|
+
+|<Jugar como invitado>|
+
+|<PlayStation®Store>|
+
+|<TIENDA>|
+
+|<PAQ. MAPAS>|
+
+|<AVATARES>|
+
+|<TEMAS>|
+
+|<LIBRE>|
+
+|<ADQUIRIR CONFIRMACIÓN>|
+
+|<Reubicar cámara>|
+
+|<Marcador cámara &&1>|
+
+|<Modo veloc.>|
+
+|<Manual>|
+
+|<Fija>|
+
+|<Lineal>|
+
+|<Veloc.: x&&1>|
+
+|<VISTA P. CÁMARA &&1>|
+
+|<CÁMARA &&1>|
+
+|<^3BOTÓN DCHO. RATÓN^7 Modo cámara libre ant.>|
+
+|<^3BOTÓN IZDO. RATÓN^7 Modo cámara libre sig.>|
+
+|<Uno o más miembros de tu grupo tienen NAT estricta o moderada; puede afectar al Matchmaking.>|
+
+|<Recuperando...>|
+
+|<Shangri-La>|
+
+|<SHANGRI-LA>|
+
+|<Una exótica jungla oculta un templo legendario perdido en el que los no muertos acechan en un laberinto de cuevas subterráneas, trampas letales y oscuros secretos.>|
+
+|<Paquete de Zombis clásicos>|
+
+|<Paquete de Iniciativa>|
+
+|<Paquete Escalation>|
+
+|<Paquete Annihilation>|
+
+|<Paquete Rezurrection>|
+
+|<Duelo por equipos con HUD limitado, balas más dañinas y fuego amigo activado.>|
+
+|<Sálvese quien pueda. HUD limitado, balas más dañinas. Sin regeneración de salud ni inserciones tácticas.>|
+
+|<Tienes una ballesta, un cuchillo balístico y un tomahawk. Matar jugadores da puntos. Las bajas con tomahawk quitan todos los puntos.>|
+
+|<Una bala en la recámara, un cuchillo, 3 vidas y bajas instantáneas. Los jugadores reciben 1 bala después de cada baja.>|
+
+|<Mata jugadores con tu arma para avanzar a la siguiente. Gana el primero en conseguir una baja con cada arma.>|
+
+|<Las armas cambian cada 45 segundos. Mata jugadores para conseguir puntos. Recibe ventajas al conseguir rachas de bajas.>|
+
+|<P: &&1>|
+
+|<BLACK OPS SIN MODS>|
+
+|<Descarga los mods actuales.>|
+
+|<Estás a punto de cambiar a:>|
+
+|<Mod cargado desde: >|
+
+|<Moon>|
+
+|<MOON>|
+
+|<Creo que este país debería dedicarse a lograr, antes de que acabe la década, que un hombre aterrice en la Luna y regrese a la Tierra sano y salvo. (JFK, 1961)>|
+
+|<Tierra de nadie>|
+
+|<Tiempo sobrevivido>|
+
+|<BANDA SON. ZOMBIS>|
+
+|<OFERTA GRATUITA>|
+
+|<Visita >|
+
+|< para descargar la banda sonora de Call of Duty: zombis con 3 temas extra.>|
+
+|<Código de oferta: >|
+
+|<¡Visita callofduty.com/blackops/dlc/zombies para descargar la banda sonora de Call of Duty: zombis con 3 temas extra!>|
+
+|<CONTROLA LA POSICIÓN DEL CG>|
+
+|<TOMA EL CG>|
+
+|<DESTRUYE EL CG>|
+
+|<DEFIENDE EL CG>|
+
+|<Error al comunicarse con el host.>|
+
+|<CÁMARA DE MUERTE FINAL DE RONDA>|
+
+|<Mantén ^3&&1^7 para usar la tirolina.>|
+
+|<Ascensor estropeado>|
+
+|<Mantén ^3&&1^7 para usar el ascensor.>|
+
+|<Mantén ^3&&1^7 para llamar al ascensor.>|
+
+|<Mantén ^3&&1^7 para manejar la puerta.>|
+
+|<Límite de peso excedido>|
+
+|<Discovery>|
+
+|<Airbase>|
+
+|<Trainwreck>|
+
+|<Cubatown>|
+
+|<Cargo>|
+
+|<Berlin Wall>|
+
+|<Kowloon>|
+
+|<Stadium>|
+
+|<AIRBASE>|
+
+|<TRAINWRECK>|
+
+|<CUBATOWN>|
+
+|<CARGO>|
+
+|<BERLIN WALL>|
+
+|<KOWLOON>|
+
+|<STADIUM>|
+
+|<Descubre los misterios de este puesto de investigación alemán abandonado en la Antártida.>|
+
+|<Cuidado con la tierra de nadie mientras luchas por el control del Muro de Berlín.>|
+
+|<Nidos de francotirador y rutas escurridizas en los tejados tormentosos de Kowloon.>|
+
+|<Combate frenético dentro y alrededor del estadio de hockey del Chance Stadium.>|
+
+|<Hay que comprar una descarga de contenido para usar esta lista de partidas.>|
+
+|<No todos los miembros de tu grupo tienen el contenido necesario para jugar en este mapa.>|
+
+|<MODOS DE JUEGO>|
+
+|<Personaliza tus propias reglas del modo de juego.>|
+
+|<VOTACIÓN NO PERMITIDA>|
+
+|<CALL OF DUTY: ELITE>|
+
+|<CONÉCTATE>|
+
+|<Forma grupos y clanes con tus amigos o conoce a nuevos jugadores de Call of Duty.>|
+
+|<COMPITE>|
+
+|<Gana premios y fama en ligas y eventos oficiales para jugadores de todos los niveles de habilidad.>|
+
+|<MEJORA>|
+
+|<Accede a información y mejora tu juego: estadísticas, mapas de calor y trucos de expertos.>|
+
+|<ALÍSTATE.>|
+
+|<Introduce una dirección de correo electrónico válida para acceder a la lista de invitaciones de la beta.>|
+
+|<Las direcciones de correo se borran semanalmente. Actualmente, Call of Duty ELITE está disponible solo en inglés.>|
+
+|<REGÍSTRATE PARA VER CALL OF DUTY: ELITE EN PRIMICIA>|
+
+|<ENVIAR CORREO ELECTRÓNICO>|
+
+|<EDITAR CORREO ELECTRÓNICO>|
+
+|<MAPAS>|
+
+|<MAPAS DDC>|
+
+|<Gracias por unirte a la versión ELITE de Call of Duty. Recibirás instrucciones para completar la inscripción en la dirección de correo electrónico que has proporcionado. Para obtener más información, visita CallofDuty.com/Elite.>|
+
+|<CORREO ELECTRÓNICO RECHAZADO>|
+
+|<Stockpile>|
+
+|<STOCKPILE>|
+
+|<Lucha en los estrechos interiores y las largas carreteras de un pueblo soviético.>|
+
+|<Hotel>|
+
+|<HOTEL>|
+
+|<Combate para controlar la azotea de un ostentoso hotel cubano.>|
+
+|<Silo>|
+
+|<SILO>|
+
+|<Surge el conflicto cerca de unas instalaciones de lanzamiento de misiles. Combates a corta distancia y ataques por los flancos.>|
+
+|<Para competir en este marcador, debes haber conseguido prestigio al menos una vez y disponer de &&1  para gastar.>|
+
+|<Uno o varios miembros de tu grupo no disponen de este mapa. >|
+
+|<Zoo>|
+
+|<ZOO>|
+
+|<Prepárate para unos tiroteos a larga distancia en este zoo soviético abandonado.>|
+
+|<Convoy>|
+
+|<CONVOY>|
+
+|<Intenso combate tras una emboscada soviética en suelo americano.>|
+
+|<Hangar 18>|
+
+|<HANGAR 18>|
+
+|<Las fuerzas soviéticas se han infiltrado en unas instalaciones estadounidenses de alto secreto.>|
+
+|<Drive-In>|
+
+|<DRIVE-IN>|
+
+|<Peleas a corta distancia y potentes apoyos en un cine al aire libre abandonado.>|
+
+|<Firebase>|
+
+|<FIREBASE>|
+
+|<Pelea en una base de artillería.>|
+
+|<Hazard>|
+
+|<HAZARD>|
+
+|<Atento a los francotiradores mientras luchas a lo largo de la calle de este campo de golf sobre un acantilado.>|
+
+|<Salvage>|
+
+|<SALVAGE>|
+
+|<Dos bandos luchan por la supremacía en un desguace.>|
+
+|<Snow Mine>|
+
+|<SNOW MINE>|
+
+|<Combate invernal en una mina abandonada. Bueno para modos de juego basados en objetivos.>|
+
+|<War Museum>|
+
+|<WAR MUSEUM>|
+
+|<Batalla por el control del museo. Intensos tiroteos en interiores.>|
+
+|<DISCOVERY>|
+
+|<Ocultar descargas>|
+
+|<DPE EXTREMO>|
+
+|<6,5 MINUTOS>|
+
+|<Mostrar descarga>|
+
+|<Descarga>|
+
+|<Adquirido>|
+
+|<Comprado>|
+
+|<Lo tengo>|
+
+|<^3F5^7 Insertar marcador de cámara>|
+
+|<^3F5^7 Editar marcador de cámara>|
+
+|<^3F5^7 Colocar marcador de cámara>|
+
+|<Error de autenticación de Steam.>|
+
+|<No tienes este mapa. Puedes descargar paquetes de mapas en la tienda de Steam.>|
+
+|<Te faltan algunos archivos referidos por el servidor:
+^3&&1^7
+Ve al menú Opciones multijugador para permitir las descargas.>|
+
+|<Este archivo es distinto al del servidor:
+
+ ^3&&1^7>|
+
+|<Se necesita un mod para usar este cheat.>|
+
+|<DESACTIVAR EMBLEMAS>|
+
+|<Existe un archivo local con la suma de verificación incorrecta.>|
+
+|<Existe un archivo local con el tamaño incorrecto.>|
+
+|<Esta cuenta ha sido excluida permanentemente de los servidores de Call of Duty: Black Ops.>|
+
+|<TIERRA DE NADIE (INDIVIDUAL)>|
+
+|<La banda sonora de Call of Duty: Zombis, junto con 3 temas extra, está disponible en la carpeta de instalación, en la subcarpeta Banda sonora.>|
+
+|<Abrir carpeta de banda sonora>|
+
+|<Desconocido>|
+
+|<No tienes este mapa. Puedes descargar paquetes de mapas en la tienda de Steam.
+
+Necesitas: ^3&&1^7
+>|
+
+|<Tirolina>|
+

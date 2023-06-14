@@ -1,0 +1,915 @@
+|<Tus actos han causado la muerte de tu equipo. >|
+
+|<Tirolina>|
+
+|<Complejo>|
+
+|<Bar>|
+
+|<Recogida>|
+
+|<Usa la tirolina para infiltrarte en el complejo>|
+
+|<Encuentra a Castro y mátalo>|
+
+|<Sigue>|
+
+|<Objetivo>|
+
+|<Escapa del complejo>|
+
+|<Capturado>|
+
+|<Huida>|
+
+|<Llega al aeródromo >|
+
+|<Aeródromo>|
+
+|<Incursión>|
+
+|<Mansión>|
+
+|<Llega al avión>|
+
+|<Baja por la cuerda al aeródromo>|
+
+|<Conducir>|
+
+|<Usa el ZPU para despejar la pista>|
+
+|<Usar>|
+
+|<Apoyo>|
+
+|<Huye de la policía>|
+
+|<Patio>|
+
+|<^LTransmisión núm. 15-18. Designación: X-RAY^L>|
+
+|<^LEquipo OP 40 insertado con^L ^Llas fuerzas de^L ^C1Bahía de Cochinos^C ^C1en Cuba^C>|
+
+|<^LWoods, Bowman y ^L^C1Mason^C ^Lse reunirán con su contacto en Santa María^L>|
+
+|<Castro te ha matado.>|
+
+|<Mantén ^3[{+activate}]^7 para tirolina. >|
+
+|<Pulsa ^3[{+melee}]^7 detrás del guardia para eliminarlo.>|
+
+|<¡Carlos ha muerto!>|
+
+|<Asesinato de Castro>|
+
+|<Asesinar>|
+
+|<Mantén ^3[{+activate}]^7 para bajar por la cuerda.>|
+
+|<Cuerpo a cuerpo>|
+
+|<Cuidado con la cabeza. >|
+
+|<Subir>|
+
+|<¡Aquí corres peligro! ¡Súbete al avión!>|
+
+|<¡Súbete al avión y huye!>|
+
+|<Impide que el avión sufra daños>|
+
+|<No has logrado seguir a tu equipo.>|
+
+|<Has matado a tu pelotón.>|
+
+|<Tu pelotón ha muerto.>|
+
+|<No has logrado proteger el avión.>|
+
+|<^L05:00,^L ^C1 17 de abril de 1961 ^C>|
+
+|<^LObjetivo: Fidel Castro^L>|
+
+|<Pelotón>|
+
+|<Pulsa ^3[{+activate}]^7 para abrir el cofre de armas.>|
+
+|<Calle>|
+
+|<Sal de las calles>|
+
+|<Pulsa ^3[{+attack}]^7 para disparar.>|
+
+|<Mantén ^3[{+attack}]^7 para conducir.>|
+
+|<Mantén ^3[{+speed_throw}]^7 para dar marcha atrás.>|
+
+|<Callejón>|
+
+|<Pulsa ^3[{+stance}]^7 para esquivar.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para apuntar con la mira.>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar el lanzagranadas M203.>|
+
+|<Pulsa ^3[{+breath_sprint}]^7 para esprintar.>|
+
+|<^1INTERROGADOR: ^7Se nos va. ¡Mason! Había huido de la milicia. 
+La invasión de Bahía de Cochinos había comenzado. Se dirigía hacia el complejo de Castro.>|
+
+|<^1INTERROGADOR: ^7Lo perdemos. Vuelva a hacerlo. No nos queda otra.>|
+
+|<^1MASON: ^7¡Aarrrgh! ¿Qué coño?>|
+
+|<^1MASON: ^7¡Aarrrgh! ¿Qué...?>|
+
+|<^1MASON: ^7Lev Kravchenko. Sádico, malvado...>|
+
+|<^1MASON: ^7Pero nada comparado con Dragovich.>|
+
+|<^1MASON: Dragovich lo ha logrado, sin duda.>|
+
+|<^1WOODS: ^7La policía llegará pronto... Démonos prisa.>|
+
+|<^1CARLOS: ^7Woods. Cuánto tiempo.>|
+
+|<^1WOODS: ^7¿Y la evacuación?>|
+
+|<^1CARLOS: ^7Tendremos transporte esperando. Solo tiene que llegar allí.>|
+
+|<^1WOODS: ^7Excelente.>|
+
+|<^1WOODS: ^7Tenemos compañía.>|
+
+|<^1MASON: ^7Tranquilo, Woods. Espere.>|
+
+|<^1MILITIA CAPTAIN: ^7He dicho que de dónde es.>|
+
+|<^1MILITIA CAPTAIN: ^7¡Le estoy hablando!>|
+
+|<^1CARLOS: ^7Muy bien... Todo listo.>|
+
+|<^1CARLOS: ^7Las armas están listas.>|
+
+|<^1MASON: ^7Equípense.>|
+
+|<^1CARLOS: ^7Tenga, amigo mío.>|
+
+|<^1WOODS: ^7Lamento lo del bar, Carlos.>|
+
+|<^1CARLOS: ^7No pasa nada. Mis hombres se encargarán de los cuerpos.>|
+
+|<^1CARLOS: ^7La policía.>|
+
+|<^1BOWMAN: ^7Salen de sus vehículos, armados con escopetas.>|
+
+|<^1CARLOS: ^7Se esperan la invasión.>|
+
+|<^1WOODS: ^7Que le den a la invasión. Hemos venido a por Castro.>|
+
+|<^1WOODS: ^7Estamos aquí por Castro.>|
+
+|<^1WOODS: ^7Bowman, Carlos, fuego de cobertura. Nos abriremos paso por las calles.>|
+
+|<^1WOODS: ^7Mason, conmigo.>|
+
+|<^1CARLOS: ^7Coja lo que necesiten.>|
+
+|<^1CARLOS: ^7Muy bien... Las calles deberían permanecer vacías. El gobierno ha ordenado a los cubanos que permanezcan en casa, listos para luchar.>|
+
+|<^1WOODS: ^7Esperan la invasión... no lo que vamos a hacer.>|
+
+|<^1MASON: ^7En marcha...>|
+
+|<^1WOODS: ^7La policía.>|
+
+|<^1CARLOS: ^7Lacayos comunistas...>|
+
+|<^1WOODS: ^7Se interponen en nuestro camino.>|
+
+|<^1WOODS: ^7¡Dispare!>|
+
+|<^1WOODS: ^7¡Acaben con ellos! ¡Avancemos!>|
+
+|<^1WOODS: ^7¡Bowman, por la derecha!>|
+
+|<^1BOWMAN: ^7¡Voy!>|
+
+|<^1WOODS: ^7¡Venga, adelante!>|
+
+|<^1BOWMAN: ^7¡Refuerzos!>|
+
+|<^1WOODS: ^7Mierda... ¡Son demasiados!>|
+
+|<^1WOODS: ^7¡Son demasiados!>|
+
+|<^1WOODS: ^7Por aquí. Al callejón.>|
+
+|<^1WOODS: ^7¡Bowman, cúbranos!>|
+
+|<^1WOODS: ^7¡Al coche!>|
+
+|<^1CARLOS: ^7Bien... Aquí es donde debo dejarlos, amigos...>|
+
+|<^1CARLOS: ^7¡Nos vemos en el aeródromo! ¡Suerte, amigos!>|
+
+|<^1CARLOS: ^7El camino es por ahí. Los llevará al complejo de Castro...>|
+
+|<^1CARLOS: ^7Asegúrense de meterle una bala entre ceja y ceja.>|
+
+|<^1CARLOS: ^7Bien. Los veré en el campo de aterrizaje. Buena suerte.>|
+
+|<^1WOODS: ^7Y a usted, Carlos... Vámonos.>|
+
+|<^1MASON: ^7Venga... ¡Vamos!>|
+
+|<^1WOODS: ^7¡Dese prisa, Mason!>|
+
+|<^1MASON: ^7¡Sí!>|
+
+|<^1WOODS: ^7¡Venga! ¡Va!>|
+
+|<^1WOODS: ^7¡Joder!>|
+
+|<^1WOODS: ^7¡Quítense de en medio, joder!>|
+
+|<^1WOODS: ^7¡Aparten!>|
+
+|<^1BOWMAN: ^7¡Un control!>|
+
+|<^1MASON: ^7¡Lo veo!>|
+
+|<^1WOODS: ^7¡A fondo, Mason!>|
+
+|<^1WOODS: ^7Justo a tiempo.>|
+
+|<^1WOODS: ^7Espero que esos pilotos cubanos estén a la altura... Si no, esta revolución va a ser muy corta.>|
+
+|<^1WOODS: ^7Ahí está el complejo... Carlos y sus hombres deberían atacar el aeródromo en cualquier...>|
+
+|<^1WOODS: ^7Ahí está la señal. Ahora.>|
+
+|<^1WOODS: ^7Mason, por aquí.>|
+
+|<^1WOODS: ^7Venga... Allá vamos.>|
+
+|<^1WOODS: ^7No hay tiempo que perder.>|
+
+|<^1WOODS: ^7Deprisa.>|
+
+|<^1WOODS: ^7Mason, elimínelo.>|
+
+|<^1WOODS: ^7Bien. Están concentrados en el aeródromo.>|
+
+|<^1WOODS: ^7Convoy al frente. No disparen.>|
+
+|<^1WOODS: ^7Esperen... Déjenlos pasar.>|
+
+|<^1WOODS: ^7Bowman, flanco izquierdo.>|
+
+|<^1WOODS: ^7Mason, elimine la torre.>|
+
+|<^1WOODS: ^7Castro es un paranoico... Es comprensible; llevamos tres años intentando acabar con él.>|
+
+|<^1MASON: ^7Hoy lo conseguiremos.>|
+
+|<^1WOODS: ^7En marcha.>|
+
+|<^1WOODS: ^7Subamos las escaleras.>|
+
+|<^1BOWMAN: ^7Parece que estaban esperándonos.>|
+
+|<^1WOODS: ^7Adentro.>|
+
+|<^1WOODS: ^7¡Mason!>|
+
+|<^1WOODS: ^7¡No se duerma, Mason!>|
+
+|<^1WOODS: ^7Bowman, al tejado.>|
+
+|<^1WOODS: ^7Si ve algo, denos un grito.>|
+
+|<^1BOWMAN: ^7Entendido.>|
+
+|<^1WOODS: ^7Mason, conmigo. Buscaremos a Castro de habitación en habitación.>|
+
+|<^1WOODS: ^7Bien. Prepárese.>|
+
+|<^1WOODS: ^7¿A qué espera? Venga.>|
+
+|<^1WOODS: ^7¿Listo?>|
+
+|<^1MASON: ^7Listo.>|
+
+|<^1WOODS: ^7Bowman, el nido está vacío. Nos vamos.>|
+
+|<^1BOWMAN: ^7Dense prisa. Los B-26 están a punto de iniciar el bombardeo.>|
+
+|<^1WOODS: ^7El blanco debería estar ahí.>|
+
+|<^1MASON: ^7Vale.>|
+
+|<^1WOODS: ^7¿Pero qué coño...?>|
+
+|<^1WOODS: ^7¿Qué diablos...?>|
+
+|<^1WOODS: ^7Bowman, ¿qué ocurre?>|
+
+|<^1BOWMAN: ^7Los B-26... Están cayendo por todas partes.>|
+
+|<^1WOODS: ^7No joda...>|
+
+|<^1WOODS: ^7No puede ser...>|
+
+|<^1WOODS: ^7Aguante. Habremos acabado en...>|
+
+|<^1WOODS: ^7Movimiento dentro. En posición.>|
+
+|<^1WOODS: ^7¿Está listo para cambiar la historia?>|
+
+|<^1MASON: ^7Hagámoslo.>|
+
+|<^1WOODS: ^7Puta loca... ¿Usa un escudo humano y, aun así, lo protege?>|
+
+|<^1WOODS: ^7¿Usa un escudo humano y, aun así, lo protege?>|
+
+|<^1MASON: ^7Los seguidores de Castro sienten una devoción fanática por él...>|
+
+|<^1MASON: ^7^Los seguidores de Castro son fanáticos. Darían la vida por él.>|
+
+|<^1WOODS: ^7Comunistas... Nunca los entenderé.>|
+
+|<^1WOODS: ^7Bowman, el blanco ha caído.>|
+
+|<^1BOWMAN: ^7Carlos tiene malas noticias. Apenas pueden resistir... ¡Tienen a la mitad del ejército cubano!>|
+
+|<^1BOWMAN: ^7¡Y esos B-26 no le dan a nada!>|
+
+|<^1BOWMAN: ^7Voy al pasillo principal.>|
+
+|<^1WOODS: ^7Vale. Vamos en camino.>|
+
+|<^1WOODS: ^7¡Salgamos de aquí antes de que esos malditos aviones nos hagan pedazos!>|
+
+|<^1WOODS: ^7¡Vamos! ¡Fuera!>|
+
+|<^1BOWMAN: ^7¡Esto se pone feo! ¡Son demasiados!>|
+
+|<^1BOWMAN: ^7¡Carlos debería estar aquí!>|
+
+|<^1WOODS: ^7Carlos... ¿Qué está pasando?>|
+
+|<^1WOODS: ^7¿Carlos?>|
+
+|<^1BOWMAN: ^7¡Aquí vienen, por el muro este!>|
+
+|<^1CARLOS: ^7¿Pensaba que lo abandonaría, Woods?>|
+
+|<^1CARLOS: ^7Mis hombres cubrirán la huida.>|
+
+|<^1CARLOS: ^7Vamos... ¡Deprisa, amigos!>|
+
+|<^1WOODS: ^7Bendito sea, Carlos.>|
+
+|<^1BOWMAN: ^7Por aquí... ¡A los campos de caña!>|
+
+|<^1WOODS: ^7¡Por la puerta! ¡Vamos!>|
+
+|<^1WOODS: ^7¡Mason! ¡No hay tiempo que perder!>|
+
+|<^1WOODS: ^7Ahí está el aeródromo.>|
+
+|<^1BOWMAN: ^7Esperemos que la evacuación esté asegurada.>|
+
+|<^1WOODS: ^7De momento ha cumplido...>|
+
+|<^1BOWMAN: ^7¡A los rebeldes les están dando una paliza!>|
+
+|<^1WOODS: ^7Será mejor que bajemos... Vamos...>|
+
+|<^1WOODS: ^7¡Venga!>|
+
+|<^1CARLOS: ^7¡Woods! La situación es crítica... ¡Tienen que salir de aquí!>|
+
+|<^1WOODS: ^7¿El transporte está asegurado?>|
+
+|<^1CARLOS: ^7El avión está listo... ¡pero nos harán pedazos al despegar!>|
+
+|<^1WOODS: ^7Cada cosa a su tiempo, hermano.>|
+
+|<^1WOODS: ^7Nos vamos... ¡Venga!>|
+
+|<^1CARLOS: ^7¡Deprisa!>|
+
+|<^1CARLOS: ^7¡Corran!>|
+
+|<^1CARLOS: ^7¡No podemos esperar más!>|
+
+|<^1WOODS: ^7¡Mason! ¡Vamos!>|
+
+|<^1WOODS: ^7¡Denos cobertura, Mason!>|
+
+|<^1WOODS: ^7¡Debemos mantener este avión de una pieza!>|
+
+|<^1BOWMAN: ^7¡Están intentando destrozarnos los motores!>|
+
+|<^1WOODS: ^7¡Mierda! ¡Calibre 50!>|
+
+|<^1WOODS: ^7¡Calibre 50!>|
+
+|<^1WOODS: ^7¡Mason! ¡Destruya los ZPU!>|
+
+|<^1BOWMAN: ^7¡No dejan que nos vayamos por las buenas!>|
+
+|<^1WOODS: ^7¡RPG en la torre!>|
+
+|<^1BOWMAN: ^7¡Mierda! ¡Nos han dado!>|
+
+|<^1BOWMAN: ^7¡Nos han dado!>|
+
+|<^1BOWMAN: ^7¡Este cacharro aguanta por los pelos!>|
+
+|<^1BOWMAN: ^7¡Woods, tenemos un problema!>|
+
+|<^1BOWMAN: ^7¡Esos putos vehículos están bloqueando la pista!>|
+
+|<^1BOWMAN: ^7¡Esos vehículos están bloqueando la pista!>|
+
+|<^1MASON: ^7Entendido, Bowman.>|
+
+|<^1WOODS: ^7¡No hay espacio suficiente para despegar!>|
+
+|<^1MASON: ^7¡Yo me ocupo!>|
+
+|<^1WOODS: ^7Mason, ¿está loco? Lo van a destrozar.>|
+
+|<^1WOODS: ^7Mason, ¿qué está haciendo?>|
+
+|<^1MASON: ^7No hay otra opción. Ya sabía a qué me exponía.>|
+
+|<^1WOODS: ^7Maldito sea, Mason.>|
+
+|<^1MASON: ^7Pista despejada.>|
+
+|<^1MASON: ^7No pasa nada. ¡Lárguense de aquí!>|
+
+|<^1MASON: ^7Está muerto... Lo hemos matado...>|
+
+|<^1CASTRO: ^7No... Mataron a un doble... ¿Cree que no conocíamos su plan?>|
+
+|<^1DRAGOVICH: ^7Siempre lo sabemos...>|
+
+|<^1CASTRO: ^7Haga con él lo que quiera, general Dragovich... Es mi regalo en honor a nuestra nueva relación...>|
+
+|<^1CASTRO: ^7Tan solo... asegúrese de que sufra...>|
+
+|<^1DRAGOVICH: ^7Sufrirá más que en sus peores pesadillas...>|
+
+|<^1DRAGOVICH: ^7Tengo planes para usted, americano...>|
+
+|<^1CARLOS: ^7¡Estoy acorralado!>|
+
+|<^1WOODS: ^7¡Ya vamos!>|
+
+|<^1BOWMAN: ^7¡Ya vamos!>|
+
+|<^1CARLOS: ^7¡No podré detenerlos mucho más!>|
+
+|<^1CARLOS: ^7Muy bien. ¡En marcha!>|
+
+|<^1WOODS: ^7¡Detrás de nosotros!>|
+
+|<^1BOWMAN: ^7¡Detrás de nosotros!>|
+
+|<^1WOODS: ^7Atención...>|
+
+|<^1WOODS: ^7¡No podemos estar aquí! ¡Avancen!>|
+
+|<^1WOODS: ^7¡Deprisa!>|
+
+|<^1WOODS: ^7¡Avancen!>|
+
+|<^1WOODS: ^7¡Aquí estamos acorralados!>|
+
+|<^1WOODS: ^7Hay que irse de aquí.>|
+
+|<^1WOODS: ^7No se alejen.>|
+
+|<^1BOWMAN: ^7No se separen.>|
+
+|<^1WOODS: ^7Mason, vaya delante.>|
+
+|<^1WOODS: ^7¡Mason, coja la cuerda, vamos!>|
+
+|<^1WOODS: ^7¡Mason, hay que irse!>|
+
+|<^1WOODS: ^7¡Engánchese!>|
+
+|<^1WOODS: ^7¡Mason, los RPG!>|
+
+|<^1WOODS: ^7¡Mason, proteja el avión!>|
+
+|<^1WOODS: ^7¡Los RPG nos están destrozando!>|
+
+|<^1WOODS: ^7¡No resistiremos mucho más, Mason!>|
+
+|<^1WOODS: ^7¡Acabe con los putos RPG, Mason!>|
+
+|<^1WOODS: ^7¡Mason! ¡RPG!>|
+
+|<^1WOODS: ^7¡Nos han dado!>|
+
+|<^1WOODS: ^7¡Venga, Mason!>|
+
+|<^1BOWMAN: ^7¡Venga, Mason!>|
+
+|<^1WOODS: ^7¡Dese prisa!>|
+
+|<^1BOWMAN: ^7¡Dese prisa!>|
+
+|<^1WOODS: ^7¡Adelante!>|
+
+|<^1BOWMAN: ^7¡Adelante!>|
+
+|<^1WOODS: ^7¡Larguémonos pitando de aquí! ¡Venga!>|
+
+|<^1WOODS: ^7¡Vamos!>|
+
+|<^1WOODS: ^7¡Cúbrame!>|
+
+|<^1WOODS: ^7¡BTR!>|
+
+|<^1WOODS: ^7¡Acabe con la calibre 50!>|
+
+|<^1BOWMAN: ^7¡Acabe con la calibre 50!>|
+
+|<^1WOODS: ^7Suba por las escaleras. ¡Vamos!>|
+
+|<^1BOWMAN: ^7Despejado.>|
+
+|<^1BOWMAN: ^7Recibido.>|
+
+|<^1WOODS: ^7Vamos.>|
+
+|<^1WOODS: ^7Despejado.>|
+
+|<^1BOWMAN: ^7Mason, elimínelo.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@#¦ôB­m1YÉ—è>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+

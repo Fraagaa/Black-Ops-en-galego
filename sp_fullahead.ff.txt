@@ -1,0 +1,1053 @@
+|<E9: Huida
+>|
+
+|<E8: En cubierta>|
+
+|<E7: En el puente (pendiente)>|
+
+|<E7: Hoy no voy a morir>|
+
+|<E6: Traición>|
+
+|<E5: Un infierno gélido>|
+
+|<E4: Hacia la oscuridad>|
+
+|<E3: Asuntos pendientes, final (pendiente)>|
+
+|<E3: Asuntos pendientes, hangar (pendiente)>|
+
+|<E3: Asuntos pendientes>|
+
+|<E1: La cima del mundo>|
+
+|<^LTransmisión núm. 23-8-15. Designación: X-RAY^L>|
+
+|<^LLos soviéticos iniciaron la operación Olympus al terminar la guerra.^L>|
+
+|<^L3er Ejército de Choque, operaciones especiales enviado al^L ^C1círculo polar ártico^C>|
+
+|<^C1Victor Reznov^C ^Ldestacado con la unidad 45, último alias conocido tras la acción: "El Lobo"^L>|
+
+|<^L12:00,^L ^C129 de octubre de 1945^C>|
+
+|<Reagrúpate en el vehículo>|
+
+|<Sal de la zona>|
+
+|<Rescata a tu camarada>|
+
+|<Asalta la base alemana y localiza a Steiner>|
+
+|<Recoge granadas de humo.>|
+
+|<Marca el objetivo con una granada de humo.>|
+
+|<Asegura las armas alemanas>|
+
+|<Reagrúpate con Dragovich>|
+
+|<Dispara al cepo del V2>|
+
+|<Sobrevive a la emboscada>|
+
+|<Localiza la bodega de carga>|
+
+|<Sigue a Dragovich y Steiner>|
+
+|<Arma los explosivos del V2>|
+
+|<Escapa del barco>|
+
+|<Escapa del barco antes de la explosión>|
+
+|<Estás a punto de abandonar a tus camaradas.>|
+
+|<Trepa por la ventana para llegar a cubierta>|
+
+|<No has logrado escapar a tiempo.
+>|
+
+|<^3[{+activate}]^7>|
+
+|<Mantén ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<^3[{+activate}]^7 para cortar>|
+
+|<Mantén ^3[{+activate}]^7 para deslizarte.>|
+
+|<^3[{+activate}]^7 para trepar por el mástil>|
+
+|<^3[{+activate}]^7 para rescatar>|
+
+|<^3[{+activate}]^7 para subir al trineo>|
+
+|<Mantén ^3[{+activate}]^7 para armar los explosivos.>|
+
+|<Escolta>|
+
+|<Entrada del barco>|
+
+|<Iluminar>|
+
+|<Abrir>|
+
+|<Sigue>|
+
+|<Trineo>|
+
+|<Explosivos>|
+
+|<Asalto>|
+
+|<Inicio>|
+
+|<Pulsa ^3[{+smoke}]^7 para marcar los blancos a los morteros.>|
+
+|<Has conseguido una granada de humo.>|
+
+|<Has conseguido 2 granadas de humo.>|
+
+|<Has conseguido 3 granadas de humo.>|
+
+|<Has conseguido 4 granadas de humo.>|
+
+|<Sigue a Petrenko>|
+
+|<¡Has abandonado a tus camaradas!>|
+
+|<Te ha matado tu propio mortero.>|
+
+|<No dispares a Steiner>|
+
+|<^1INTERROGATOR: ^7Viktor Reznov quería detener a estos hombres. Por eso desertó.>|
+
+|<^1INTERROGADOR: ^7¿Cuándo? ¿Cuándo se lo dijo?>|
+
+|<^1REZNOV: ^7Mason... Escúcheme...>|
+
+|<^1REZNOV: ^7La sensación de pérdida... El amargo sabor de la derrota...>|
+
+|<^1REZNOV: ^7Los conozco perfectamente... Somos hermanos, Mason... Somos iguales.>|
+
+|<^1REZNOV: ^7Dragovich. Steiner. Kravchenko. Todos deben morir.>|
+
+|<^1REZNOV: ^7A usted le han robado tantas cosas como a mí...>|
+
+|<^1MASON: ^7Entonces, Dígame, Reznov... ¿Por qué es tan importante para usted matarlos?>|
+
+|<^1REZNOV: ^7Cuando la guerra terminó, nuestros líderes comenzaron a roer el cadáver podrido de Alemania como una manada de lobos rabiosos, luchando por cada pedazo como si fuera el último trozo de carne del mundo.>|
+
+|<^1REZNOV: ^7La guerra terminó... pero la lucha continuaba...>|
+
+|<^1REZNOV: ^7Cuando el 3er Ejército de Choque se convirtió en parte de la fuerza de ocupación soviética en Alemania, quedó claro que el final de la guerra no nos haría volver a Rusia...>|
+
+|<^1REZNOV: ^7Nuestros líderes tenían otros planes...>|
+
+|<^1REZNOV: ^7Mi padre era músico en Stalingrado. Durante la ocupación alemana, el sonido de su violín llenaba el aire de música magnífica: Korsakov, Stasov, muchos de los grandes compositores nacionalistas...>|
+
+|<^1REZNOV: ^7Para mis compatriotas, simbolizaba la esperanza. Para los alemanes, simbolizaba la rebeldía. Su música me sigue acompañando...>|
+
+|<^1REZNOV: ^7Los nazis le cortaron el cuello mientras dormía. Colaborar con los nazis es un acto de traición contra la Madre Patria. A Dragovich y a Kravchenko no les preocupaba la cuestión...>|
+
+|<^1REZNOV: ^7Solo les interesaba perseguir sus fines y objetivos...>|
+
+|<^1PETRENKO: ^7Viktor... Es la hora.>|
+
+|<^1REZNOV: ^7Sí, Dimitri... La hora de cazar a los últimos restos del Reich fascista.>|
+
+|<^1PETRENKO: ^7Nevski... Coja el material... Nos vamos.>|
+
+|<^1REZNOV: ^7Mis hombres y yo nos habíamos enfrentado al invierno más terrible en el frente oriental... El frío no era ninguna novedad...>|
+
+|<^1REZNOV: ^7Los chicos y yo nos habíamos enfrentado al invierno más terrible en el frente oriental... El frío no era ninguna novedad...>|
+
+|<^1REZNOV: ^7Pero, incluso ahora, se me hiela la sangre en las venas al recordar lo que ocurrió ese día...>|
+
+|<^1REZNOV: ^7Tan lejos de casa...>|
+
+|<^1PETRENKO: ^7¿Qué hay aquí tan importante?>|
+
+|<^1REZNOV: ^7El general Dragovich quiere labrarse una reputación. Cree que este puesto avanzado contiene algo de gran valor para la Madre Patria.>|
+
+|<^1KRAVCHENKO: ^7Ah... ¡El héroe de Berlín nos deleita con su presencia! ¿No está cansado de la batalla, Reznov?>|
+
+|<^1REZNOV: ^7Mientras la Madre Patria tenga enemigos, responderé a su llamada...>|
+
+|<^1DRAGOVICH: ^7Dejen su rivalidad de lado, Kravchenko. El capitán Reznov hará lo que se le ordene.>|
+
+|<^1DRAGOVICH: ^7Hemos venido únicamente a por un alemán... El doctor Friedrich Steiner. Este hombre se ha ofrecido a cooperar con nuestra causa...>|
+
+|<^1DRAGOVICH: ^7No debe sufrir ningún daño... Si desobedecen esta orden... ¡morirán!>|
+
+|<^1PETRENKO: ^7¿Qué pasó en Stalingrado entre Dragovich y usted?>|
+
+|<^1REZNOV: ^7Cuando la ocupación alemana empezó, él y su perrito faldero, Kravchenko, nos abandonaron en inferioridad...>|
+
+|<^1REZNOV: ^7Nos prometieron refuerzos... pero no cumplieron la promesa.>|
+
+|<^1REZNOV: ^7Dragovich y Kravchenko son oportunistas... manipuladores...>|
+
+|<^1REZNOV: ^7No se puede confiar en ellos, Dimitri.>|
+
+|<^1REZNOV: ^7Dimitri Petrenko fue uno de los hombres más valientes que he conocido.>|
+
+|<^1REZNOV: ^7Luchó junto a mí en el asedio de Stalingrado y en la caída de Berlín...>|
+
+|<^1REZNOV: ^7Debería haber sido recibido como un héroe en Rusia por las heridas que sufrió combatiendo...>|
+
+|<^1REZNOV: ^7Pero Stalin no necesitaba ningún héroe.>|
+
+|<^1DRAGOVICH: ^7El alemán no debe sufrir daños. Necesitamos a Steiner vivo... Ustedes dos, ¡muévanse!>|
+
+|<^1PETRENKO: ^7Vamos.>|
+
+|<^1PETRENKO: ^7Me alegro de volver a luchar a su lado.>|
+
+|<^1REZNOV: ^7Sí, amigo mío... Una última victoria.>|
+
+|<^1REZNOV: ^7¡Registren a fondo el campamento! Steiner es el único que debe vivir.>|
+
+|<^1RUSSIAN SOLDIER: ^7¡Están intentando rendirse!>|
+
+|<^1REZNOV: ^7Ya lo han intentado antes...>|
+
+|<^1REZNOV: ^7No lo permitan.>|
+
+|<^1PETRENKO: ^7¡No van a rendirse sin luchar!>|
+
+|<^1REZNOV: ^7Los hombres sin nada que perder son enemigos peligrosos, Dimitri.>|
+
+|<^1REZNOV: ^7Cuidado, podría haber alguno más por ahí.>|
+
+|<^1REZNOV: ^7Adelante, amigos. A la zona siguiente.>|
+
+|<^1REZNOV: ^7¡Aplasten a quien se interponga!>|
+
+|<^1PETRENKO: ^7¡Examinen el edificio de control!>|
+
+|<^1REZNOV: ^7Despejen el edificio. ¡No dejen piedra por mover!>|
+
+|<^1PETRENKO: ^7No está aquí...>|
+
+|<^1REZNOV: ^7Estará cerca de la nave.>|
+
+|<^1PETRENKO: ^7¡Reznov! ¡Hay que destruir la barricada!>|
+
+|<^1PETRENKO: ^7Use las granadas de humo para marcar el objetivo a nuestros morteros.>|
+
+|<^1PETRENKO: ^7¡Reznov, coja las granadas de humo!>|
+
+|<^1PETRENKO: ^7¡Necesitamos las granadas de humo!>|
+
+|<^1PETRENKO: ^7¡Tire una a la base de la barricada!>|
+
+|<^1PETRENKO: ^7¡Marque la barricada a los morteros!>|
+
+|<^1PETRENKO: ^7¡Más cerca de la barricada, Viktor!>|
+
+|<^1PETRENKO: ^7¿Está borracho, Viktor? ¡Láncela a la barricada!>|
+
+|<^1PETRENKO: ^7La marcaré yo, Reznov. ¡Atrás!>|
+
+|<^1PETRENKO: ^7¡Los observadores no verán ese humo!>|
+
+|<^1PETRENKO: ^7¡Láncela fuera!>|
+
+|<^1PETRENKO: ^7¡Fuera, Reznov!>|
+
+|<^1SOLDADO RUSO: ^7Tenemos el blanco.>|
+
+|<^1SOLDADO RUSO: ^7Atentos a los morteros.>|
+
+|<^1SOLDADO RUSO: ^7Fuego de morteros.>|
+
+|<^1SOLDADO RUSO: ^7Fuego. A la espera.>|
+
+|<^1SOLDADO RUSO: ^7Morteros en camino.>|
+
+|<^1SOLDADO RUSO: ^7¡No lo tenemos a tiro!>|
+
+|<^1REZNOV: ^7¡Ura!>|
+
+|<^1MULTITUD: ^7¡URA!>|
+
+|<^1REZNOV: ^7¡Despliéguense y peinen los edificios!>|
+
+|<^1REZNOV: ^7¡Busquen a Steiner!>|
+
+|<^1REZNOV: ^7¡Por aquí, Dimitri!>|
+
+|<^1REZNOV: ^7¡Morid, ratas fascistas!>|
+
+|<^1PETRENKO: ^7Reznov, si le quedan granadas de humo, ¡úselas!>|
+
+|<^1PETRENKO: ^7¡Use las granadas de humo!>|
+
+|<^1PETRENKO: ^7¡Use humo para marcar los blancos a los morteros!>|
+
+|<^1PETRENKO: ^7Nos estamos acercando a Steiner.>|
+
+|<^1PETRENKO: ^7Después de esta misión... ¿cree que nos iremos a casa?>|
+
+|<^1REZNOV: ^7Eso espero, Dimitri... Eso espero.>|
+
+|<^1PETRENKO: ^7Quedan unos pocos... Aún no hay rastro de Steiner.>|
+
+|<^1REZNOV: ^7Estará donde se esconden los cobardes... Todo lo lejos que pueda del campo de batalla.>|
+
+|<^1REZNOV: ^7Subamos por las escaleras.>|
+
+|<^1REZNOV: ^7¿Listo?>|
+
+|<^1REZNOV: ^7Friedrich Steiner...>|
+
+|<^1STEINER: ^7No me apunte con esa arma, perro ruso...>|
+
+|<^1STEINER: ^7Lléveme ante Dragovich.>|
+
+|<^1REZNOV: ^7Al mirar al alemán a los ojos, vi toda la maldad del Reich fascista en plena ebullición...>|
+
+|<^1REZNOV: ^7En aquel momento, cada fibra de mi cuerpo clamaba por poner fin a su asquerosa vida...>|
+
+|<^1REZNOV: ^7Pero era soldado...>|
+
+|<^1REZNOV: ^7Aún creía en las órdenes...>|
+
+|<^1DRAGOVICH: ^7Reznov... Traiga a sus hombres.>|
+
+|<^1PETRENKO: ^7Dragovich y Steiner hablan como viejos amigos... Esto no me gusta, Reznov.>|
+
+|<^1REZNOV: ^7Ni a mí, Dimitri. Permanezca alerta.>|
+
+|<^1STEINER: ^7Deprisa... Hay alemanes que preferirían destruir esto antes de que fuera capturado...>|
+
+|<^1DRAGOVICH: ^7Me aseguró que no habría ningún problema...>|
+
+|<^1STEINER: ^7No puedo controlar los actos de las SS, general Dragovich... Han jurado defender el Reich hasta el último aliento...>|
+
+|<^1DRAGOVICH: ^7Noble... pero inútil.>|
+
+|<^1DRAGOVICH: ^7Kravchenko, termine aquí.>|
+
+|<^1REZNOV: ^7Petrenko, Vikharev, Nevski, Belov... ¡Nos largamos!>|
+
+|<^1DRAGOVICH: ^7Reznov, vaya delante con sus hombres.>|
+
+|<^1REZNOV: ^7Sí, señor.>|
+
+|<^1REZNOV: ^7Cuando decidieron relacionarse con esos perros, traicionaron todo por lo que Rusia había luchado.>|
+
+|<^1PETRENKO: ^7Mantenga firme la luz, Viktor...>|
+
+|<^1DRAGOVICH: ^7Cuénteme su relación con el proyecto Giftiger Sturm, Steiner.>|
+
+|<^1STEINER: ^7En el 43, cuando el Führer se dio cuenta de que no podría con los aliados...>|
+
+|<^1STEINER: ^7Empezamos a buscar soluciones menos... convencionales.>|
+
+|<^1STEINER: ^7Durante la guerra, mis investigaciones se habían centrado en las armas químicas... Era un trabajo meticuloso y frustrante...>|
+
+|<^1STEINER: ^7Sin embargo, conseguimos desarrollar un arma más eficaz de lo que nos habíamos atrevido a imaginar... El arma contenida en este buque.>|
+
+|<^1DRAGOVICH: ^7El Nova 6.>|
+
+|<^1PETRENKO: ^7Lleva días muerto... Antes del ataque.>|
+
+|<^1PETRENKO: ^7¿Por qué?>|
+
+|<^1REZNOV: ^7¿Qué les ha pasado?>|
+
+|<^1STEINER: ^7Bajas de guerra...>|
+
+|<^1PETRENKO: ^7Aquí ocurre algo. Lo noto.>|
+
+|<^1DRAGOVICH: ^7Ocúpese de sus hombres, Reznov...>|
+
+|<^1DRAGOVICH: ^7No nos gustaría que le ocurriera nada al héroe de Berlín...>|
+
+|<^1PETRENKO: ^7Intentaré orientarme por las pasarelas.>|
+
+|<^1PETRENKO: ^7Reznov, traiga esa luz aquí arriba.>|
+
+|<^1PETRENKO: ^7No veo nada...>|
+
+|<^1PETRENKO: ^7Necesito algo de luz.>|
+
+|<^1PETRENKO: ^7Venga conmigo.>|
+
+|<^1PETRENKO: ^7Encima de la tubería.>|
+
+|<^1PETRENKO: ^7Ilumine un poco la pasarela.>|
+
+|<^1PETRENKO: ^7No aparte la luz.>|
+
+|<^1PETRENKO: ^7Mantenga la luz delante de mí.>|
+
+|<^1PETRENKO: ^7Necesito luz aquí.>|
+
+|<^1REZNOV: ^7Chist. Permanezca alerta.>|
+
+|<^1REZNOV: ^7Esto apesta a desesperación.>|
+
+|<^1PETRENKO: ^7¿Qué cree que ocurrió aquí, Reznov?>|
+
+|<^1REZNOV: ^7Quizá sea mejor que no lo sepamos...>|
+
+|<^1REZNOV: ^7Continúe.>|
+
+|<^1REZNOV: ^7Cuidado con dónde pisa.>|
+
+|<^1PETRENKO: ^7Las sombras parecen moverse...>|
+
+|<^1REZNOV: ^7Es normal temer lo que no se ve... La mente juega malas pasadas...>|
+
+|<^1PETRENKO: ^7¡Reznov, venga aquí!>|
+
+|<^1PETRENKO: ^7Por aquí, Reznov.>|
+
+|<^1PETRENKO: ^7¿Adónde va, Reznov?>|
+
+|<^1PETRENKO: ^7No se aleje, Viktor.>|
+
+|<^1DRAGOVICH: ^7Por muy efectivo que fuera su Nova 6, necesitaba encontrar una forma de liberarlo...>|
+
+|<^1STEINER: ^7Cohetes V2 de largo alcance... que se lanzarían desde aquí.>|
+
+|<^1STEINER: ^7Los blancos eran centros de control y de mando. Washington D. C. era nuestro primer objetivo... Luego Moscú...>|
+
+|<^1DRAGOVICH: ^7Mm... Ambicioso y encomiable, Herr Steiner...>|
+
+|<^1STEINER: ^7Pero llegamos tarde. Los británicos se nos echaron encima y bombardearon el buque.>|
+
+|<^1STEINER: ^7Bloqueados en el hielo... intentamos salvar lo que pudimos, pero era tarde...>|
+
+|<^1STEINER: ^7Antes de poder lanzar el primer ataque, recibimos las noticias...>|
+
+|<^1STEINER: ^7Alemania se había rendido y la bandera roja ondeaba sobre Berlín.>|
+
+|<^1STEINER: ^7Las SS tenían órdenes de destruir el buque si nos atacaban.>|
+
+|<^1KRAVCHENKO: ^7Claramente, fallaron...>|
+
+|<^1KRAVCHENKO: ^7Los explosivos nunca fueron activados.>|
+
+|<^1STEINER: ^7Hemos llegado...>|
+
+|<^1DRAGOVICH: ^7Reznov, abra la puerta.>|
+
+|<^1REZNOV: ^7Habíamos encontrado lo que buscábamos... El Nova 6. El arma alemana de destrucción masiva estaba en poder de la Madre Patria.>|
+
+|<^1REZNOV: ^7O eso parecía. Nuestra victoria sería bastante breve.>|
+
+|<^1REZNOV: ^7Dragovich quería ver los efectos del veneno con sus ojos.>|
+
+|<^1REZNOV: ^7 Decidió probar el Nova 6 en sus hombres. En mí.>|
+
+|<^1REZNOV: ^7 Y en mi amigo, Dimitri Petrenko.>|
+
+|<^1REZNOV: ^7 Dragovich y Kravchenko no solo colaboraron con el nazi Steiner.>|
+
+|<^1REZNOV: ^7 Estaban dispuestos a sacrificar a sus propios compatriotas, a sus compañeros soldados, para probar esa arma innombrable. Nos usaron como cobayas, a mí, a Dimitri Petrenko y a los demás.>|
+
+|<^1REZNOV: ^7Dimitri Petrenko era un héroe...>|
+
+|<^1REZNOV: ^7Merecía morir como un héroe.>|
+
+|<^1REZNOV: ^7En vez de entregar su vida por la gloria de la Madre Patria, murió por nada... como un animal.>|
+
+|<^1REZNOV: ^7Debería haber muerto en Berlín...>|
+
+|<^1REZNOV: ^7Mientras veía morir a mi mejor amigo, estaba listo para irme con él, pero el destino volvió a intervenir.>|
+
+|<^1REZNOV: ^7Llegó la fuerza aérea británica y sus bombas empezaron a destruir el buque nazi.>|
+
+|<^1REZNOV: ^7Naturalmente, Dragovich, Kravchenko y Steiner huyeron como ratas y me dejaron solo ante los británicos. Para ellos no era más que otro sucio ruso. Daba igual que los míos me hubieran traicionado y dado por muerto. Pero, al menos, su asalto me proporcionó la posibilidad de escapar.>|
+
+|<^1RUSSIAN SOLDIER: ^7¡Nos están atacando comandos británicos!>|
+
+|<^1DRAGOVICH: ^7¡Hay que llevar a Steiner a nuestro buque!>|
+
+|<^1DRAGOVICH: ^7¡Mátenlos!>|
+
+|<^1REZNOV: ^7Venga. ¡Tenemos que salir!>|
+
+|<^1NEVSKI: ^7¡Más británicos!>|
+
+|<^1REZNOV: ^7Armaré los explosivos...>|
+
+|<^1REZNOV: ^7¡Hundiremos el navío en las profundidades del infierno! No podemos dejar que ningún bando posea esta arma.>|
+
+|<^1NEVSKI: ^7¡No aguantaremos mucho! Active los explosivos, Reznov.>|
+
+|<^1NEVSKI: ^7¡Corra! Active los explosivos.>|
+
+|<^1NEVSKI: ^7¡Reznov! ¡Hay que activar los explosivos!>|
+
+|<^1REZNOV: ^7¡He activado los explosivos!>|
+
+|<^1REZNOV: ^7¡Deprisa! ¡Hay que abandonar el buque!>|
+
+|<^1REZNOV: ^7¡No hay tiempo que perder!>|
+
+|<^1NEVSKI: ^7¡Quedan menos de dos minutos, Reznov!>|
+
+|<^1REZNOV: ^7¡Quedan menos de cuatro minutos!>|
+
+|<^1NEVSKI: ^7¡Vamos, el tiempo se acaba!>|
+
+|<^1REZNOV: ^7Dentro de tres minutos, las llamas envolverán el barco.>|
+
+|<^1NEVSKI: ^7¡Hay que abandonar el buque!>|
+
+|<^1REZNOV: ^7¡Deprisa! ¡Solo quedan dos minutos!>|
+
+|<^1REZNOV: ^7Dentro de un minuto el fuego consumirá el barco. ¡Vamos!>|
+
+|<^1REZNOV: ^7¡Treinta segundos!>|
+
+|<^1REZNOV: ^7¡Diez segundos, Reznov!>|
+
+|<^1REZNOV: ^7¡No lo conseguiremos!>|
+
+|<^1NEVSKI: ^7¡La puerta está sellada!>|
+
+|<^1NEVSKI: ^7¡Disparen a las vigas de carga! ¡Derribaremos las estructuras!>|
+
+|<^1NEVSKI: ^7¡Reznov! ¡A las vigas!>|
+
+|<^1NEVSKI: ^7¡Corra! ¡Derribe las estructuras!>|
+
+|<^1NEVSKI: ^7¡Destruya las vigas, Reznov! ¡Es la única salida!>|
+
+|<^1REZNOV: ^7¡Sí!>|
+
+|<^1REZNOV: ^7¡Vamos, amigos!>|
+
+|<^1NEVSKI: ^7¡Tenemos que salir a cubierta!>|
+
+|<^1NEVSKI: ^7¡Reznov, salgamos por esa ventana!>|
+
+|<^1NEVSKI: ^7¡Corra, por la ventana!>|
+
+|<^1REZNOV: ^7¡Adelante!>|
+
+|<^1REZNOV: ^7¡Esta no es nuestra guerra!>|
+
+|<^1NEVSKI: ^7¿Contra quién luchamos?>|
+
+|<^1REZNOV: ^7¡Contra todos!>|
+
+|<^1REZNOV: ^7¡Estamos solos!>|
+
+|<^1NEVSKI: ^7El buque se va a pique.>|
+
+|<^1NEVSKI: ^7¡Reznov! ¡Usemos la cuerda!>|
+
+|<^1NEVSKI: ^7Corte la cuerda, ¡rápido!>|
+
+|<^1NEVSKI: ^7¡Vamos, Reznov, vamos!>|
+
+|<^1REZNOV: ^7Había destruido el envío de Nova 6 y evitado que cayera en manos de los británicos. Pero fui tonto al pensar que la amenaza había terminado. No conocí las verdaderas intenciones de Dragovich hasta que me enviaron a Vorkuta. Morirá antes de abandonar el Nova 6.>|
+
+|<^1REZNOV: ^7Mason, escúcheme...>|
+
+|<^1REZNOV: ^7Se nos acaba el tiempo, amigo...>|
+
+|<^1REZNOV: ^7Lo usarán igual que me han usado a mí. ¿Confía en que sus líderes destruirán esta arma...? ¿O cree que terminarán utilizándola?>|
+
+|<^1REZNOV: ^7¿Confía en que la destruirán...? ¿O cree que terminarán usándola?>|
+
+|<^1REZNOV: ^7Dígame... ¿Qué cree que harán sus líderes con un arma como esta?>|
+
+|<^1REZNOV: ^7La bandera es distinta, pero los métodos son iguales.>|
+
+|<^1REZNOV: ^7Lo usarán igual que me han usado a mí...>|
+
+|<^1REZNOV: ^7Debe escoger... Elija por qué merece la pena luchar...>|
+
+|<^1REZNOV: ^7Dragovich... Kravchenko... Steiner...>|
+
+|<^1REZNOV: ^7Estos... hombres... deben morir.>|
+
+|<^1NEVSKI: ^7Eliminado.>|
+
+|<^1NEVSKI: ^7Muerto.>|
+
+|<^1NEVSKI: ^7Abatido.>|
+
+|<^1NEVSKI: ^7Ha caído.>|
+
+|<^1NEVSKI: ^7Blanco eliminado.>|
+
+|<^1NEVSKI: ^7Baja confirmada.>|
+
+|<^1NEVSKI: ^7Ese está muerto.>|
+
+|<^1NEVSKI: ^7Enemigo neutralizado.>|
+
+|<^1NEVSKI: ^7Recargo.>|
+
+|<^1NEVSKI: ^7Necesito recargar.>|
+
+|<^1NEVSKI: ^7Estoy recargando.>|
+
+|<^1NEVSKI: ^7Voy a recargar. Cúbranme.>|
+
+|<^1NEVSKI: ^7Recargo. Cúbranme.>|
+
+|<^1NEVSKI: ^7Granada va.>|
+
+|<^1NEVSKI: ^7¡Ojo!>|
+
+|<^1NEVSKI: ^7¡Adelante!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ì€¹€€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿ>|
+
+|<mc/mtl_p_ger_nazi_flag>|
+
+|<I2€>|
+
+|<qâ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿu‹€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<u‹€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿù	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ù	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<n
+€©‡
+€m˜
+€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<%>|
+
+|<>|
+
+|<'>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_steiner_young_body>|
+
+|<}¸
+€>|
+
+|<qw€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ4€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿñÍ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<4€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿñÍ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ñÍ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<™S€p€„€>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<(>|
+
+|<>|
+
+|<*>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_steiner_young_body_char>|
+
+|<>|
+
+|<Ùr€ñ…€IŠ€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<	>|
+
+|<
+ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ9>|
+
+|<ÿÿÿÿÿÿÿ9>|
+
+|<wc/a_ger_nazi_flag>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_officer_frozen_body>|
+

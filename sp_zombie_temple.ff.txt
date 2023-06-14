@@ -1,0 +1,48 @@
+|<Mantén ^3[{+activate}]^7 para usar el ascensor (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para llamar al ascensor.>|
+
+|<Ascensor bloqueado si hay monos cerca.>|
+
+|<Ascensor bloqueado en ronda de potenciación.>|
+
+|<Tus compañeros y tú debéis caer para poder ascender. >|
+
+|<Mantén ^3&&1^7 para comprar Spikemore (coste: 1.000).>|
+
+|<Súper cerbatana>|
+
+|<Cerbatana>|
+
+|<Ya has adquirido las Spikemore.>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Spikemore.>|
+
+|<Spikemore>|
+
+|<Mantén ^3&&1^7 para recoger Spikemore.>|
+
+|<No mantengas ^3[{+activate}]^7>|
+
+|<Destino cerrado.>|
+
+|<Mantén ^3[{+activate}]^7 para arrancar la vagoneta (coste: &&1).>|
+
+|<La vagoneta se está utilizando.>|
+
+|<Mantén ^3&&1^7 para soltar el agua.>|
+
+|<El depósito se está llenando>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

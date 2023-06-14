@@ -1,0 +1,422 @@
+|<Ascensión 9 18 8 23 8 3 8 22 15 21 17
+6 16 1 7 8 19 10 22 19 23 14 17 14 22 0 12
+8 8 10 7 1 1 22>|
+
+|<^LTransmisión núm. 8-5. Designación: DELTA^L>|
+
+|<^LPosición:^L ^C1SALA 9^C>|
+
+|<^LSujeto:^L ^C1Mason, Alex^C>|
+
+|<^LSe reanuda el interrogatorio: 23:00,^L ^C125 de febrero de 1968^C>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para dar un puñetazo.>|
+
+|<9 19 18 4 6 21 17 14 9 19 8 24 17 24 5 13 11
+20 15 21 24 11 9 12 8 20 21 10 16 23 4 22
+21 4 0 14>|
+
+|<Ascensión 1 23 9 12 3 13 5 9 22 21 0 21
+10 15 5 17 12 21 18 8 5 13 22 10 2 11 5 11
+8 9 19 23 2 14 17 10 7 15 7 12 21 25 16 25
+0 23 12 23 13 22 8 9 25 4 20 19 11
+14 24 17 9 21 0 2 16 16 1 22 1 20 22 22
+25 0 15 1 1 22 17>|
+
+|<Echelon 3  24 20 12 19 17 17 22 19 23 19 4
+0 7 6 7 19 10 12 16 17 6 14 4 3 17 24 20 13
+24 8 16 17 1 24 9 21 15 0 5 15 4 4 23 6 11
+25 14 4 20 4 9 14 18 12 8 7 21 6 4 21 7 21
+4 2 14 3 14 7 18 13 6 22 16 6 1 21 21 15 3
+5 24 9 11 2 10 5 21 4 20 11 19 12 5 12 13
+12 5 17 19 3 14 21 12 15 17 7 7 2 2 21 1
+10 22 13 5>|
+
+|<^1WEAVER: ^7Es inútil. ¡No nos queda tiempo!>|
+
+|<^1INTERROGATOR: ^7No podemos rendirnos. Él estuvo en Vorkuta y sabe traducir los códigos. Ha oído las emisiones que sabemos que contienen la posición. Está en algún rincón de su cabeza. ¡Sabe dónde está!>|
+
+|<^1INTERROGATOR: ^7¡Hay que ir al búnker! Estamos en DEFCON 2... Ya lo ha intentado todo...>|
+
+|<^1INTERROGATOR: ^7Aún no... Tengo una baza más.>|
+
+|<^1WEAVER: ^7Déjelo aquí. No merece la pena.>|
+
+|<^1HUDSON: ^7Váyase, Weaver. Dígales que he fracasado.>|
+
+|<^1WEAVER: ^7¿Quiere morir con él...? Usted decide.>|
+
+|<^1HUDSON: ^7¡Joder! ¿Por qué no se acuerda?>|
+
+|<^1HUDSON: ^7¡Reznov ha muerto, Mason! ¿Me oye? ¡Ha muerto! Weaver tiene razón... Se nos acaba el tiempo.>|
+
+|<^1HUDSON: ^7Los rusos lo han jodido vivo... Lo conozco... Sé que no es un traidor.>|
+
+|<^1HUDSON: ^7Los rusos lo han machacado... Lo conozco... Sé que no es un traidor.>|
+
+|<^1MASON: ^7Números... los números... ¿Qué... dicen...?>|
+
+|<^1MASON: ^7Reznov... ¿Dónde está...? Reznov...>|
+
+|<^1MASON: ^7Steiner estaba allí. Tenía que matarlo.>|
+
+|<^1MASON: ^7Joder... sigo... oyendo... números...>|
+
+|<^1MASON: ^7I...keep...hearing...the &$#@!%...numbers...>|
+
+|<^1KRAVCHENKO: ^7Otra vez usted...>|
+
+|<^1KRAVCHENKO: ^7¡Debí matarlo en Vorkuta!>|
+
+|<^1DRAGOVICH: ^7Un momento... Que descanse.>|
+
+|<^1MASON: ^7Ya me acuerdo. Vorkuta...>|
+
+|<^1DRAGOVICH: ^7Cuando recupere la consciencia, duplique el voltaje.>|
+
+|<^1STEINER: ^7Al sujeto se le ha implantado correctamente la información necesaria para traducir los números.>|
+
+|<^1DRAGOVICH: ^7¿Y cuál es el problema?>|
+
+|<^1STEINER: ^7Responde a las órdenes de forma... esporádica, impredecible. Muestra una resistencia notable.>|
+
+|<^1DRAGOVICH: ^7¿Por qué?>|
+
+|<^1STEINER: ^7Es extraño... atípico. Pocos hombres tienen tanta voluntad. Los otros sujetos de prueba han sido mucho más colaboradores.>|
+
+|<^1DRAGOVICH: ^7Si no obedece las órdenes codificadas en los números, no me sirve de nada...>|
+
+|<^1DRAGOVICH: ^7Que se pudra. Llévelo de nuevo a su celda.>|
+
+|<^1MASON: ^7Dragovich... Kravchenko... Steiner... El dolor... Dios, el dolor...>|
+
+|<^1MASON: ^7Dragovich... Kravchenko... Steiner...>|
+
+|<^1MASON: ^7El dolor... Dios, el dolor...>|
+
+|<^1MASON: ^7Diríjase... al objetivo...>|
+
+|<^1MASON: ^7Oswald... comprometido.>|
+
+|<^1REZNOV: ^7En Vorkuta, TODOS somos hermanos...>|
+
+|<^1RUSSIAN PRISONER: ^7¿Seguro que este americano es de fiar?>|
+
+|<^1REZNOV: ^7Completamente.>|
+
+|<^1REZNOV: ^7Él y yo no somos tan diferentes... Somos todos soldados sin ejército...>|
+
+|<^1REZNOV: ^7Traicionados. Olvidados. Abandonados.>|
+
+|<^1REZNOV: ^7Sobrevivirá... Tiene que hacerlo...>|
+
+|<^1REZNOV: ^7Los conozco perfectamente... Somos hermanos, Mason... Somos iguales.>|
+
+|<^1PRESIDENT KENNEDY: ^7Tenemos un gran problema con los comunistas. Nuestra libertad y modo de vida están en peligro.>|
+
+|<^1PRESIDENT KENNEDY: ^7Nikita Dragovich.>|
+
+|<^1MASON: ^7¿Cuándo lo mato?>|
+
+|<^1MASON: ^7Kennedy... John... Fitzgerald. Me han dicho que es usted el mejor que tenemos.>|
+
+|<^1MASON: ^7Vale. Es hora de salir pitando de aquí.>|
+
+|<^1WOODS: ^7Aún no...>|
+
+|<^1MASON: ^7Vamos a por Dragovich.>|
+
+|<^1WOODS: ^7No sale nadie.>|
+
+|<^1WOODS: ^7¿Satisfecho, Mason?>|
+
+|<^1MASON: ^7Aún no... No hasta que vea el cuerpo.>|
+
+|<^1MASON: ^7Steiner estaba en Isla Renacimiento. Teníamos que matarlo.>|
+
+|<^1INTERROGATOR: ^7¿Usted y Reznov?>|
+
+|<^1MASON: ^7Queríamos lo mismo. Lo mismo.>|
+
+|<^1WEAVER: ^7¿Qué coño está haciendo?>|
+
+|<^1HUDSON: ^7Matar a todos para llegar hasta Steiner.>|
+
+|<^1REZNOV: ^7El dolor es complicado, ¿verdad?>|
+
+|<^1REZNOV: ^7Dragovich. Kravchenko. Steiner. Todos deben morir.>|
+
+|<^1MASON: ^7Matar a todos entre él y Steiner. Fui programado... para matar a... ¡Steiner... Kravchenko y Dragovich!>|
+
+|<^1HUDSON: ^7Dragovich le lavó el cerebro, pero Reznov tenía sus propios planes.>|
+
+|<^1BOWMAN: ^7¿Cree que el desertor habrá sobrevivido?>|
+
+|<^1WOODS: ^7Si lo ha hecho, ¡es un hijo de puta bien duro!>|
+
+|<^1WOODS: ^7Si lo ha hecho, ¡ese cabrón es muy duro!>|
+
+|<^1REZNOV: ^7¿Mason?>|
+
+|<^1MASON: ^7Reznov. ¿Cómo escapó usted de Vorkuta?>|
+
+|<^1MASON: ^7Nunca pensé que lo vería con vida...>|
+
+|<^1HUDSON: ^7Nunca estuvo en Vietnam. El auténtico desertor con el dossier sobre el Nova 6 murió durante el ataque al MACV.>|
+
+|<^1HUDSON: ^7Nunca estuvo en los túneles.>|
+
+|<^1SWIFT: ^7¿Puede saberse qué coño pasa?>|
+
+|<^1SWIFT: ^7¿Puede saberse qué pasa?>|
+
+|<^1REZNOV: ^7¡Kravchenko está aquí!>|
+
+|<^1REZNOV: ^7¡Por aquí! ¡No podemos permitir que se nos escape!>|
+
+|<^1WOODS: ^7¡Mason! ¿Qué coño está haciendo? Hay que sacar a estos tipos de aquí.>|
+
+|<^1WOODS: ^7¡Mason! Hay que sacar a estos tipos de aquí.>|
+
+|<^1REZNOV: ^7Estamos muy cerca de nuestro objetivo, Mason... Sobrevivirá... ¡Debe lograrlo!>|
+
+|<^1HUDSON: ^7Nunca fue a Isla Renacimiento.>|
+
+|<^1REZNOV: ^7Me llamo Viktor Reznov.>|
+
+|<^1STEINER: ^7No...>|
+
+|<^1HUDSON: ^7¡Mason!>|
+
+|<^1MASON: ^7Me llamo Viktor Reznov. ¡Y me vengaré!>|
+
+|<^1HUDSON: ^7Mason. ¡No!>|
+
+|<^1MASON: ^7Paso ocho, Reznov... ¡Libertad!>|
+
+|<^1REZNOV: ^7Por usted, Mason...>|
+
+|<^1REZNOV: ^7No por mí...>|
+
+|<^1HUDSON: ^7Viktor Reznov lleva muerto cinco años. ¡Murió en Vorkuta durante la huida! Los años que creía que lo acompañaba... ¡fueron producto de su imaginación!>|
+
+|<^1INTERROGADOR: ^7Viktor Reznov lleva años muerto.>|
+
+|<^1MASON: ^7¡No!>|
+
+|<^1INTERROGADOR: ^7¡Murió en Vorkuta durante la huida!>|
+
+|<^1MASON: ^7¡No había muerto!>|
+
+|<^1INTERROGADOR: ^7Los años que creía que lo acompañaba...>|
+
+|<^1MASON: ^7Reznov... confié en usted.>|
+
+|<^1INTERROGADOR: ^7¡Fueron producto de su imaginación!>|
+
+|<^1MASON: ^7Confiaba en él.>|
+
+|<^1HUDSON: ^7Por eso funcionó... Era su variante de MK-Ultra. Dragovich lo programó a usted para que matara a Kennedy, pero Reznov lo saboteó. Quería vengarse de lo que Dragovich le había hecho. Dragovich. Kravchenko. Steiner. Tres nuevas víctimas.>|
+
+|<^1HUDSON: ^7Hay lagunas en su memoria, periodos en los que desapareció que no podemos explicar. Pero ahora que hemos interrumpido el lavado de cerebro, el tiempo perdido volverá.>|
+
+|<^1HUDSON: ^7Hay que irse... El ataque con Nova 6 es inminente. Cientos de agentes durmientes, escondidos en cada capital estatal, van a lanzar este veneno sobre sus compatriotas.>|
+
+|<^1HUDSON: ^7Cuando Steiner murió, perdimos la clave para descifrar la posición de las emisiones... Solo nos queda usted.>|
+
+|<^1HUDSON: ^7En Vorkuta lo programaron para que tradujera los códigos numéricos. Solo usted puede decirnos qué significan. Nova 6 solo era una de las operaciones de los durmientes, pero estoy seguro de que había otras de las que no sabemos nada.>|
+
+|<^1HUDSON: ^7Tenemos las emisiones y hemos hecho que las oyera una y otra vez durante horas, pero no hemos podido atravesar su programación.>|
+
+|<^1HUDSON: ^7Mason, es la última oportunidad. Por Dios, vuelva a escucharlas.>|
+
+|<^1HUDSON: ^7¡Mason...! ¡Mason!>|
+
+|<^1INTERROGADOR: ^7Por eso funcionó... Por eso Reznov pudo anular su programación. Vorkuta era la variante rusa de MK-Ultra; control mental. Dragovich lo programó a usted para que matara a Kennedy, pero Reznov invirtió la programación. Quería vengarse de lo que Dragovich le había hecho. Dragovich. Kravchenko. Steiner. Tres nuevas víctimas.>|
+
+|<^1CASTRO: ^7Haga con él lo que quiera, general... Es mi regalo en honor a nuestra nueva relación...>|
+
+|<^1CASTRO: ^7...our new relationship...>|
+
+|<^1STEINER: ^7Lo conozco... ¡Vorkuta!>|
+
+|<^1STEINER: ^7Usted no sabe...>|
+
+|<^1STEINER: ^7Lo que le hicimos...>|
+
+|<^1DRAGOVICH: ^7... a todos los agentes. Nuestros nuevos aliados en Cuba han sido tan amables de permitir la construcción de una nueva... emisora permanente dentro de sus fronteras.>|
+
+|<^1DRAGOVICH: ^7...and permanent... broadcast station within their borders.>|
+
+|<^1DRAGOVICH: ^7Hasta el inicio del proyecto Nova, todas las instrucciones adicionales se emitirán por este canal.>|
+
+|<^1DRAGOVICH: ^7...all instructions will broadcast from the Rusalka.>|
+
+|<^1DRAGOVICH: ^7Nuestro plan para golpear el corazón de Occidente está en marcha.>|
+
+|<^1DRAGOVICH: ^7Recibirán nuevas instrucciones.>|
+
+|<^1CASTRO: ^7Tan solo... asegúrese de que sufra...>|
+
+|<^1DRAGOVICH: ^7Sufrirá más que en sus peores pesadillas...>|
+
+|<^1DRAGOVICH: ^7Tengo planes para usted, americano...>|
+
+|<^1MASON: ^7¡Sé de dónde vienen las emisiones, Hudson! Es un barco... Lo vi hace muchísimo tiempo... El Rusalka.>|
+
+|<^1HUDSON: ^7¿Dónde?>|
+
+|<^1MASON: ^7En Cuba.>|
+
+|<^1MASON: ^7Escalón. Aliados cubanos autorizan construcción de emisora permanente. Rusalka. Golfo de México. Proyecto Nova iniciado. Espere instrucciones.>|
+
+|<^1MASON: ^7Ascensión. Mason. Prepare eliminación blanco Kennedy. John Fitzgerald. Prioridad anula cualquier instrucción previa.>|
+
+|<^1MASON: ^7Ascensión. Mason. Diríjase al objetivo. Espere coordenadas finales.>|
+
+|<^1MASON: ^7Escalón. Oswald, comprometido. Ascensión. Mason. Elimine blanco asignado.>|
+
+|<^1MASON: ^7Escalón. Despliegue Nova en peligro. Filtración CIA.>|
+
+|<^1MASON: ^7Ascensión. Todos los puntos. Eliminen blanco Clarke. Prioridad uno. Esperen coordenadas.>|
+
+|<^1MASON: ^7Ascensión. Todos los puntos. Fase dos.>|
+
+|<^1MASON: ^7Ascensión. Todos los puntos. Fase tres.>|
+
+|<^1MASON: ^7Ascensión. Todos los puntos. No fiable. Prioridad evitar captura. Durmientes prescindibles.>|
+
+|<^1MASON: ^7Escalón. Señal despliegue Nova inminente.>|
+
+|<^1MASON: ^7Ascensión. Mason. Siga programación directiva. Responda.>|
+
+|<^1MASON: ^7Escalón. Pentágono. Uno. Próspero.>|
+
+|<^1MASON: ^7Escalón. Pentágono. Dos. Ariel.>|
+
+|<^1MASON: ^7Escalón. Pentágono. Tres. Sicorax.>|
+
+|<^1MASON: ^7Escalón. Cuidado. Mutación Nova detectada. Sujetos muestran necrosis avanzada horas antes de morir.>|
+
+|<^1MASON: ^7Ascensión. Mason. Ubicación. Almacén de libros escuela Texas. 6ª planta. Fusil Carcano 6,5 mm. Dallas. Plaza Dealey. 11:22.>|
+
+|<^1MASON: ^7Dragovich. Kravchenko. Steiner. Todos deben morir.>|
+
+|<^1MASON: ^7Escalón. Durmiente rebelde. Mason. Programación dañada. Dragovich caído. Durmiente Pentágono activado. Durmiente CIA activado. Ascensión. Todos los puntos. Eliminen blanco Mason. Prioridad anula cualquier instrucción previa.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<€@#>|
+
+|<€@#>|
+
+|<€@#>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

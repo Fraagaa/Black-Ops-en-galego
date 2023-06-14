@@ -1,0 +1,273 @@
+|<$>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<Fin del juego>|
+
+|<Has llegado a la ronda &&1>|
+
+|<Ronda: &&1>|
+
+|<Ronda &&1 terminada.>|
+
+|<Sala extra descubierta>|
+
+|<Ronda de desafío>|
+
+|<¡Fuga de prisión!>|
+
+|<Bichejos espeluznantes>|
+
+|<¿Quién ha dado falsa alarma?>|
+
+|<¡Chaparrón!>|
+
+|<Elige tu camino>|
+
+|<Gorila cósmico>|
+
+|<Se te ha concedido el don Pies frenéticos>|
+
+|<Se te ha concedido el don Potencia de fuego>|
+
+|<Se te ha concedido el don Amistad
+>|
+
+|<Se te han concedido los dones Fortuna y Fortaleza
+>|
+
+|<La sala del destino>|
+
+|<Elige una salida y decide tu destino>|
+
+|<Los hados no esperarán eternamente>|
+
+|<Tu destino está decidido>|
+
+|<Ronda de jefe>|
+
+|<El gorila cósmico>|
+
+|<¡VICTORIA!>|
+
+|<¡El gorila cósmico, DERROTADO!>|
+
+|<... ¿O no? ... >|
+
+|<Súbete al teletransporte para ir a una nueva arena
+>|
+
+|<¡Estampida!>|
+
+|<¡El gorila cósmico ha huido! ¡Dale caza!>|
+
+|<O sube a la plataforma de teletransporte para recibir instrucciones.>|
+
+|<Instrucciones>|
+
+|<El objetivo final de este juego es hacer frente al malvado gorila cósmico y vengar la muerte de la princesa.>|
+
+|<El gorila cósmico no te pondrá fácil el viaje. Entre tú y él hay todo un ejército de no muertos.>|
+
+|<¡No te desanimes! Por el camino encontrarás potentes armas y objetos que te ayudarán a luchar.>|
+
+|<Usa  para moverte.>|
+
+|<Usa  para disparar.>|
+
+|<Pulsa  para lanzar una bomba táctica que despeje toda una zona de enemigos.>|
+
+|<Pulsa  para usar un acelerón. Resulta útil para salir de situaciones peliagudas.>|
+
+|<Para reponer tu inventario de bombas tácticas, recoge objetos que se parezcan a ellas.
+Se guardarán para más tarde.>|
+
+|<De forma similar a la reposición de bombas tácticas, puedes acumular acelerones. Haré aparecer unos cuantos. 
+Fíjate cómo se acumulan.>|
+
+|<Encontrarás tesoros por el camino. Recógelos siempre que puedas.>|
+
+|<El tesoro se agrega a tu multiplicador de puntuación. Cada &&1 puntos, recibirás una vida extra.>|
+
+|<Verás una serie de armas y objetos especiales. ¡Cógelos! Todos ofrecen sus propias ventajas y son potentes.>|
+
+|<Ahora dirígete a la flecha de salida y buena suerte en tu misión de derrotar al gorila cósmico.>|
+
+|<ZOMBIETRON>|
+
+|<Página &&1 de &&2>|
+
+|<¡Hora de relajarse!>|
+
+|<¡Somos ricos!>|
+
+|<¡Mi tesoro!>|
+
+|<¡No!>|
+
+|<¡NOOOOOOO!>|
+
+|<¡JA, JA, JA!>|
+
+|<¡J@$€*!>|
+
+|<¡Ganador!>|
+
+|<¿Estoy muerto?>|
+
+|<¡Sí!>|
+
+|<¿Qué diablos...?>|
+
+|<No está mal...>|
+
+|<¡Mucho dinero!>|
+
+|<¡Otra vez será!>|
+
+|<¡Grandes premios!>|
+
+|<¡He vuelto!>|
+
+|<¡Hasta la vista!>|
+
+|<<QUEJIDO>>|
+
+|<PULSA ^3[{+activate}]^7 PARA OMITIR.>|
+
+|<PULSA ^3[{+activate}]^7 PARA PASAR LA PÁGINA.>|
+
+|<GANADOR PUEDE PULSAR ^3[{+activate}]^7 PARA OMITIR.>|
+
+|<Mártir abominable>|
+
+|<Pez en un barril>|
+
+|<Puntos: &&1>|
+
+|<1.: &&1>|
+
+|<2.: &&1>|
+
+|<3.: &&1>|
+
+|<4.: &&1>|
+
+|<&&1>|
+
+|<Arsenal descubierto>|
+
+|<­/€>|
+
+|<­à€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ±‰€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ5€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<±‰€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ5€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<5€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<Ùl€å…€©–€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<%>|
+
+|<>|
+
+|<'>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_body1>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_linen>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_lthr>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_c_ger_honorguard_zombie_metal>|
+

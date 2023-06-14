@@ -1,0 +1,114 @@
+|<e>|
+
+|<Has adquirido una nueva competencia:>|
+
+|<Clase>|
+
+|<Subfusil>|
+
+|<CaC>|
+
+|<Asalto>|
+
+|<Ametralladora>|
+
+|<Francotirador>|
+
+|<Competencia>|
+
+|<Fusilero>|
+
+|<Cuerpo a cuerpo>|
+
+|<Granadero>|
+
+|<Asalto predeterminado>|
+
+|<Artillero ligero predeterminado>|
+
+|<Artillero pesado predeterminado>|
+
+|<Apoyo>|
+
+|<Reconocimiento>|
+
+|<Tirador>|
+
+|<Experto>|
+
+|<CLASES SOG>|
+
+|<CLASES ENEMIGAS>|
+
+|<Artillero ligero>|
+
+|<Artillero pesado>|
+
+|<Asalto cercano>|
+
+|<PERSONALIZ. 1>|
+
+|<PERSONALIZ. 2>|
+
+|<PERSONALIZ. 3>|
+
+|<PERSONALIZ. 4>|
+
+|<PERSONALIZ. 5>|
+
+|<Experto en demoliciones>|
+
+|<Infiltrador>|
+
+|<Especialista>|
+
+|<Vanguardia>|
+
+|<Infante>|
+
+|<Veterano>|
+
+|<Vengador>|
+
+|<Impositor>|
+
+|<Guardián>|
+
+|<M1 Garand>|
+
+|<Personaliz. 6>|
+
+|<Personaliz. 7>|
+
+|<Personaliz. 8>|
+
+|<Personaliz. 9>|
+
+|<Personaliz. 10>|
+
+|<Índice de prestigio 1>|
+
+|<Índice de prestigio 2>|
+
+|<Índice de prestigio 3>|
+
+|<Índice de prestigio 4>|
+
+|<Índice de prestigio 5>|
+
+|<Desbloqueado en nivel de prestigio &&1.>|
+
+|<PERSONALIZ. 6>|
+
+|<PERSONALIZ. 7>|
+
+|<PERSONALIZ. 8>|
+
+|<PERSONALIZ. 9>|
+
+|<PERSONALIZ. 10>|
+
+|<Sin clasificar en nivel de prestigio &&1.>|
+
+|<Compra &&1 para ver el desafío.>|
+

@@ -1,0 +1,876 @@
+|<Pulsa  para abrir la puerta.>|
+
+|<^3[{+activate}]^7>|
+
+|<Pulsa repetidamente ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<^LTransmisión núm. 14-15. Designación: XRAY^L>|
+
+|<^LInteligencia sugiere presencia soviética al sur de la^L ^C1zona desmilitarizada, Vietnam^C>|
+
+|<^C1Mason^C ^Ly el equipo SOG buscarán pruebas e intentarán eliminar a Kravchenko^L>|
+
+|<^LEl coronel soviético Kravchenko lleva operaciones con el VC y el NVA^L>|
+
+|<Despeja la aldea>|
+
+|<Entra en los túneles>|
+
+|<Mueve la barricada>|
+
+|<Pulsa ^3 [{+activate}] ^7>|
+
+|<Coloca C4>|
+
+|<Mantén ^3[{+activate}]^7 para colocar explosivos.>|
+
+|<Pulsa ^3[{+breath_sprint}]^7 para encender la linterna.>|
+
+|<Mantén ^3[{+activate}]^7 para mover las cajas.>|
+
+|<^3[{+speed_throw}]^7                                  >|
+
+|<                                       ^3[{+attack}]^7>|
+
+|<Recoge el M202>|
+
+|<Destruye el ZSU>|
+
+|<Elimina la ametralladora de la colina>|
+
+|<Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo.>|
+
+|<Registra la sala>|
+
+|<Sube al sampán>|
+
+|<Reúnete con el equipo Whiskey>|
+
+|<Mata a los VC de la embarcación>|
+
+|<Localiza a Kravchenko>|
+
+|<Activa las cargas>|
+
+|<Destruye el túnel de ratas>|
+
+|<Refuerza a Whiskey>|
+
+|<Huye>|
+
+|<Te han detectado y la misión se ha visto comprometida.>|
+
+|<Pulsa ^3[{+attack}]^7 para detonar.>|
+
+|<^L12:00,^L ^C19 de febrero de 1968^C>|
+
+|<Despeja la aldea del norte>|
+
+|<Mantén ^3[{+activate}]^7 para coger el M202.>|
+
+|<Pulsa ^3[{+melee}]^7 para excavar.>|
+
+|<Pulsa ^F^3[{+activate}]^7^F para abrir la puerta.>|
+
+|<Blanco>|
+
+|<Sigue>|
+
+|<No has logrado escapar a tiempo.>|
+
+|<Acércate a la embarcación y pulsa ^3[{+melee}]^7 para eliminar al VC.>|
+
+|<^1REZNOV: ^7Dragovich. Kravchenko. Steiner.>|
+
+|<^1INTERROGATOR: ^7¿Y Reznov? ¿Por qué se separaron?>|
+
+|<^1MASON: ^7Reznov era un lobo solitario. No se fiaba de nadie.>|
+
+|<^1US PILOT: ^7¡Nos han dado! ¡Nos han dado!>|
+
+|<^1WOODS: ^7¿De dónde coño ha salido eso?>|
+
+|<^1PILOTO EE. UU.: ^7¡Ha sonado como un ZSU!>|
+
+|<^1US PILOT: ^7¡Mayday! ¡Mayday! Aquí Hotel 9-1. ¡Estamos cayendo! ¡Estamos cayendo!>|
+
+|<^1US PILOT: ^7Aquí Hotel 9-1. Estamos cayendo en el sector Bravo Tango 7-9. Mayday, mayday...>|
+
+|<^1BOWMAN: ^7Lima 9 X-Ray. ¿Me escucha?>|
+
+|<^1BOWMAN: ^7Lima 9 X-Ray. ¿Me recibe?>|
+
+|<^1US PILOT: ^7Ugh...>|
+
+|<^1US PILOT: ^7¡Necesito ayuda aquí!>|
+
+|<^1MASON: ^7Muerto.>|
+
+|<^1PILOTO EE. UU.: ^7¡Mierda, aquí vienen!>|
+
+|<^1PILOTO EE. UU.: ^7*¡Aquí vienen!>|
+
+|<^1WOODS: ^7¡Maten a esos cabrones!>|
+
+|<^1WOODS: ^7Tenemos que salir de aquí. ¡Esta cosa va a...!>|
+
+|<^1WOODS: ^7¡Nos hundimos, Mason!>|
+
+|<^1WOODS: ^7Atento, Mason. Andan por ahí. Aquí Lima 9 X-Ray...>|
+
+|<^1REZNOV: ^7¡Izquierda, Mason! ¡En la cresta!>|
+
+|<^1WOODS: ^7¡Delante! ¡A cubierto!>|
+
+|<^1REZNOV: ^7El sargento Woods es muy capaz... Ha elegido bien a sus hombres, Mason...>|
+
+|<^1REZNOV: ^7Ascenderé para buscar el complejo de Kravchenko.>|
+
+|<^1MASON: ^7Entendido. No se aleje, Viktor.>|
+
+|<^1BOWMAN: ^7Lima 9 X-Ray, aquí Whiskey. ¿Está por ahí?>|
+
+|<^1WOODS: ^7Sí. Adelante, Whiskey.>|
+
+|<^1BOWMAN: ^7¡Woods! Lo dábamos por perdido en el helicóptero. ¿Cuál es el nuevo plan?>|
+
+|<^1WOODS: ^7Despeje el perímetro sudeste y vaya al punto de encuentro.>|
+
+|<^1BOWMAN: ^7Recibido. Whiskey en camino. Me alegro de que siga dando guerra, Woods.>|
+
+|<^1WOODS: ^7El punto de encuentro está delante. Bowman debería estar allí. Nada de ruidos; solo cuchillo.>|
+
+|<^1WOODS: ^7Chist. Charlie.>|
+
+|<^1WOODS: ^7Silencio.>|
+
+|<^1WOODS: ^7(whistles) Eh, Charlie.>|
+
+|<^1WOODS: ^7¡Eh, Nguyen!>|
+
+|<^1BOWMAN: ^7Nunca falla.>|
+
+|<^1WOODS: ^7Mason, infórmenos.>|
+
+|<^1MASON: ^7Cerca de esta aldea hay un puesto avanzado a las órdenes de un tal general Kravchenko. Perdemos aeronaves por sus antiaéreos.>|
+
+|<^1BOWMAN: ^7Perdemos aeronaves por sus antiaéreos.>|
+
+|<^1WOODS: ^7Será un ZSU. Lo desarmamos y luego nos lo llevamos en los Hornet.>|
+
+|<^1WOODS: ^7Sus antiaéreos nos están acribillando. Debe de haber un ZSU 4 cerca. Lo inutilizaremos y haremos que los Hornet peinen la zona.>|
+
+|<^1WOODS: ^7Equipo Whiskey, cubran el puente y el río del este. Mason, conmigo al perímetro del oeste. Punto de encuentro, la aldea en 5 minutos. ¿Entendido?>|
+
+|<^1WOODS: ^7Equipo Whiskey, cubra el puente. Mason, colocaremos explosivos en el perímetro oeste. Encuentro en la aldea en 5 minutos. ¿Entendido?>|
+
+|<^1BOWMAN: ^7Whiskey, conmigo.>|
+
+|<^1BOWMAN: ^7Ribera este despejada. Vamos al puente.>|
+
+|<^1US MARINE: ^7Sierra está en el perímetro norte.>|
+
+|<^1WOODS: ^7Mason, debe colocar esa carga.>|
+
+|<^1WOODS: ^7Vuelva ahí y coloque la carga...>|
+
+|<^1WOODS: ^7Debemos colocar el C4, Mason...>|
+
+|<^1WOODS: ^7Agáchense...>|
+
+|<^1WOODS: ^7Chist.>|
+
+|<^1BOWMAN: ^7Whiskey está en el puente, rumbo al norte.>|
+
+|<^1US MARINE: ^7Sierra ha despejado el perímetro norte. Vamos a la aldea.>|
+
+|<^1WOODS: ^7X-Ray está despejando el flanco oeste. Llegada en 3 minutos. Debemos separarnos. Yo iré por arriba. Cruce el río y busque un lugar para el Semtex.>|
+
+|<^1WOODS: ^7X-Ray está despejando el flanco este. Llegada en 3 minutos. Debemos separarnos. Yo iré por arriba. Cruce el río a la derecha y busque un lugar para el Semtex.>|
+
+|<^1MASON: ^7Vale.>|
+
+|<^1WOODS: ^7Vuelva ahí.>|
+
+|<^1WOODS: ^7Cuidado, Mason. Hay más VC delante.>|
+
+|<^1MASON: ^7Explosivos listos para detonar.>|
+
+|<^1US MARINE: ^7Sierra en posición.>|
+
+|<^1BOWMAN: ^7Whiskey listo.>|
+
+|<^1WOODS: ^7Recibido. X-Ray en camino.>|
+
+|<^1WOODS: ^7¿Tiene el detonador?>|
+
+|<^1MASON: ^7Aquí está.>|
+
+|<^1BOWMAN: ^7He puesto un regalito en ese depósito de combustible.>|
+
+|<^1BOWMAN: ^7Tienen un regalito en ese depósito de combustible.>|
+
+|<^1WOODS: ^7Muy bien... Mason, veamos lo que hace el Semtex.>|
+
+|<^1WOODS: ^7Muy bien, estamos listos. Mason, a ver qué hace el Semtex.>|
+
+|<^1WOODS: ^7¡Mason, hágalo!>|
+
+|<^1BOWMAN: ^7¡Joder!>|
+
+|<^1BOWMAN: ^7¡Madre de Dios!>|
+
+|<^1WOODS: ^7¡Vamos, vamos, vamos!>|
+
+|<^1WOODS: ^7¡Abran fuego!>|
+
+|<^1WOODS: ^7¡Busquen todos ese maldito ZSU!>|
+
+|<^1BOWMAN: ^71-0, 1-0, aquí Whiskey. Tenemos un ZSU en el río.>|
+
+|<^1WOODS: ^7¡Es el cañón! Mason, inutilícelo. Cuando dejen de tener defensas aéreas, podremos llamar a los Hornet.>|
+
+|<^1MASON: ^7Ya voy.>|
+
+|<^1BOWMAN: ^7Junto a esa cabaña del río. ¿La ve?>|
+
+|<^1MASON: ^7¡Sí!>|
+
+|<^1BOWMAN: ^7¡Los Charlies no quieren perder el cañón! ¡Fíjense en cómo se mueven!>|
+
+|<^1MASON: ^7Muy bien. A por él.>|
+
+|<^1BOWMAN: ^7Necesitamos más potencia de fuego. ¡Johnson! Traiga el 202 FLASH. Ataque al ZSU del río.>|
+
+|<^1US MARINE: ^7¡Sí!>|
+
+|<^1BOWMAN: ^7¡Joder! Mason, ¿puede llegar al 202? Estoy inmovilizado.>|
+
+|<^1MASON: ^7Sí, yo me ocupo.>|
+
+|<^1BOWMAN: ^7¡Mason! ¡Use el 202!>|
+
+|<^1BOWMAN: ^7¡Dispare de nuevo! ¡Ahora!>|
+
+|<^1BOWMAN: ^71-0. Nido vacío. Objetivo despejado.>|
+
+|<^1WOODS: ^7Vale.>|
+
+|<^1WOODS: ^7Equipo Kentucky, aquí Lima 9. Sierra 3 despejado. Pueden enviar el apoyo aéreo.>|
+
+|<^1BOWMAN: ^7¡Envíen esos pájaros enseguida!>|
+
+|<^1US PILOT: ^7Lima 9 X-Ray, aquí Kentucky. Green Hornet en camino.>|
+
+|<^1US PILOT: ^7Abróchense el cinturón. ¡Vamos a atacar!>|
+
+|<^1PILOTO EE. UU.: ^7Abróchense el cinturón. ¡Vamos a atacar!>|
+
+|<^1US MARINE: ^7¡Deprisa!>|
+
+|<^1US MARINE: ^7¡A cubierto!>|
+
+|<^1US MARINE: ^7¡Venga, vamos, vamos!>|
+
+|<^1WOODS: ^7¡Charlie! A las 9.>|
+
+|<^1WOODS: ^7¡Flanco izquierdo! ¡En el tejado!>|
+
+|<^1WOODS: ^7¡Despejen el resto de la aldea!>|
+
+|<^1WOODS: ^7¡Metan una granada en la trinchera!>|
+
+|<^1WOODS: ^7¡Trinchera justo delante!>|
+
+|<^1BOWMAN: ^7¡Que alguien meta una granada ahí!>|
+
+|<^1WOODS: ^7Izquierda, Mason. ¡Acabe con esos cabrones!>|
+
+|<^1WOODS: ^7¡Charlie a la derecha!>|
+
+|<^1BOWMAN: ^7Despejado. ¡Vamos, vamos!>|
+
+|<^1WOODS: ^7¡Zona despejada!>|
+
+|<^1BOWMAN: ^7Muelle despejado. ¡Vamos!>|
+
+|<^1WOODS: ^7¡Adelante! ¡Vamos!>|
+
+|<^1WOODS: ^7¡Mason, despeje ese tugurio!>|
+
+|<^1BOWMAN: ^7¡Esa cabeza, abajo!>|
+
+|<^1WOODS: ^7¡En el tejado! ¡Mason, cárgueselos!>|
+
+|<^1BOWMAN: ^7¡Arriba! ¡Charlie en el tejado!>|
+
+|<^1WOODS: ^7¡Zona despejada! Vamos a atajar por esta cabaña. Mason, vaya delante.>|
+
+|<^1WOODS: ^7¡Mason, por aquí!>|
+
+|<^1WOODS: ^7¡Vamos, Mason! ¡Conmigo!>|
+
+|<^1WOODS: ^7¡Mason, en posición!>|
+
+|<^1BOWMAN: ^7¡Mason, dese prisa!>|
+
+|<^1MASON: ^7Reznov. ¿Qué ha encontrado?>|
+
+|<^1REZNOV: ^7Mason, hay una red de túneles alrededor de la aldea.>|
+
+|<^1REZNOV: ^7Estamos cerca...>|
+
+|<^1MASON: ^7Esa cabeza, abajo.>|
+
+|<^1WOODS: ^7Un Charlie tiene la ametralladora... ¡A cubierto!>|
+
+|<^1WOODS: ^7¡Ametralladora! ¡A cubierto!>|
+
+|<^1BOWMAN: ^7¡Que alguien mate a ese hijo de perra!>|
+
+|<^1BOWMAN: ^7¡Que alguien mate a ese mamón!>|
+
+|<^1WOODS: ^7¡Mason! ¿Tiene visual, lo ve?>|
+
+|<^1MASON: ^7Me lo pido.>|
+
+|<^1MASON: ^7Un túnel de ratas.>|
+
+|<^1WOODS: ^7Lo veo.>|
+
+|<^1WOODS: ^7¡Todos a cubierto!>|
+
+|<^1WOODS: ^7Hay que despejar el túnel.>|
+
+|<^1MASON: ^7Yo me ocupo. ¡Swift! Venga conmigo.>|
+
+|<^1WOODS: ^7Bien. Haré que los Hornet peinen la zona. En marcha.>|
+
+|<^1SWIFT: ^7Este hijo de perra no volverá a luchar.>|
+
+|<^1SWIFT: ^7No volverá a luchar.>|
+
+|<^1WOODS: ^7Lima 9, aquí X-Ray. Prepare un barrido en un radio de 3 kilómetros.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray.>|
+
+|<^1WOODS: ^7Tome esto. Dese prisa. Encontraremos a Kravchenko. Salga de ahí con vida. ¡Bowman, delante! ¡En marcha!>|
+
+|<^1SWIFT: ^7Mantenga la luz firme, Mason.>|
+
+|<^1MASON: ^7Espere.>|
+
+|<^1MASON: ^7Reznov... casi le meten un tiro.>|
+
+|<^1REZNOV: ^7Nadie lucha solo, Mason.>|
+
+|<^1REZNOV: ^7Muy bien. Daré la vuelta.>|
+
+|<^1MASON: ^7Vale, ¡pero no haga ruido!>|
+
+|<^1SWIFT: ^7¿Puede saberse qué coño pasa?>|
+
+|<^1SWIFT: ^7¿Puede saberse qué le pasa?>|
+
+|<^1MASON: ^7Todo bien. Sigamos, Swift.>|
+
+|<^1SWIFT: ^7Mason, no puede perder los nervios...>|
+
+|<^1MASON: ^7Ah, mierda...>|
+
+|<^1MASON: ^7Maldición...>|
+
+|<^1REZNOV: ^7¿Y nuestro amigo Swift?>|
+
+|<^1MASON: ^7Woods, responda.>|
+
+|<^1WOODS: ^7Adelante, Mason.>|
+
+|<^1MASON: ^7Swift ha muerto... Tenemos VC por todas partes.>|
+
+|<^1WOODS: ^7Lima 9 está peinando la zona. No hay rastro de... (static)>|
+
+|<^1MASON: ^7Woods, ¿me recibe?>|
+
+|<^1MASON: ^7Mierda...>|
+
+|<^1REZNOV: ^7¿Dónde está su amigo Swift?>|
+
+|<^1REZNOV: ^7Todos morimos, Mason.>|
+
+|<^1REZNOV: ^7Hay indicios de presencia soviética en estos túneles... Vamos bien para encontrar a Kravchenko...>|
+
+|<^1REZNOV: ^7Ayúdeme a mover esto.>|
+
+|<^1REZNOV: ^7Su turno, amigo. Yo iré detrás.>|
+
+|<^1MASON: ^7¿Por dónde, Reznov?>|
+
+|<^1REZNOV: ^7Siga su instinto, Mason.>|
+
+|<^1MASON: ^7Mierda.>|
+
+|<^1MASON: ^7Maldición.>|
+
+|<^1MASON: ^7¡Hijo de perra!>|
+
+|<^1MASON: ^7Hijo de...>|
+
+|<^1REZNOV: ^7Cuidado, Mason... Oigo al enemigo.>|
+
+|<^1REZNOV: ^7Buen trabajo, amigo.>|
+
+|<^1REZNOV: ^7Nos estamos acercando, Mason.>|
+
+|<^1MASON: ^7¿Está conmigo, Reznov?>|
+
+|<^1REZNOV: ^7Por fin... El complejo avanzado de Kravchenko.>|
+
+|<^1MASON: ^7Parece abandonado.>|
+
+|<^1REZNOV: ^7Kravchenko sabía que veníamos.>|
+
+|<^1MASON: ^7Y se fue pitando.>|
+
+|<^1REZNOV: ^7Miren alrededor.>|
+
+|<^1REZNOV: ^7Kravchenko...>|
+
+|<^1KRAVCHENKO: ^74 de febrero de 1968. Los agentes estabilizadores proporcionados por el doctor Clarke han sido un éxito.>|
+
+|<^1KRAVCHENKO: ^7Las recientes pruebas sobre la población local han mostrado que esta es la cepa del Nova 6 más eficaz hasta la fecha.>|
+
+|<^1KRAVCHENKO: ^7Al igual que en las pruebas previas con animales en Renacimiento, el inicio de los síntomas en sujetos humanos cumple las expectativas.>|
+
+|<^1KRAVCHENKO: ^7A los 30 segundos de inhalar el gas, los sujetos experimentan un intenso y súbito dolor, seguido rápidamente de una caída significativa en la presión arterial, fiebre, náuseas y vómitos.>|
+
+|<^1KRAVCHENKO: ^7Transcurridos 60 segundos, aparecen ampollas en la piel, seguidas de escamas, exfoliación y decoloración por todo el cuerpo... que dejan patente el inicio de la necrosis epidérmica.>|
+
+|<^1KRAVCHENKO: ^7En esta fase hemos tenido éxito limitado a la hora de mantener a los sujetos vivos brevemente mediante descombrado quirúrgico agresivo.>|
+
+|<^1KRAVCHENKO: ^7Pero ni la eliminación quirúrgica del tejido infectado basta para detener la expansión.>|
+
+|<^1KRAVCHENKO: ^7Aunque la velocidad de infección parece ser consistente entre machos adultos, hemos observado un deterioro más agresivo en niños, que suele ser letal en 30 ó 45 segundos.>|
+
+|<^1KRAVCHENKO: ^7Todo parece indicar que la fórmula actual es plenamente eficaz, incluso en climas cálidos.>|
+
+|<^1KRAVCHENKO: ^7Comuniquen nuestros éxitos al doctor Steiner. Corto.>|
+
+|<^1REZNOV: ^7Estos documentos indican que la base principal de operaciones de Kravchenko está en Laos.>|
+
+|<^1REZNOV: ^7Hay planes de vuelo hasta la base... Suministros traídos de algún sitio llamado... ¿Renacimiento?>|
+
+|<^1MASON: ^7¿A cuánta gente ha matado este cabrón?>|
+
+|<^1REZNOV: ^7A más de los que puede imaginar, Mason.>|
+
+|<^1MASON: ^7Usa las atrocidades de la guerra para encubrir sus experimentos...>|
+
+|<^1MASON: ^7Kravchenko intenta que parezca que EE. UU. está detrás de todo.>|
+
+|<^1MASON: ^7Debían de bajarle los suministros por aquí.>|
+
+|<^1MASON: ^7Coja esos documentos, Reznov. ¡Nos vamos!>|
+
+|<^1REZNOV: ^7¡Vamos, vamos!>|
+
+|<^1MASON: ^7X-Ray, ¿me recibe?>|
+
+|<^1MASON: ^7¡Joder!>|
+
+|<^1REZNOV: ^7¡Deprisa, Mason! ¡No quiero que esta ratonera sea mi tumba!>|
+
+|<^1MASON: ^7Repito. Woods, ¿me recibe?>|
+
+|<^1WOODS: ^7¿Mason? ¿Qué coño ha pasado? ¡Vemos fuego que sale de los túneles!>|
+
+|<^1MASON: ^7¡Kravchenko pretendía volar todo eso!>|
+
+|<^1WOODS: ^7¡¿Dónde coño están?!>|
+
+|<^1MASON: ^7¡Seguimos los túneles un kilómetro hacia el norte!>|
+
+|<^1WOODS: ^7¡Entonces deberían salir cerca de la cresta norte!>|
+
+|<^1REZNOV: ^7¡Tendremos que salir excavando a mano!>|
+
+|<^1WOODS: ^7Mantendremos un patrón de búsqueda hasta encontrarlos.>|
+
+|<^1MASON: ^7¡Venga! ¡Vamos!>|
+
+|<^1REZNOV: ^7Excave, Mason. ¡Excave!>|
+
+|<^1MASON: ^7¡Mierda!>|
+
+|<^1MASON: ^7¡Maldición!>|
+
+|<^1REZNOV: ^7¡VC, Mason!>|
+
+|<^1MASON: ^7¿Dónde está, Woods?>|
+
+|<^1WOODS: ^7¡Larguémonos pitando de aquí!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_p_jun_group_photo>|
+

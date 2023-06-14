@@ -1,0 +1,576 @@
+|<Comandante Thomas>|
+
+|<^LTransmisión núm. 9-19. Designación: SIERRA^L>|
+
+|<^C1Base aérea de Beale, California^C>|
+
+|<^LBlackbird en misión de vigilancia. Nombre en clave: BIGEYE^L>|
+
+|<^LJefe de la operación^L ^C1Capitán Mosely^C>|
+
+|<^L5:00,^L ^C118 de febrero de 1968^C>|
+
+|<Localiza a Kilo 1>|
+
+|<Mueve el pelotón al este>|
+
+|<Pulsa ^3[{+attack}]^7 para arrancar motores.>|
+
+|<Mueve hacia atrás ^3[{+movestick}]^7 para despegar.>|
+
+|<Pulsa ^3[{+activate}]^7 para marcar la posición enemiga.>|
+
+|<Posición enemiga>|
+
+|<Pulsa ^3[{+gostand}]^7 para dar órdenes al pelotón.>|
+
+|<Usa ^3[{+lookstick}]^7 para controlar la cámara.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para aumentar el zoom de la cámara.>|
+
+|<Pulsa ^3[{+attack}]^7 para reducir el zoom de la cámara.>|
+
+|<Pulsa ^3[{+activate}]^7 para salir.>|
+
+|<Apoyo>|
+
+|<Kilo 1>|
+
+|<Pon a salvo a Kilo 1>|
+
+|<Piso franco>|
+
+|<Elimina a los enemigos del jeep>|
+
+|<Eliminar>|
+
+|<Despeja el cuartel>|
+
+|<Despejar>|
+
+|<Reagrúpate en la cresta>|
+
+|<Cobertura>|
+
+|<Pulsa ^3[{+melee}]^7 para ordenar al pelotón que se atrinchere.>|
+
+|<Despeja los barracones y destruye el enlace>|
+
+|<Barracones>|
+
+|<Mantén a salvo a Kilo 1 >|
+
+|<Destruye las comunicaciones internas>|
+
+|<Coloca una carga>|
+
+|<Detona>|
+
+|<Punto de inserción>|
+
+|<Reagrúpate>|
+
+|<Guía a Kilo 1 al punto de inserción>|
+
+|<Mantén ^3[{+activate}]^7 para colocar explosivos.>|
+
+|<Pulsa ^3[{+attack}]^7 para detonar.>|
+
+|<Guía a Kilo 1 al piso franco.>|
+
+|<Ordena al pelotón que se atrinchere para evitar a la patrulla.>|
+
+|<Ordena al pelotón que se atrinchere para evitar al convoy.>|
+
+|<Mantén al pelotón lejos del camino para evitar que os atropellen>|
+
+|<Ordena al pelotón que elimine a los guardias.>|
+
+|<^1US PILOT: ^7KAD, aquí Big Eye 6 solicitando despegue.>|
+
+|<^1MANDO: ^7Big Eye 6, permiso para despegar, pista 4.>|
+
+|<^1US PILOT: ^7KAD, confirme repostaje con KC-135 en sector Bravo 6-9.>|
+
+|<^1MANDO: ^Afirmativo, Big Eye 6. KC-135 en la zona. Se reunirán con ustedes allí.>|
+
+|<^1MANDO: ^7Big Eye 6, el cielo es suyo.>|
+
+|<^1US PILOT: ^7Recibido, KAD. Mío.>|
+
+|<^1US PILOT: ^7Chequeo de sistemas completado. Potencia... Bien. Puede proceder.>|
+
+|<^1US PILOT: ^7Vale.>|
+
+|<^1US PILOT: ^7KAD, en marcha.>|
+
+|<^1MANDO: ^7Recibido, Big Eye.>|
+
+|<^1US PILOT: ^7Y... Tenemos velocidad.>|
+
+|<^1US PILOT: ^7V-1. Rotación.>|
+
+|<^1US PILOT: ^7V-1. Correcto.>|
+
+|<^1US PILOT: ^7Tren de aterrizaje.>|
+
+|<^1US PILOT: ^7Correcto.>|
+
+|<^1US PILOT: ^7KAD, aquí Big Eye. Nos vamos.>|
+
+|<^1US PILOT: ^7Afirmativo. Los tengo.>|
+
+|<^1US PILOT: ^7Kilo 1, aquí Big Eye 6. Los tengo en el TRP.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye 6. Tenemos visibilidad cero en tierra. Necesitamos que nos guíe hasta el repetidor.>|
+
+|<^1US PILOT: ^7Compruebe el indicador de blanco.>|
+
+|<^1PILOTO EE. UU.: ^7Ubique a Kilo 1 en el TAC con el indicador de blanco, copiloto.>|
+
+|<^1US PILOT: ^7Veo vehículos enemigos acercándose. Saque el pelotón de la carretera.>|
+
+|<^1US PILOT: ^7Parece que hay una estructura al norte. Llévelos dentro, copiloto.>|
+
+|<^1US PILOT: ^7Están pasando junto a la casa.>|
+
+|<^1US PILOT: ^7Espere, no. El enemigo se ha detenido ante la casa.>|
+
+|<^1US PILOT: ^7Viene infantería enemiga... Acaben con ellos.>|
+
+|<^1US PILOT: ^7El enemigo entra. Sale por atrás y se pone a cubierto en el risco de detrás de la estructura. Posición marcada en el TAC. Muévanse.>|
+
+|<^1US PILOT: ^7Vehículo enemigo delante, a un lado de la carretera. En el TAC. Sigan.>|
+
+|<^1PILOTO EE. UU.: ^7Kilo 1, carretera peligrosa. Salgan por detrás del edificio.>|
+
+|<^1PILOTO EE. UU.: ^7Kilo 1, negativo.>|
+
+|<^1PILOTO EE. UU.: ^7Negativo, Kilo 1.>|
+
+|<^1US PILOT: ^7Kilo, dos blancos hacia ustedes.>|
+
+|<^1US PILOT: ^7Elimínenlos.>|
+
+|<^1US PILOT: ^7Muy bien. Prosigan.>|
+
+|<^1PILOTO EE. UU.: ^7Copiloto, se acerca una patrulla.>|
+
+|<^1US PILOT: ^7Kilo, ocúltense.>|
+
+|<^1HUDSON: ^7Mantenemos la posición.>|
+
+|<^1PILOTO EE. UU.: ^7Confirmado, Kilo 1. Están ocultos.>|
+
+|<^1US PILOT: ^7Todo listo, Kilo 1.>|
+
+|<^1US PILOT: ^7Lleven al pelotón a los barracones. El primer objetivo está dentro.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye. Prepárense.>|
+
+|<^1PILOTO EE. UU.: ^7Nos acercamos a los barracones. Blancos múltiples dentro. Elimínenlos, Kilo 1.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye.>|
+
+|<^1HUDSON: ^7Comunicaciones internas cortadas. Pasamos al objetivo secundario.>|
+
+|<^1US PILOT: ^7Recibido, Kilo 1.>|
+
+|<^1PILOTO EE. UU.: ^7Kilo 1, se aproxima infantería. Veo al menos 6 blancos. Demasiado peligro.>|
+
+|<^1US PILOT: ^7Escóndanse. No se dejen ver.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye. Nos escondemos.>|
+
+|<^1US PILOT: ^7Kilo, vayan al norte.>|
+
+|<^1HUDSON: ^7Recibido. Vamos al norte.>|
+
+|<^1US PILOT: ^7Kilo, diríjanse al norte.>|
+
+|<^1HUDSON: ^7Recibido. Nos vamos.>|
+
+|<^1US PILOT: ^7Vayan al norte, Kilo.>|
+
+|<^1HUDSON: ^7Entendido. Vamos al norte.>|
+
+|<^1US PILOT: ^7Al sur, Kilo.>|
+
+|<^1HUDSON: ^7Vale.>|
+
+|<^1US PILOT: ^7Diríjanse al sur.>|
+
+|<^1HUDSON: ^7Entendido. Vamos al sur.>|
+
+|<^1US PILOT: ^7Vayan al sur, Kilo.>|
+
+|<^1HUDSON: ^7Ya vamos. Cambio.>|
+
+|<^1US PILOT: ^7Kilo, deben ir al este.>|
+
+|<^1HUDSON: ^7En camino.>|
+
+|<^1US PILOT: ^7Vayan al este.>|
+
+|<^1HUDSON: ^7Recibido.>|
+
+|<^1US PILOT: ^7Kilo, vayan al este.>|
+
+|<^1PILOTO EE. UU.: ^7Al oeste, Kilo 1.>|
+
+|<^1HUDSON: ^7Vamos al oeste, Big Eye.>|
+
+|<^1US PILOT: ^7Kilo, tienen que ir al oeste.>|
+
+|<^1HUDSON: ^7Recibido. En marcha.>|
+
+|<^1US PILOT: ^7Vayan al oeste, Kilo.>|
+
+|<^1US PILOT: ^7Dos blancos avistados. Mátenlos.>|
+
+|<^1US PILOT: ^7Kilo, dos blancos en el TAC. Elimínenlos.>|
+
+|<^1US PILOT: ^7Tres enemigos cerca. Acaben con ellos.>|
+
+|<^1HUDSON: ^7Bien. Iniciamos el contacto.>|
+
+|<^1US PILOT: ^7Contacto. Tres blancos. Mátenlos.>|
+
+|<^1HUDSON: ^7Estamos en ello, Big Eye.>|
+
+|<^1US PILOT: ^7Contactos múltiples. Fuego a discreción.>|
+
+|<^1HUDSON: ^7Entendido, Big Eye.>|
+
+|<^1US PILOT: ^7Blancos múltiples. Ataquen.>|
+
+|<^1HUDSON: ^7Entendido. Allá vamos.>|
+
+|<^1US PILOT: ^7Kilo, tienen compañía. Elimínenlos.>|
+
+|<^1HUDSON: ^7Ya son nuestros.>|
+
+|<^1US PILOT: ^7Vehículo móvil en el TAC. Es un camión. Destrúyanlo.>|
+
+|<^1HUDSON: ^7Recibido. Vamos a por él.>|
+
+|<^1US PILOT: ^7Viene un vehículo. Parece un jeep.>|
+
+|<^1HUDSON: ^7Lo vemos. Iniciando contacto.>|
+
+|<^1US PILOT: ^7Vehículos enemigos cerca. Deténganlos.>|
+
+|<^1HUDSON: ^7Entendido, Big Eye. Espere.>|
+
+|<^1US PILOT: ^7Buen trabajo, Kilo.>|
+
+|<^1US PILOT: ^7Todo despejado, Kilo.>|
+
+|<^1US PILOT: ^7Zona despejada. Bien hecho.>|
+
+|<^1US PILOT: ^7Todo despejado. Buen trabajo.>|
+
+|<^1US PILOT: ^7Lo han conseguido.>|
+
+|<^1US PILOT: ^7Objetivo cumplido.>|
+
+|<^1US PILOT: ^7Bien hecho, Kilo 1.>|
+
+|<^1US PILOT: ^7Buena suerte. Nos vamos.>|
+
+|<^1US PILOT: ^7Zona asegurada. Excelente.>|
+
+|<^1US PILOT: ^7¡Blancos múltiples en la carretera! ¡Saque a Kilo de ahí!>|
+
+|<^1US PILOT: ^7Kilo, se aproximan enemigos. ¡Deben esfumarse de inmediato!>|
+
+|<^1HUDSON: ^7¡Agáchense! ¡Agáchense!>|
+
+|<^1PILOTO EE. UU.: ^7KAD, Kilo 1 neutralizado.>|
+
+|<^1PILOTO EE. UU.: ^7¿Kilo 1? Adelante, Kilo 1...>|
+
+|<^1PILOTO EE. UU.: ^7KAD, Kilo 1 perdido.>|
+
+|<^1HUDSON: ^7Bien. Vamos a atacar.>|
+
+|<^1HUDSON: ^7Entendido. Vamos a por él.>|
+
+|<^1HUDSON: ^7Nos movemos, Big Eye.>|
+
+|<^1HUDSON: ^7¡Voy!>|
+
+|<^1PILOTO EE. UU.: ^7Negativo, copiloto.>|
+
+|<^1PILOTO EE. UU.: ^7Alto.>|
+
+|<^1US PILOT: ^7Negativo.>|
+
+|<^1WEAVER: ^7¡Cegadora!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€H>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

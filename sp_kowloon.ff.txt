@@ -1,0 +1,378 @@
+|<Escape de gas>|
+
+|<Ataque al almacén>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para romper la ventana.>|
+
+|<Pulsa ^3[{+attack}]^7 para dar un puñetazo.>|
+
+|<Escolta a Clarke>|
+
+|<Dispara al bote>|
+
+|<Defiéndete del ataque Spetsnaz>|
+
+|<Sigue a Weaver>|
+
+|<Escolta>|
+
+|<Defiende>|
+
+|<Dispara>|
+
+|<^LTransmisión núm. 23-1-19. Designación: VICTOR^L>|
+
+|<^LObjetivo: Dr. Daniel Clarke en^L ^C1Ciudad de Kowloon, Hong Kong^C>|
+
+|<^LEquipo de extracción:^L ^C1Hudson^C^L, Weaver y agentes destacados de la base 3^L>|
+
+|<^C1CIA^C ^LPuesto núm. 4568. Designación "k"^L>|
+
+|<^L17:00,^L ^C19 de febrero de 1968^C>|
+
+|<Mantén ^3[{+activate}]^7 para coger CZ-75.>|
+
+|<Escapa con el Dr. Clarke>|
+
+|<Tienes que esprintar y saltar para cruzar.>|
+
+|<Escapa con Weaver>|
+
+|<¡Has sido expuesto al Nova 6!>|
+
+|<^1INTERROGATOR: ^7Hudson estaba torturando a Clarke y, de repente, lo ayuda. ¿Por qué?>|
+
+|<^1MASON: ^7 La CIA solo quería la información de Clarke. Dragovich quería su cabeza.>|
+
+|<^1CLARKE: ^7¿Es que no lo entienden?>|
+
+|<^1CLARKE: ^7Si creen que la brutalidad avalada por su gobierno me intimida, está claro que no saben nada sobre Dragovich...>|
+
+|<^1CLARKE: ^7No ganaré nada por hablar con ustedes.>|
+
+|<^1HUDSON: ^7Piense en lo que tiene que perder.>|
+
+|<^1WEAVER: ^7Podemos estar así todo el día. Hay ventanas de sobra...>|
+
+|<^1HUDSON: ^7O puede darnos lo que queremos y garantizaremos su seguridad...>|
+
+|<^1CLARKE: ^7Ya soy hombre muerto...>|
+
+|<^1CLARKE: ^7Han intentado cazarme en todos los rincones del planeta...>|
+
+|<^1CLARKE: ^7Si me han encontrado ustedes, ellos también podrán... Saben lo mismo que ustedes. Seguro que ya están en camino.>|
+
+|<^1HUDSON: ^7¿Por qué?>|
+
+|<^1CLARKE: ^7A Dragovich no le gustan los cabos sueltos... Ni siquiera he tratado con él en persona. Solo con Steiner, el alemán...>|
+
+|<^1HUDSON: ^7¿En qué consistió su trabajo?>|
+
+|<^1CLARKE: ^7Fui contratado para estabilizar ciertos "compuestos volátiles".>|
+
+|<^1HUDSON: ^7¿Qué tipo de compuestos?>|
+
+|<^1CLARKE: ^7El Nova 6. Un arma bioquímica.>|
+
+|<^1CLARKE: ^7¡Los han traído hasta mí!>|
+
+|<^1WEAVER: ^7¡Agache la cabeza!>|
+
+|<^1CLARKE: ^7¡Los contenedores están perforados!>|
+
+|<^1WEAVER: ^7¿Se ha traído su puto veneno a una zona poblada?>|
+
+|<^1CLARKE: ^7Tenía que hacerlo.>|
+
+|<^1CLARKE: ^7¡Salgan de la sala!>|
+
+|<^1CLARKE: ^7¡El Nova los matará!>|
+
+|<^1CLARKE: ^7¡Sáquenme de aquí! ¡Les contaré todo!>|
+
+|<^1WEAVER: ^7Si es tan paranoico, ¿y su ruta de escape?>|
+
+|<^1CLARKE: ^7¡Hay una escotilla en el techo!>|
+
+|<^1CLARKE: ^7¡Por aquí!>|
+
+|<^1CLARKE: ^7Venga. ¡Vamos, vamos!>|
+
+|<^1CLARKE: ^7¿Ha inhalado el gas?>|
+
+|<^1HUDSON: ^7Creo que no.>|
+
+|<^1CLARKE: ^7Menos mal...>|
+
+|<^1CLARKE: ^7La exposición directa es letal.>|
+
+|<^1WEAVER: ^7¡Vienen Spetsnaz!>|
+
+|<^1WEAVER: ^7¡Pasillo oeste!>|
+
+|<^1WEAVER: ^7¿Por dónde?>|
+
+|<^1CLARKE: ^7Al tejado.>|
+
+|<^1CLARKE: ^7¡Por las escaleras!>|
+
+|<^1WEAVER: ^7¡Ventana derecha! ¡Derecha!>|
+
+|<^1CLARKE: ^7¡Al tejado!>|
+
+|<^1WEAVER: ^7¡Chyort! ¡Francotiradores!>|
+
+|<^1CLARKE: ^7¡Hay que llegar a la torre de enfrente!>|
+
+|<^1WEAVER: ^7¿Cómo?>|
+
+|<^1CLARKE: ^7¡Saltando!>|
+
+|<^1HUDSON: ^7¡Debe de ser una broma!>|
+
+|<^1CLARKE: ^7¡Salten!>|
+
+|<^1WEAVER: ^7¡Vamos!>|
+
+|<^1WEAVER: ^7¿A qué está esperando?>|
+
+|<^1WEAVER: ^7¡Salte, Hudson, salte!>|
+
+|<^1HUDSON: ^7¡Hijo de perra!>|
+
+|<^1HUDSON: ^7Hijo de...>|
+
+|<^1HUDSON: ^7¡Uf!>|
+
+|<^1CLARKE: ^7¡Ayúdenme a mover esto!>|
+
+|<^1CLARKE: ^7Cojan lo que necesiten. Llegarán aquí en un instante.>|
+
+|<^1HUDSON: ^7Para ser hombre muerto, está bien preparado.>|
+
+|<^1CLARKE: ^7¡Que acepte la inevitabilidad de mi destino no significa que tenga ganas de que llegue!>|
+
+|<^1CLARKE: ^7¡Aunque acepte la inevitabilidad de mi destino, no tengo ganas de que llegue!>|
+
+|<^1WEAVER: ^7Lo que usted diga, inglés.>|
+
+|<^1HUDSON: ^7Bien... Conmigo.>|
+
+|<^1WEAVER: ^7¡Aquí están!>|
+
+|<^1WEAVER: ^7¡Hudson! ¡Izquierda!>|
+
+|<^1WEAVER: ^7¡Cegadora!>|
+
+|<^1HUDSON: ^7¡Cegadora!>|
+
+|<^1WEAVER: ^7¡Están rompiendo las ventanas!>|
+
+|<^1HUDSON: ^7¿Por dónde?>|
+
+|<^1CLARKE: ^7Puerta izquierda.>|
+
+|<^1CLARKE: ^7¡A los tejados!>|
+
+|<^1WEAVER: ^7¿Seguro que sabe adónde nos dirigimos?>|
+
+|<^1CLARKE: ^7Lo tengo todo planeado.>|
+
+|<^1CLARKE: ^7Deprisa. ¡Abajo!>|
+
+|<^1CLARKE: ^7¡Por la tubería!>|
+
+|<^1HUDSON: ^7¿Este tipo es científico?>|
+
+|<^1CLARKE: ^7¡Deprisa!>|
+
+|<^1CLARKE: ^7¡Muevan el culo aquí abajo!>|
+
+|<^1WEAVER: ^7Dos gilipollas más abajo.>|
+
+|<^1WEAVER: ^7Dos más abajo.>|
+
+|<^1HUDSON: ^7No hay problema.>|
+
+|<^1HUDSON: ^7Míos.>|
+
+|<^1WEAVER: ^7Dragovich se toma muchas molestias para silenciarlo... ¿Qué nos está ocultando?>|
+
+|<^1CLARKE: ^7Ya les dije lo del Nova 6...>|
+
+|<^1WEAVER: ^7¿Dónde está su base? ¿Vietnam, Laos, Camboya?>|
+
+|<^1CLARKE: ^7Su territorio, en los Urales, Yamantau.>|
+
+|<^1CLARKE: ^7Allí encontrarán a Steiner, con los últimos preparativos del proyecto Nova.>|
+
+|<^1CLARKE: ^7Allí encontrarán a Steiner, su mascota nazi, con los últimos preparativos del proyecto Nova.>|
+
+|<^1HUDSON: ^7¿Qué más? Chismorreos, rumores... ¡lo que sea!>|
+
+|<^1CLARKE: ^7Steiner y Dragovich hablaban de números...>|
+
+|<^1HUDSON: ^7¿Qué clase de números?>|
+
+|<^1CLARKE: ^7¡Números de los que depende su plan!>|
+
+|<^1WEAVER: ^7¡Enemigo, a las 12, abajo!>|
+
+|<^1CLARKE: ^7Mierda...>|
+
+|<^1CLARKE: ^7Maldición...>|
+
+|<^1CLARKE: ^7Han enviado un equipo de limpieza para robar lo que queda de mi investigación.>|
+
+|<^1CLARKE: ^7Van a llevar un equipo de limpieza para robar lo que queda de mi investigación.>|
+
+|<^1CLARKE: ^7Gracias, pero no, Dragovich... ¡Puedo limpiar mi propia mierda! ¡Ja!>|
+
+|<^1CLARKE: ^7No, Dragovich... ¡Puedo limpiar mi propia mierda!>|
+
+|<^1CLARKE: ^7¿Andan escasos de munición? Todavía nos queda un buen trecho.>|
+
+|<^1CLARKE: ^7¡Balcón de la izquierda!>|
+
+|<^1WEAVER: ^7¡Hudson! ¡Cuidado!>|
+
+|<^1CLARKE: ^7Sigan el pasillo. ¡Hasta el final!>|
+
+|<^1WEAVER: ^7¡Más Spetsnaz a la derecha!>|
+
+|<^1WEAVER: ^7¡Están entrando por el tejado!>|
+
+|<^1CLARKE: ^7Volvamos fuera. ¡Balcón de la derecha!>|
+
+|<^1HUDSON: ^7¿Cómo coño se acuerda de todo esto, Clarke?>|
+
+|<^1CLARKE: ^7¡Al siguiente balcón!>|
+
+|<^1CLARKE: ^7¡Ya falta poco!>|
+
+|<^1CLARKE: ^7Armas y munición. Cojan lo que necesiten.>|
+
+|<^1CLARKE: ^7Ahora... Ha pasado mucho tiempo.>|
+
+|<^1CLARKE: ^7Dios, es lo puto peor... 54... 23... ¿Cuál es, la hostia?>|
+
+|<^1CLARKE: ^75... 11... 19... ¿45?>|
+
+|<^1HUDSON: ^7¡A sus 6!>|
+
+|<^1WEAVER: ^7¿Ha olvidado su propia combinación?>|
+
+|<^1CLARKE: ^7Ya... ¡El 7 de la suerte!>|
+
+|<^1WEAVER: ^7¿Números tatuados en el cuerpo? ¿Qué te estás callando, Clarke?>|
+
+|<^1CLARKE: ^7¡Vamos, vamos, vamos!>|
+
+|<^1CLARKE: ^7¡Cúbranme! Tengo que abrir esta puerta.>|
+
+|<^1CLARKE: ^7¡Cúbranme mientras abro esta puerta!>|
+
+|<^1CLARKE: ^7¡Vamos! ¡Casi lo hemos conseguido!>|
+
+|<^1CLARKE: ^7¡Aaargh!>|
+
+|<^1CLARKE: ^7Mmmpf... ¡Joder!>|
+
+|<^1WEAVER: ^7Hudson, agárrelo. ¡Vamos!>|
+
+|<^1CLARKE: ^7¡Me resbalo!>|
+
+|<^1WEAVER: ^7¡Salte, Hudson!>|
+
+|<^1WEAVER: ^7¡Lo tengo!>|
+
+|<^1HUDSON: ^7¿Qué hay de los números, Clarke?>|
+
+|<^1CLARKE: ^7Ah... Los números... Son la clave para...>|
+
+|<^1WEAVER: ^7Joder... Vámonos.>|
+
+|<^1WEAVER: ^7Vamos.>|
+
+|<^1WEAVER: ^7Tug boat, aquí Red Eye...>|
+
+|<^1WEAVER: ^7Extracción inmediata, a ras de calle. Torre 4. Lado sur.>|
+
+|<^1AGENT: ^7Recibido, Red Eye... Ya vamos.>|
+
+|<^1AGENTE: ^7Red Eye, nos acercamos a la evacuación. ¡Deprisa!>|
+
+|<^1AGENT: ^7Hemos visto los fuegos artificiales desde aquí. ¿Tienen al objetivo?>|
+
+|<^1WEAVER: ^7Negativo... Ha muerto.>|
+
+|<^1WEAVER: ^7Red Eye, corto.>|
+
+|<^1WEAVER: ^7Vamos, Hudson... Veo una bajada.>|
+
+|<^1WEAVER: ^7Por aquí.>|
+
+|<^1WEAVER: ^7¡Hudson! A la furgoneta.>|
+
+|<^1WEAVER: ^7Venga. ¡Salgamos de aquí!>|
+
+|<^1WEAVER: ^7¿A qué esperamos? A la furgoneta.>|
+
+|<^1AGENT: ^7¿Adónde vamos?>|
+
+|<^1HUDSON: ^7Clarke identificó a Steiner, un científico nazi que trabajaba para Dragovich. Vamos a Rusia, al monte Yamantau.>|
+
+|<^1WEAVER: ^7A Yamantau.>|
+
+|<^1CLARKE: ^7¡Debemos seguir avanzando!>|
+
+|<^1CLARKE: ^7¿Adónde va?>|
+
+|<^1CLARKE: ^7¡No! ¡No es por ahí!>|
+
+|<^1CLARKE: ^7¡No se alejen de mí!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ˆD>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

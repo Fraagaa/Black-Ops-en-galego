@@ -1,0 +1,844 @@
+|<Cuidado con la cabeza. >|
+
+|<Usa ^3[{+frag}]^7 para disparar misiles desde la posición de Bowman.>|
+
+|<Usa ^3[{+smoke}]^7 para disparar misiles desde la posición de Woods.>|
+
+|<Pulsa ^3[{+melee}]^7 para acercar o alejar la vista.>|
+
+|<Pulsa ^3[{+attack}]^7 para disparar la ametralladora.>|
+
+|<Pulsa ^3[{+frag}]^7 para ordenar a Bowman que dispare.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para disparar misiles.>|
+
+|<Usa  para apuntar.>|
+
+|<Usa  para moverte.
+>|
+
+|<^L13:00,^L ^C111 de febrero de 1968^C>|
+
+|<^C1Mason^C ^Ly el equipo SOG tienen que recuperar el Nova 6 entre los restos^L>|
+
+|<^LAvión de carga soviético derribado sobre^L ^C1Laos ^C>|
+
+|<^LConfirmación: los soviéticos suministran armas químicas al ejército norvietnamita^L
+>|
+
+|<^LTransmisión núm. 2-15-4-25. Designación: INDIA^L
+>|
+
+|<Pilota la patrullera>|
+
+|<Corta el cabo de proa>|
+
+|<Infíltrate en la base enemiga>|
+
+|<Ve adonde se estrelló el Chinook>|
+
+|<Rescata a la tripulación del helicóptero>|
+
+|<Sálvale la vida al piloto>|
+
+|<Derrota al francotirador enemigo>|
+
+|<Investiga el lugar del accidente>|
+
+|<¡Vuelve a la patrullera!>|
+
+|<¡Huye!>|
+
+|<PG BUQUE>|
+
+|<No has atacado a la patrullera enemiga.>|
+
+|<Pulsa ^3[{+attack}]^7 para subir a bordo.>|
+
+|<Pulsa ^3[{+activate}]^7 para conducir el vehículo.>|
+
+|<Busca un lugar seguro donde atracar.>|
+
+|<Piloto de Chinook>|
+
+|<Barnes>|
+
+|<Lewis>|
+
+|<Reznov>|
+
+|<Defiende el lugar del accidente>|
+
+|<Cubre a Woods y Bowman mientras vuelven de la patrullera>|
+
+|<Mata al NVA de la patrullera>|
+
+|<>|
+
+|<Mantén ^3[{+activate}]^7 para atar la cuerda.>|
+
+|<Pulsa ^3[{+melee}]^7 para cortar la cuerda.>|
+
+|<Dirígete al helicóptero de rescate>|
+
+|<Ata la cuerda>|
+
+|<Corta la cuerda>|
+
+|<Dirígete río arriba al lugar del accidente>|
+
+|<Reagrúpate en el muelle>|
+
+|<Toma el control de la patrullera>|
+
+|<Ataca a los blancos enemigos>|
+
+|<Destruye los lanzamisiles (quedan 3 de 3)>|
+
+|<Destruye los lanzamisiles (quedan 2 de 3)>|
+
+|<Destruye los lanzamisiles (queda 1 de 3)>|
+
+|<Destruye los lanzamisiles>|
+
+|<Repliégate en el puente>|
+
+|<Destruye el cañón antiaéreo>|
+
+|<Destruye los cañones antiaéreos>|
+
+|<Destruye el búnker de hormigón>|
+
+|<Destruye el ZSU>|
+
+|<Activa la patrullera blindada>|
+
+|<Reagrúpate con las fuerzas americanas río arriba>|
+
+|<Reúnete con las fuerzas en la orilla>|
+
+|<Sigue>|
+
+|<Conduce>|
+
+|<Dirígete al puente. Ataque aéreo inminente>|
+
+|<Atención: ataque con mortero>|
+
+|<>|
+
+|<Destruye>|
+
+|<Destruye los blancos enemigos>|
+
+|<^1MASON: ^7El chaval no sobrevivió.
+Juro por Dios que Woods estaba llorando, pero nunca deja que veamos sus lágrimas.>|
+
+|<^1MASON: ^7La CIA derribó ese avión de carga a cinco kilómetros de aquí.>|
+
+|<^1WOODS: ^7Debemos llegar al Nova 6 antes de que los soviéticos lo limpien.>|
+
+|<^1MASON: ^7Bien... En marcha.>|
+
+|<^1WOODS: ^7¡Nuestro vehículo! ¡Vamos!>|
+
+|<^1US MARINE: ^7¡Vi a cuatro! ¿Adónde han ido?>|
+
+|<^1US MARINE: ^7Última oportunidad...>|
+
+|<^1US MARINE: ^7Es todo tuyo.>|
+
+|<^1US MARINE: ^7Eso es por Wilson. ¡Tenía 18 años!>|
+
+|<^1PLATOON LEADER: ^7¡No va a conseguirlo! ¡Vamos, vamos!>|
+
+|<^1BOWMAN: ^7Los he visto peores, ¡y algunos sobrevivieron!>|
+
+|<^1PLATOON LEADER: ^7Ya, pero, ¿cómo va a quedar?>|
+
+|<^1US MARINE: ^7¡Deprisa, gilipollas!>|
+
+|<^1US MARINE: ^7¡Deprisa!>|
+
+|<^1WOODS: ^7¡Mason, a la embarcación!>|
+
+|<^1WOODS: ^7¡Tenemos que largarnos!>|
+
+|<^1BOWMAN: ^7¡Mason! ¡Suba de una vez!>|
+
+|<^1BOWMAN: ^7Deje de perder el tiempo, Mason. ¡Suba!>|
+
+|<^1US MARINE: ^7SOG, ¿verdad? ¿Eh?>|
+
+|<^1WOODS: ^7No lo han conseguido.>|
+
+|<^1WOODS: ^7Use el cañón y no se deje matar.>|
+
+|<^1US MARINE: ^7Señor.>|
+
+|<^1WOODS: ^7Muy bien...>|
+
+|<^1WOODS: ^7M202. ¡Bowman, prepare el arma de estribor! Mason, usted pilota.>|
+
+|<^1WOODS: ^7A ver qué les parece esto.>|
+
+|<^1WOODS: ^7¡A darle cera!>|
+
+|<^1MASON: ^7¿Y Reznov?>|
+
+|<^1WOODS: ^7¿Qué ha dicho?>|
+
+|<^1REZNOV: ^7Buscaré francotiradores.>|
+
+|<^1WOODS: ^7Contacto enemigo justo delante. Nos están disparando. Mason, marque los blancos. Esperaremos su señal. Eh, muchacho...>|
+
+|<^1WOODS: ^7Recuerde lo que dije.>|
+
+|<^1BOWMAN: ^7Tenemos 4 disparos antes de recargar.>|
+
+|<^1WOODS: ^7¡Mason, búsqueme blancos! ¡Estoy esperando!>|
+
+|<^1WOODS: ^7¡Dígame adónde disparar, Mason!>|
+
+|<^1WOODS: ^7Estoy esperando su señal, Mason.>|
+
+|<^1WOODS: ^7¡Recargado y listo! Esperando blancos.>|
+
+|<^1BOWMAN: ^7¡Mason, marque los blancos!>|
+
+|<^1BOWMAN: ^7¿Adónde debo disparar, Mason?>|
+
+|<^1BOWMAN: ^7¡Mason, ya he recargado!>|
+
+|<^1BOWMAN: ^7Joder, Mason. ¡Deme algo a lo que disparar!>|
+
+|<^1BOWMAN: ^7Mason. ¡Deme algo a lo que disparar!>|
+
+|<^1WOODS: ^7¡Recargo!>|
+
+|<^1WOODS: ^7Recarga.>|
+
+|<^1WOODS: ^7Espere. ¡Recargo!>|
+
+|<^1WOODS: ^7¡Estoy seco!>|
+
+|<^1WOODS: ^7¡No tengo munición!>|
+
+|<^1BOWMAN: ^7¡Recargo!>|
+
+|<^1BOWMAN: ^7¡Necesito más munición!>|
+
+|<^1BOWMAN: ^7¡Debo recargar!>|
+
+|<^1BOWMAN: ^7Seco. Recargo.>|
+
+|<^1BOWMAN: ^7¡Seco!>|
+
+|<^1MASON: ^7¡Por poco!>|
+
+|<^1MASON: ^7¡Tengo que alejarnos de aquí!>|
+
+|<^1MASON: ^7¡Mierda, están por todas partes!>|
+
+|<^1MASON: ^7¡Joder, eso casi nos hunde!>|
+
+|<^1MASON: ^7¡Eso casi nos hunde!>|
+
+|<^1WOODS: ^7¡Mason, no lo resistiremos mucho más!>|
+
+|<^1WOODS: ^7¡Maniobra evasiva!>|
+
+|<^1WOODS: ^7¡Casi perdemos a Bowman!>|
+
+|<^1WOODS: ^7¡Fuego pesado!>|
+
+|<^1BOWMAN: ^7¡Sáquenos de aquí, Mason!>|
+
+|<^1BOWMAN: ^7¡Están por todas partes!>|
+
+|<^1BOWMAN: ^7¡Joder!>|
+
+|<^1BOWMAN: ^7¡Maldición!>|
+
+|<^1BOWMAN: ^7¡Mason, acelere!>|
+
+|<^1WOODS: ^7¡Se acabó!>|
+
+|<^1WOODS: ^7¡Nos vamos a pique!>|
+
+|<^1BOWMAN: ^7¡Nos hundimos!>|
+
+|<^1BOWMAN: ^7¡Woods!>|
+
+|<^1MASON: ^7¡Estamos ardiendo!>|
+
+|<^1MASON: ^7Tenemos una vía de agua.>|
+
+|<^1WOODS: ^7No, Mason. ¡Son nuestros!>|
+
+|<^1WOODS: ^7¿Qué hace? ¡Son nuestros soldados!>|
+
+|<^1WOODS: ^7¡Mason, está matando a nuestros hombres!>|
+
+|<^1WOODS: ^7¡Fuego amigo! ¡Fuego amigo!>|
+
+|<^1BOWMAN: ^7Cuidado, son nuestros. ¡Son nuestros!>|
+
+|<^1BOWMAN: ^7Alto el fuego, Mason. ¡Está matando a los nuestros!>|
+
+|<^1BOWMAN: ^7Mason, NO. Son nuestros soldados.>|
+
+|<^1BOWMAN: ^7¡Alto el fuego! ¡Aliados!>|
+
+|<^1WOODS: ^7Cuidado. Campamento enemigo a la izquierda. ¡RPG!>|
+
+|<^1REZNOV: ^7¡Mason, el cañón principal!>|
+
+|<^1WOODS: ^7¡Sí, acribíllelos a todos!>|
+
+|<^1WOODS: ^7¡Destrócenlos!>|
+
+|<^1REZNOV: ^7¡Sin piedad!>|
+
+|<^1MASON: ^7¡Torre delante!>|
+
+|<^1WOODS: ^7¡Está cayendo!>|
+
+|<^1WOODS: ^7¡Morteros! Lanzacohetes móviles justo delante. Hay tres.>|
+
+|<^1BOWMAN: ^7¡Se están moviendo!>|
+
+|<^1WOODS: ^7¡Nos atacan!>|
+
+|<^1WOODS: ^7¡Mason, evasión!>|
+
+|<^1WOODS: ^7¡Acelere, Mason!>|
+
+|<^1BOWMAN: ^7¡Mortero!>|
+
+|<^1BOWMAN: ^7¡Cuidado!>|
+
+|<^1BOWMAN: ^7¡Agáchense!>|
+
+|<^1REZNOV: ^7¡Todos a estribor, Mason!>|
+
+|<^1REZNOV: ^7¡Despedácelos!>|
+
+|<^1REZNOV: ^7¡Cuidado con el impacto!>|
+
+|<^1MASON: ^7¡Va a estar cerca!>|
+
+|<^1MASON: ^7¡Cuidado!>|
+
+|<^1WOODS: ^7¡Por ahí no, Mason! ¡Debemos eliminar los morteros!>|
+
+|<^1WOODS: ^7No, Mason, por el otro lado. ¡Acabe con los lanzacohetes!>|
+
+|<^1WOODS: ^7Ahórreselo, Mason. ¡Hay que eliminar los lanzacohetes primero!>|
+
+|<^1WOODS: ^7Ahórrelo para los móviles.>|
+
+|<^1BOWMAN: ^7¡No! Hay que destruir esos putos morteros.>|
+
+|<^1BOWMAN: ^7Aún no, Mason. Tenemos que eliminar los lanzacohetes.>|
+
+|<^1WOODS: ^7¡Y eso hace uno menos!>|
+
+|<^1WOODS: ^7¡Uno menos!>|
+
+|<^1MASON: ^7¡Sí! Impacto directo.>|
+
+|<^1BOWMAN: ^7¡Diana!>|
+
+|<^1REZNOV: ^7¡Buen disparo! ¡Uno menos!>|
+
+|<^1MASON: ^7¡Vamos!>|
+
+|<^1WOODS: ^7¡Ese era el último! ¡Muy bien!>|
+
+|<^1BOWMAN: ^7¡SOG!>|
+
+|<^1REZNOV: ^7Buen trabajo, amigo.>|
+
+|<^1US MARINE: ^7¡Lo ha conseguido!>|
+
+|<^1WOODS: ^7¡Así se hace, Mason! Ahora, diríjase a la barricada del río. ¡Nuestros chicos se ocuparán de ella!>|
+
+|<^1BOWMAN: ^7¡Sí!>|
+
+|<^1WOODS: ^7¡Blancos múltiples! Torre enfrente, RPG a la derecha. ¡Muchacho, mantenga la cabeza agachada!>|
+
+|<^1REZNOV: ^7¡Perfecto! ¡Se está derrumbando!>|
+
+|<^1WOODS: ^7¡Acribille a esos cabrones!>|
+
+|<^1US MARINE: ^7¡Así se hace!>|
+
+|<^1REZNOV: ^7¡Es igual que en Vorkuta, Mason!>|
+
+|<^1US MARINE: ^7¡Otra torre!>|
+
+|<^1BOWMAN: ^7¡Otro menos!>|
+
+|<^1WOODS: ^7¡Joder! Grupo de ZSU a la izquierda. ¡Nos hará pedazos!>|
+
+|<^1WOODS: ^7¡Hemos perdido a uno! Mason, métales caña.>|
+
+|<^1REZNOV: ^7Mason, ¿a qué está esperando? ¡Dispare!>|
+
+|<^1WOODS: ^7¡Qué cabronazo!>|
+
+|<^1WOODS: ^7¡Dos torres más delante! Movimiento a ambos lados.>|
+
+|<^1REZNOV: ^7¡Mándelos al infierno y que no vuelvan, Mason!>|
+
+|<^1BOWMAN: ^7¡No tienen posibilidades!>|
+
+|<^1US MARINE: ^7¡Sargento, otro ZSU 4!>|
+
+|<^1WOODS: ^7¡Bien! Cuidado, podría haber alguno más por ahí.>|
+
+|<^1WOODS: ^7Tenemos un puente delante. Es fácil.>|
+
+|<^1REZNOV: ^7¡Miren cómo arden!>|
+
+|<^1WOODS: ^7¡Sampanes! Que no se acerquen. Haga pedazos a esos cabrones.>|
+
+|<^1WOODS: ^7¡Uno más!>|
+
+|<^1WOODS: ^7¡Sí, creo que ese era el último!>|
+
+|<^1WOODS: ^7¡Un ZSU en esa cresta! ¡A por él!>|
+
+|<^1BOWMAN: ^7¡A la mierda, cabrón!>|
+
+|<^1BOWMAN: ^7¡A la mierda, mamón!>|
+
+|<^1WOODS: ^7Dos sampanes más. Ya sabe qué hacer.>|
+
+|<^1WOODS: ^7¡Queda uno!>|
+
+|<^1REZNOV: ^7¡Dasvidanya!>|
+
+|<^1WOODS: ^7¡Otro ZSU! ¿Cuántas mierdas de esas tienen por ahí?>|
+
+|<^1WOODS: ^7¡Otro ZSU!>|
+
+|<^1MASON: ^7¡Ese tiene que ser el último!>|
+
+|<^1WOODS: ^7¿Qué cojones es eso?>|
+
+|<^1MASON: ^7¡Métanle caña!>|
+
+|<^1WOODS: ^7Esa era su fortaleza. Los hemos hecho huir.>|
+
+|<^1WOODS: ^7Se acerca algo gordo... Agárrense, muchachos.>|
+
+|<^1WOODS: ^7¡El NVA! ¡Una patrullera! Apunten atrás. ¡El motor está detrás!>|
+
+|<^1BOWMAN: ^7No se quede ahí sentado, Mason. Esa cosa nos va a hacer pedazos.>|
+
+|<^1WOODS: ^7¡Está en llamas! Sigan así.>|
+
+|<^1WOODS: ^7¡Hemos dado al motor!>|
+
+|<^1WOODS: ^7Está perdiendo aceite. Hemos dado al motor. ¡Destrúyanla!>|
+
+|<^1WOODS: ^7¡Le he dado! ¡Destrúyanla! ¡Vamos!>|
+
+|<^1WOODS: ^7Retroceda, Mason. Hay que destruir la embarcación.>|
+
+|<^1WOODS: ^7No podemos irnos, Mason. ¡Hay que destruir el barco!>|
+
+|<^1REZNOV: ^7¡Cúbrase con esos edificios, Mason!>|
+
+|<^1BOWMAN: ^7¡Les hemos dado! ¡Sí!>|
+
+|<^1MASON: ^7¿Eso es todo?>|
+
+|<^1WOODS: ^7¡Joder!>|
+
+|<^1US PILOT: ^7Wolf 10, aquí Rescue 1. Los vemos. El sector está invadido. Vamos a sacarlos.>|
+
+|<^1WOODS: ^7Recibido. Nos van a sacar de aquí. Mason, ese es el punto de encuentro.>|
+
+|<^1WOODS: ^7Mierda. Siento lo del chaval...>|
+
+|<^1WOODS: ^7¡Mason, vaya al PE!>|
+
+|<^1WOODS: ^7No hay tiempo. ¡Ahora, Mason, antes de que sea tarde!>|
+
+|<^1US PILOT: ^7Rescue 1, aquí Centurion 5. Demasiado movimiento. Aborte la evacuación. ¡No hay tiempo!>|
+
+|<^1US PILOT: ^7Negativo. Hay SOG abajo. Ellos lo harían por nosotros. Vamos a sacarlos.>|
+
+|<^1WOODS: ^7CH-47. Hay que darse prisa. El Chinook va a llevarnos a la ZA Delta Tango.>|
+
+|<^1BOWMAN: ^7¡Woods, movimiento! Al este. Yo me ocupo.>|
+
+|<^1US PILOT: ^7Wolf 10, estamos en posición. ¡Centurion, a por ellos!>|
+
+|<^1US PILOT: ^7¡Rescue 1, lárguese! Váyase ya. No podemos contenerlos.>|
+
+|<^1US PILOT: ^7Lo sé.>|
+
+|<^1WOODS: ^7¡Mason!>|
+
+|<^1WOODS: ^7Vamos.>|
+
+|<^1US PILOT: ^7¡Nos han dado! Wolf 10, corte los cables. Nos vamos abajo. Nos vamos abajo. ¡Corte los cables!>|
+
+|<^1US PILOT: ^7¡No puedo controlarlo!>|
+
+|<^1US PILOT: ^7¡Cuidado con el impacto!>|
+
+|<^1US PILOT: ^7Rescue 1 abatido. Los Charlies han retrocedido a los árboles.>|
+
+|<^1WOODS: ^7Recibido, Centurion. ¿Puede quedarse?>|
+
+|<^1US PILOT: ^7Claro, Wolf 10. Siga río arriba. Les cubriremos las espaldas.>|
+
+|<^1WOODS: ^7Bowman, al frente. Mason, al timón.>|
+
+|<^1WOODS: ^7Los Charlies se han ido, pero volverán. Manténganse alerta. Abran los ojos.>|
+
+|<^1US PILOT: ^7No hay movimiento. Aquí pasa algo raro. Vamos a adelantarnos para ver qué ocurre.>|
+
+|<^1WOODS: ^7Recibido. Siga en contacto.>|
+
+|<^1MASON: ^7Esto no me gusta. Podría ser una trampa.>|
+
+|<^1WOODS: ^7Ni parpadeen.>|
+
+|<^1US PILOT: ^7Aquí todo despejado. ¿Qué tal ahí abajo, Wolf 10?>|
+
+|<^1WOODS: ^7De momento nada... Espere. Algo en los árboles.>|
+
+|<^1BOWMAN: ^7Sea lo que sea, nos lo hemos perdido.>|
+
+|<^1WOODS: ^7Tenemos un pájaro abatido. Dígame algo.>|
+
+|<^1US PILOT: ^7Aquí no hay nada.>|
+
+|<^1WOODS: ^7¡No puede ser!>|
+
+|<^1WOODS: ^7No puede ser...>|
+
+|<^1REZNOV: ^7Mason, el avión debe de estar cerca... Y Kravchenko.>|
+
+|<^1US PILOT: ^7Estoy en un cañón a medio kilómetro al norte. Voy a esperar aquí. Centurion 3 y 4 están patrullando. Seguimos sin contactos.>|
+
+|<^1WOODS: ^7No me lo trago. Están ahí delante, esperándonos.>|
+
+|<^1MASON: ^7Bowman. ¿Qué ha pasado?>|
+
+|<^1BOWMAN: ^7Aquí no hay nada.>|
+
+|<^1WOODS: ^7Ya.>|
+
+|<^1US PILOT: ^7Lo veo, Wolf 10. Bienvenido al paraíso.>|
+
+|<^1US PILOT: ^7No tiene nada detrás. Proceda. Un momento. Tengo algo. Espere.>|
+
+|<^1REZNOV: ^7Lo noto. Kravchenko está cerca.>|
+
+|<^1BOWMAN: ^7¿Cómo?>|
+
+|<^1MASON: ^7Kravchenko. Debe de estar cerca.>|
+
+|<^1WOODS: ^7Eso espero, joder.>|
+
+|<^1WOODS: ^7Eso espero.>|
+
+|<^1US PILOT: ^7Lo han encontrado, justo delante. Voy a conectarlo.>|
+
+|<^1US PILOT: ^7Tengo confirmación visual. Punto de impacto. Cuerpos y carga por todas partes. Repito...>|
+
+|<^1US PILOT: ^7Ese es su avión, Wolf 10. Me largo. Nos vemos al otro lado.>|
+
+|<^1WOODS: ^7Prepárense. Recuerden las órdenes. Esos cabrones comunistas andan por aquí.>|
+
+|<^1REZNOV: ^7Al fin, Mason. La llave hacia Kravchenko, Steiner, Dragovich.>|
+
+|<^1US PILOT: ^7Wolf 10, aquí Centurion 3. Síganme. Pueden atracar aquí.>|
+
+|<^1WOODS: ^7Mason, diríjase a la orilla. No tenemos mucho tiempo.>|
+
+|<^1WOODS: ^7¡Mason, no hay tiempo que perder!>|
+
+|<^1WOODS: ^7¿A qué está esperando?>|
+
+|<^1WOODS: ^7¡A la orilla, Mason!>|
+
+|<^1US PILOT: ^7Tengo apoyo terrestre limitado. Voy a soltarlo.>|
+
+|<^1US MARINE: ^7¡Somos suyos, señor! ¿Dónde nos necesita?>|
+
+|<^1WOODS: ^7Que uno de sus muchachos vigile el barco y que el resto me siga. ¡Ya!>|
+
+|<^1US PILOT: ^7Permaneceré bajo y los cubriré. Hay movimiento en las sombras. Atentos.>|
+
+|<^1WOODS: ^7Síganme y no se separen. Disparen a lo que se mueva.>|
+
+|<^1US PILOT: ^7¡Movimiento! ¡Centurion 4 y 5, apoyo aéreo!>|
+
+|<^1US PILOT: ^7¡Actividad! Van directos hacia ustedes.>|
+
+|<^1WOODS: ^7No vemos nada. ¿Dónde están?>|
+
+|<^1US PILOT: ^7¡Helicópteros enemigos! HIND rusos, tres...>|
+
+|<^1US PILOT: ^7Estaban esperándonos... [static]>|
+
+|<^1US PILOT: ^7Centurion 4 a base, cambio. Atención, base, nos están... [static]>|
+
+|<^1WOODS: ^7¡Spetsnaz!>|
+
+|<^1WOODS: ^7¡No se rindan! ¡Los HIND se han ido! Tenemos posibilidades.>|
+
+|<^1BOWMAN: ^7¡Los Charlies retroceden! Los hemos hecho huir.>|
+
+|<^1WOODS: ^7Volverán.>|
+
+|<^1WOODS: ^7Por eso se han ido los HIND. No pueden dejar pruebas.>|
+
+|<^1MASON: ^7Tiene que ser el Nova 6. Kravchenko no llegaría a estos extremos por una bobada.>|
+
+|<^1WOODS: ^7Ese era el último.>|
+
+|<^1WOODS: ^7Tendremos que trepar por el ala para llegar al fuselaje.>|
+
+|<^1MASON: ^7Iré delante.>|
+
+|<^1BOWMAN: ^7Cuidado, Mason.>|
+
+|<^1WOODS: ^7Estabilizaré este lado.>|
+
+|<^1WOODS: ^7Despacio. Despacio.>|
+
+|<^1BOWMAN: ^7¿Qué ha pasado?>|
+
+|<^1WOODS: ^7El arma química.>|
+
+|<^1MASON: ^7El Nova 6. Se habrá dispersado tras el choque.>|
+
+|<^1WOODS: ^7Lanzagranadas, China Lake. ¿Qué coño hacen los rusos con armas estadounidenses?>|
+
+|<^1BOWMAN: ^7Debe de ser una trampa.>|
+
+|<^1BOWMAN: ^7El Nova 6 ha desaparecido, pero miren esto. Un mapa de la zona. Eso debe de ser el complejo de Kravchenko. En Laos.>|
+
+|<^1REZNOV: ^7Kravchenko. Debe morir.>|
+
+|<^1MASON: ^7Kravchenko. Debe morir.>|
+
+|<^1BOWMAN: ^7Bien, Mason. Vamos.>|
+
+|<^1WOODS: ^7Ahí abajo. ¡Miren!>|
+
+|<^1WOODS: ^7Bowman, fusil de precisión. Mason, use la China Lake. Manden a esos cabrones al infierno.>|
+
+|<^1WOODS: ^Bowman, fusil de precisión. Mason, use la China Lake. Manden a esos cabrones al infierno.>|
+
+|<^1MASON: ^7Entendido.>|
+
+|<^1WOODS: ^7¡Mason! Ahí abajo, patrullera enemiga. Intenta hundir nuestro barco. ¡Use la China Lake! Destrúyalos.>|
+
+|<^1BOWMAN: ^7Mason, use el lanzagranadas. ¡Destruya su barco!>|
+
+|<^1WOODS: ^7¡Casi han hundido el nuestro!>|
+
+|<^1WOODS: ^7Se acabó. Nuestro barco se hunde.>|
+
+|<^1WOODS: ^7¡No! ¡Los HIND han vuelto!>|
+
+|<^1REZNOV: ^7¡Agárrese, Mason!>|
+
+|<^1WOODS: ^7¡Aaaaaargh!>|
+
+|<^1WOODS: ^7Bowman, Mason. Lo conseguimos. Posiciones defensivas.>|
+
+|<^1WOODS: ^7Fusiles de precisión. ¡Maten al piloto o moriremos todos!>|
+
+|<^1WOODS: ^7¡Buena puntería, Mason!>|
+
+|<^1BOWMAN: ^7Esto cada vez se complica más. Woods, ¿qué hacemos?>|
+
+|<^1WOODS: ^7Llévense a todos los que puedan.>|
+
+|<^1BOWMAN: ^7Entendido, jefe.>|
+
+|<^1US PILOT: ^7Lamentamos el retraso, muchachos. No podíamos avisarlos por si Charlie nos oía. Seguiremos nosotros.>|
+
+|<^1WOODS: ^7¿A qué estamos esperando?>|
+
+|<^1MASON: ^7Dragovich... Kravchenko...>|
+
+|<^1KRAVCHENKO: ^7De Vorkuta.>|
+
+|<^1DRAGOVICH: ^7Cuánto tiempo, Mason.>|
+
+|<^1DRAGOVICH: ^7Tenemos que ponernos al día.>|
+
+|<^1WOODS: ^7¡Mason! ¡Los francotiradores!>|
+
+|<^1WOODS: ^7Despejado. Vamos.>|
+
+|<^1WOODS: ^7¡Avancen!>|
+
+|<^1BOWMAN: ^7¡Deprisa!>|
+
+|<^1WOODS: ^7¡Cuidado!>|
+
+|<^1WOODS: ^7¡Aquí estamos acorralados!>|
+
+|<^1BOWMAN: ^7¡Aquí estamos acorralados!>|
+
+|<^1WOODS: ^7¡Tiradores en los árboles!>|
+
+|<^1WOODS: ^7Arriba, ¡tiradores!>|
+
+|<^1WOODS: ^7En el árbol. ¡Tirador!>|
+
+|<^1BOWMAN: ^7En el árbol. ¡Tirador!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

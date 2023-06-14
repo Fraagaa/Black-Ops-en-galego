@@ -1,0 +1,457 @@
+|<Dispara a las bisagras de la puerta.>|
+
+|<Reagrúpate en el punto de inserción>|
+
+|<Engancha>|
+
+|<Baja por la cuerda a la subestación>|
+
+|<Neutraliza al personal de seguridad de la zona>|
+
+|<Neutraliza al personal del centro>|
+
+|<Desactiva el centro de comunicaciones>|
+
+|<Ve al punto de salto>|
+
+|<Infíltrate en las instalaciones del Nova 6>|
+
+|<Localiza el despacho de Steiner>|
+
+|<Escapa de las instalaciones de Yamantau>|
+
+|<Escapa en el camión>|
+
+|<Penetra
+>|
+
+|<Pulsa ^3[{+activate}]^7 para desplegar el paracaídas.>|
+
+|<Asalta el repetidor>|
+
+|<Salto base
+>|
+
+|<Lanzamiento de cuchillo>|
+
+|<Emboscada en la nieve
+>|
+
+|<El saliente
+>|
+
+|<Baja por la cuerda
+>|
+
+|<Base Yamantau>|
+
+|<Despacho de Steiner>|
+
+|<Avalancha del camión>|
+
+|<Sigue>|
+
+|<Apoyo>|
+
+|<Mantén ^3[{+activate}]^7 para enganchar.>|
+
+|<Mantén ^3[{+attack}]^7 para frenar.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para bajar por la cuerda.>|
+
+|<Mantén ^3[{+activate}]^7 para desactivar la antena de radar.>|
+
+|<Mueve  hacia delante para levantarte.>|
+
+|<Usa  para controlar la caída libre.>|
+
+|<Pulsa ^3[{+activate}]^7 para subir al camión.>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para armar los virotes de punta explosiva.>|
+
+|<No has logrado escapar a tiempo.>|
+
+|<No has logrado seguir a tu equipo.>|
+
+|<^LTransmisión núm. 00. Designación: XRAY^L>|
+
+|<^L17:00,^L ^C118 de febrero de 1968^C>|
+
+|<^LSe sospecha que este es el centro de desarrollo del proyecto Nova^L>|
+
+|<^LLa base soviética está en^L ^C1Yamantau, URSS^L>|
+
+|<^C1Hudson^C ^Ly Weaver dirigirán el equipo en misión de buscar y destruir en el valle^L>|
+
+|<Pulsa ^3[{+breath_sprint}]^7 para esprintar.>|
+
+|<^1INTERROGATOR: ^7Jason Hudson lideró el ataque contra Yamantau.>|
+
+|<^1MASON: ^7Sí. 20 grados bajo cero. El puto cubito estaba en su salsa.>|
+
+|<^1MASON: ^7Sí. 20 grados bajo cero. El dichoso cubito estaba en su salsa.>|
+
+|<^1INTERROGATOR: ^7La avalancha sepultó toda la base, pero Hudson y Weaver salieron con vida. Casi se acaba todo, Mason.>|
+
+|<^1US PILOT: ^7Agáchense... Aquí llegan...>|
+
+|<^1US PILOT: ^7Mantengan la posición...>|
+
+|<^1US PILOT: ^7Despejado. Vienen más soldados. ¡Vayan a la caseta de los guardias!>|
+
+|<^1WEAVER: ^7¡Alto!>|
+
+|<^1WEAVER: ^7No se muevan...>|
+
+|<^1WEAVER: ^7Despejado.>|
+
+|<^1HUDSON: ^7Big Eye, aquí Kilo 1. ¿Aún nos tiene en el TAC?>|
+
+|<^1US PILOT: ^7Afirmativo, Kilo 1.>|
+
+|<^1HUDSON: ^7La visibilidad ha mejorado. Estamos iniciando la inserción. Avanzamos a la subestación.>|
+
+|<^1US PILOT: ^7Los tenemos... Big Eye ve a cuatro combatientes entrando en la estructura.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye. Allá vamos.>|
+
+|<^1HUDSON: ^7El repetidor está bajo nosotros. 4 blancos.>|
+
+|<^1WEAVER: ^7En marcha.>|
+
+|<^1HUDSON: ^7¿Listos?>|
+
+|<^1WEAVER: ^7Cuando quiera...>|
+
+|<^1HUDSON: ^7Big Eye, aquí Kilo 1. Hemos tomado la subestación.>|
+
+|<^1US PILOT: ^7Entendido. Recalibrando distancia focal... Bien. Centro de comunicaciones en el TAC. Procedan al objetivo.>|
+
+|<^1HUDSON: ^7Las instalaciones están en la base de la cresta.>|
+
+|<^1HUDSON: ^7Si hay pruebas de que el Nova 6 se está utilizando como arma, estarán aquí.>|
+
+|<^1HUDSON: ^7Cuando cortemos las comunicaciones externas, notarán que ocurre algo.>|
+
+|<^1HUDSON: ^7Habrá que moverse deprisa, antes de que destruyan pruebas.>|
+
+|<^1HUDSON: ^7Mucho ojo.>|
+
+|<^1WEAVER: ^7Elijan uno.>|
+
+|<^1HUDSON: ^7Kilo 1 aproximándose al objetivo.>|
+
+|<^1US PILOT: ^7Vale.>|
+
+|<^1PILOTO EE. UU.: ^7Kilo 1, tienen blancos múltiples en el centro de comunicaciones. Tomen la caseta del sur y luego vayan a la entrada de la sala de alimentación, al norte.>|
+
+|<^1HUDSON: ^7Recibido.>|
+
+|<^1BROOKS: ^7Hudson, hay que ser discretos. Use la ballesta. Si hay problemas, pase a explosivos.>|
+
+|<^1WEAVER: ^7Hay un blanco en el exterior de la caseta. Dos más dentro.>|
+
+|<^1BROOKS: ^7Dos más junto al camión de la derecha.>|
+
+|<^1HUDSON: ^7Otro en la estructura derecha.>|
+
+|<^1HUDSON: ^7Bien... Adelante.>|
+
+|<^1WEAVER: ^7¡Mierda! ¡Han dado la alarma!>|
+
+|<^1HUDSON: ^7¡Fuego!>|
+
+|<^1WEAVER: ^7¡Viene más infantería!>|
+
+|<^1BROOKS: ^7¡Hudson, cambie a virotes explosivos!>|
+
+|<^1HUDSON: ^7¡Vamos! ¡Deprisa!>|
+
+|<^1US PILOT: ^7Dos nuevos blancos en la sala de alimentación.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye.>|
+
+|<^1HUDSON: ^7Harris, Brooks, sala de control. Espérennos.>|
+
+|<^1WEAVER: ^7Dispare a las bisagras.>|
+
+|<^1HUDSON: ^7Despejado.>|
+
+|<^1PILOTO EE. UU.: ^7Bien hecho, Kilo 1. Tienen el control del perímetro.>|
+
+|<^1US PILOT: ^7Cuidado. Nos quedan 3 minutos hasta que tengamos que irnos a repostar con KC-135.>|
+
+|<^1HUDSON: ^7Entendido.>|
+
+|<^1HUDSON: ^7Big Eye, Kilo 1 está dentro.>|
+
+|<^1US PILOT: ^7Entendido. ¿Su equipo está apostado en la ventana?>|
+
+|<^1BROOKS: ^7En posición.>|
+
+|<^1US PILOT: ^7¡Kilo 1, múltiples blancos hacia el centro de comunicaciones!>|
+
+|<^1WEAVER: ^7Despejado. Hudson, apague la parabólica.>|
+
+|<^1WEAVER: ^7¡Hudson! ¡Busque el interruptor del repetidor!>|
+
+|<^1WEAVER: ^7Venga, Hudson. ¡Tenemos que largarnos!>|
+
+|<^1HUDSON: ^7Big Eye, aquí Kilo 1. Confirme que el repetidor está desactivado.>|
+
+|<^1US PILOT: ^7Afirmativo, Kilo 1. Las comunicaciones exteriores han cesado. Tenemos tráfico cero.>|
+
+|<^1HUDSON: ^7Kilo 1 procediendo al blanco principal.>|
+
+|<^1US PILOT: ^7Muchachos, estamos con la reserva... Tenemos que marcharnos de aquí.>|
+
+|<^1US PILOT: ^7Nos largamos.>|
+
+|<^1HUDSON: ^7Recibido, Big Eye. Gracias por la ayuda. Suerte.>|
+
+|<^1US PILOT: ^7Afirmativo. Corto.>|
+
+|<^1WEAVER: ^7No tardarán mucho en averiguar que estamos aquí. Deprisa.>|
+
+|<^1WEAVER: ^7¡RPG en la cresta!>|
+
+|<^1BROOKS: ^7¡Hudson! ¡Baje del saliente!>|
+
+|<^1WEAVER: ^7¡Avalancha!>|
+
+|<^1WEAVER: ^7¡Hudson! ¡Corra, corra!>|
+
+|<^1HUDSON: ^7¡Hemos perdido a Harris!>|
+
+|<^1HUDSON: ^7¡Vamos, vamos, vamos!>|
+
+|<^1BROOKS: ^7Nos vemos abajo.>|
+
+|<^1WEAVER: ^7Iré detrás. Elige la ZA con cuidado, Hudson.>|
+
+|<^1HUDSON: ^7Mierda... Ya han empezado la mudanza... ¡Deprisa!>|
+
+|<^1WEAVER: ^7¡Una ametralladora en la torre!>|
+
+|<^1HUDSON: ^7¡Al edificio!>|
+
+|<^1WEAVER: ^7¡Aquí!>|
+
+|<^1WEAVER: ^7Hudson... ¿Ve estos cables?>|
+
+|<^1HUDSON: ^7Sí... Recorren todas las instalaciones...>|
+
+|<^1WEAVER: ^7Pretenden volar todo esto...>|
+
+|<^1HUDSON: ^7Deprisa, muchachos... ¡No tenemos mucho tiempo!>|
+
+|<^1WEAVER: ^7Steiner no está aquí.>|
+
+|<^1WEAVER: ^7¡Se está cerrando!>|
+
+|<^1WEAVER: ^7¡Las puertas se cierran!>|
+
+|<^1HUDSON: ^7¿Qué es eso?>|
+
+|<^1STEINER: ^7Aquí Friedrich Steiner.>|
+
+|<^1HUDSON: ^7Está interfiriendo las radios. Sabía que vendríamos.>|
+
+|<^1WEAVER: ^7Tiene cámaras. Nos está viendo.>|
+
+|<^1STEINER: ^7Dragovich está quemando todo y a todos los relacionados con el proyecto Nova.>|
+
+|<^1STEINER: ^7Sé que seré el siguiente.>|
+
+|<^1HUDSON: ^7¿Qué quiere?>|
+
+|<^1WEAVER: ^7Blancos por todo el país...>|
+
+|<^1STEINER: ^7Por toda América. Dragovich tiene células durmientes esperando a su señal para liberar el Nova 6.>|
+
+|<^1WEAVER: ^7El Nova 6 como arma.>|
+
+|<^1HUDSON: ^7Los números transmitidos... ¿Qué significan?>|
+
+|<^1STEINER: ^7Les diré todo lo que sé a cambio de mi seguridad.>|
+
+|<^1STEINER: ^7Estoy en Isla Renacimiento, en el Mar de Aral... Ustedes deciden.>|
+
+|<^1HUDSON: ^7Debemos irnos. ¡Ahora!>|
+
+|<^1HUDSON: ^7¡Vamos, vamos! ¡Este sitio va a estallar!>|
+
+|<^1HUDSON: ^7¡No sabemos cuánto tiempo queda!>|
+
+|<^1HUDSON: ^7¡Deprisa! ¡Vamos!>|
+
+|<^1WEAVER: ^7¡No hay tiempo que perder!>|
+
+|<^1WEAVER: ^7¡A ese camión!>|
+
+|<^1HUDSON: ^7¡Weaver, conduzca! ¡La ametralladora es mía!>|
+
+|<^1HUDSON: ^7¡Sáquenos de aquí!>|
+
+|<^1WEAVER: ^7¡Tengo que hacer el puente!>|
+
+|<^1HUDSON: ^7Deprisa. ¡Los tenemos encima!>|
+
+|<^1WEAVER: ^7¡Necesito un minuto!>|
+
+|<^1HUDSON: ^7¡No tenemos un minuto!>|
+
+|<^1WEAVER: ^7Vamos. ¡Estúpido camión de mierda!>|
+
+|<^1HUDSON: ^7¿A qué estamos esperando, Weaver?>|
+
+|<^1WEAVER: ^7Ya casi está...>|
+
+|<^1WEAVER: ^7¡Lo tengo!>|
+
+|<^1HUDSON: ^7¡Pise a fondo! ¡Vamos!>|
+
+|<^1HUDSON: ^7¡La puta montaña entera se viene abajo!>|
+
+|<^1HUDSON: ^7¡La montaña entera se viene abajo!>|
+
+|<^1HUDSON: ^7¡Vamos, vamos!>|
+
+|<^1HUDSON: ^7¡Acelere!>|
+
+|<^1PILOTO EE. UU.: ^7Los está desorientando.>|
+
+|<^1PILOTO EE. UU.: ^7Van en sentido contrario.>|
+
+|<^1PILOTO EE. UU.: ^7Parece que no es por ahí.>|
+
+|<^1HUDSON: ^7Recibido, en marcha.>|
+
+|<^1HUDSON: ^7Vamos.>|
+
+|<^1HUDSON: ^7Vale.>|
+
+|<^1BROOKS: ^7Despejado.>|
+
+|<^1BROOKS: ^7Hudson - Plant the charges.>|
+
+|<^1BROOKS: ^7En marcha.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€H>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

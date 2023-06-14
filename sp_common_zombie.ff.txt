@@ -1,0 +1,671 @@
+|<A tu pistola casi no le queda munición, compra un arma mejor.>|
+
+|<Compra mejores armas de las paredes.>|
+
+|<¡Tienes que mejorar tu arma!>|
+
+|<Próxima parada: TIERRA DE NADIE>|
+
+|<Coge tu marcador de muerte para recuperar el equipo perdido.>|
+
+|<Pulsa ABAJO en el mando D para dejar dinero para tus compañeros.>|
+
+|<Busca en las pareces mejores armas y munición.>|
+
+|<Reconstruye las barreras de las ventanas para frenar a los zombis.>|
+
+|<¡ALERTA! ¡Plaga de zombis en el Cosmódromo!>|
+
+|<Pulsa el Botón BACK para ver el mapa.>|
+
+|<Pulsa ARRIBA en el mando D para usar tu habilidad especial.>|
+
+|<Abre las puertas para explorar nuevas zonas.>|
+
+|<Algunas cajas contienen armas secretas.>|
+
+|<Usa el mapa para localizar la caja sorpresa.>|
+
+|<Todas las máquinas de ventajas están ya operativas.>|
+
+|<Uno de tus compañeros ha caído, ¡necesita que lo reanimen!>|
+
+|<¡Hombre herido, hombre herido! Pide a tus compañeros que te reanimen.>|
+
+|<Usa la luz azul para localizar la caja sorpresa.>|
+
+|<El módulo lunar ha alunizado, listo para usarse>|
+
+|<Lanzamiento lunar en >|
+
+|<Llamando módulo lunar a posición >|
+
+|<¡Masacre de motosierra!>|
+
+|<Vida perdida, reanimando jugador>|
+
+|<Vida extra concedida
+>|
+
+|<Transporte activado>|
+
+|<Transporte aguardando a todos los jugadores>|
+
+|<Hay que activar la tirolina antes de usarla>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 950).>|
+
+|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2).>|
+
+|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2),
+             munición mejorada (4.500).>|
+
+|<Que comience el ataque>|
+
+|<Has sobrevivido al ataque>|
+
+|<Ronda>|
+
+|<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 10).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 20).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 50).>|
+
+|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 100).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 100).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 200).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 250).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 500).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 750).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para quitar los escombros (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 100).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 200).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 250).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 750).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.500).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 100).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 200).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 250).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 750).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.250).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 1.750).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 2.000).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para abrir el archivador (coste: 2.000).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar AK-47 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar cuchillo Bowie (coste: &&1).>|
+
+|<¡Zombi abatido!>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Reanimación (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar una Reanimación (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Cola rápida (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Doble tiro (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Titán (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar mejora de potenciación (coste: &&1).>|
+
+|<Baja instantánea: >|
+
+|<¡Bombazo zombi!>|
+
+|<Doble puntuación: >|
+
+|<¡Cañón automático!>|
+
+|<¡Munición máxima!>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 10).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 20).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 30).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 40).>|
+
+|<FIN DEL JUEGO>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 50).>|
+
+|<Has sobrevivido &&1 rondas.>|
+
+|<Has sobrevivido 1 ronda.>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 850).>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 750).>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 650).>|
+
+|<Mantén ^3&&1^7 para reconstruir la barrera.>|
+
+|<¡Antes debes activar la corriente!>|
+
+|<Mantén ^3&&1^7 para activar la barrera de fuego (coste: 500).>|
+
+|<Mantén ^3&&1^7 para abrir la zona (coste: 2.500).>|
+
+|<Mantén ^3[{+activate}]^7 para activar la trampa (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para comprar Bouncing Bettys (coste: 1.000 - una única vez).>|
+
+|<Ya has adquirido las Bouncing Bettys.>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Bouncing Betty.>|
+
+|<Mantén ^3&&1^7 para comprar Claymore (coste: 1.000).>|
+
+|<Ya has adquirido las Claymore.>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Claymore.>|
+
+|<Mantén ^3&&1^7 para activar la torreta de la fuente (coste: 750).>|
+
+|<Mantén ^3&&1^7 para activar la corriente.>|
+
+|<Mantén ^3[{+activate}]^7 para comprar arma Tesla (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para comprar granadas adhesivas (coste: 10).>|
+
+|<Antes hay que abrir la puerta.>|
+
+|<Mantén ^3&&1^7 para cambiar de arma.>|
+
+|<Mantén ^3&&1^7 para activar la tirolina (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para activar la tirolina.>|
+
+|<Mantén ^3&&1^7 para comprar. >|
+
+|<Mantén ^3&&1^7 para iniciar el enlace con el ordenador central.>|
+
+|<Mantén ^3&&1^7 para teletransportarte al ordenador central (coste: 1.500).>|
+
+|<Mantén ^3&&1^7 para enlazar la plataforma de teletransporte al ordenador central.>|
+
+|<Enlace activado.>|
+
+|<Hay que activar la plataforma de teletransporte.>|
+
+|<Vuelve al núcleo.>|
+
+|<El teletransporte se está recuperando.>|
+
+|<Mantén ^3&&1^7 para activar la trampilla (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para abrir la puerta.>|
+
+|<Mantén ^3&&1^7 para activar el elevador (coste: 500).>|
+
+|<Mantén ^3[{+activate}]^7 para usar la torreta (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para activar la torreta automática (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para construir el puente (coste: 1.000).>|
+
+|<Mantén ^3&&1^7 para coger el arma mejorada.>|
+
+|<Mantén ^3[{+activate}]^7 para usar el teletransporte (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para activar el teletransporte.>|
+
+|<Mantén ^3&&1^7 para usar la tirolina (coste: 1.000).>|
+
+|<Primero hay que activar la tirolina.>|
+
+|<Pulsa ^3&&1^7 para arma aleatoria (coste: 10).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar viejo P90 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar AK-74u (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Skorpion (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Uzi (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M14 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M16 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Dragunov (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar RPK (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Stoner 63 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar AK-47 con GP30 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M16 con M203 (coste: &&1).>|
+
+|<Ataque aéreo no disponible>|
+
+|<Mantén ^3&&1^7 para guardar arma.>|
+
+|<Mantén ^3[{+activate}]^7 para comprar arma Thunder (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Fuerza vulnerante (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Bandolera (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para activar el contador de bajas (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M1911 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Python (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar doble Kiparis (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MAC-11 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar AUG (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar G11 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M60 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar cañón automático (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MP5K (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MP40 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar MPL (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar PM63 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar ENFIELD (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Olympia (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Stakeout (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar SPAS (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar WA-2000 (coste: &&1).>|
+
+|<Mantén ^3&&1^7 para recoger célula de energía.>|
+
+|<Mantén ^3&&1^7 para introducir célula de energía.>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Dientes de sable (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar arma de rayos (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar granadas de fragmentación (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar Claymore (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M202 FLASH (coste: &&1).>|
+
+|<Radar obtenido.>|
+
+|<Artillería obtenida.>|
+
+|<Ataque aéreo obtenido.>|
+
+|<Napalm obtenido.>|
+
+|<Perros obtenidos.>|
+
+|<Helicóptero obtenido.>|
+
+|<Helicóptero x 2 obtenido.>|
+
+|<Helicóptero de enlace obtenido.>|
+
+|<Radar no disponible.>|
+
+|<Artillería no disponible.>|
+
+|<Napalm no disponible.>|
+
+|<Perros no disponibles.>|
+
+|<Helicóptero no disponible.>|
+
+|<Helicóptero x 2 no disponible.>|
+
+|<Helicóptero de enlace no disponible.>|
+
+|<¡Ataque aéreo inminente sobre tu posición!>|
+
+|<¡Ataque con napalm inminente sobre tu posición!>|
+
+|<¡Ataque de artillería inminente sobre tu posición!>|
+
+|<Helicóptero x 2 en camino>|
+
+|<Helicóptero de enlace en camino>|
+
+|<Helicóptero en camino>|
+
+|<Cuartel>|
+
+|<Desafíos>|
+
+|<Aptitudes de jugador>|
+
+|<Mutadores>|
+
+|<Marcadores>|
+
+|<Premios y títulos>|
+
+|<Nuevo texto>|
+
+|<Premio PX>|
+
+|<Atrás>|
+
+|<Menú principal>|
+
+|<Individual>|
+
+|<Cooperativo>|
+
+|<Contra>|
+
+|<Opciones>|
+
+|<Créditos>|
+
+|<Elegir misión>|
+
+|<PX>|
+
+|<Premio:>|
+
+|<Ataque aéreo disponible en ronda &&1.>|
+
+|<Torreta disponible en ronda &&1.>|
+
+|<Napalm disponible en ronda &&1.>|
+
+|<Artillería disponible en ronda &&1.>|
+
+|<Perros disponibles en ronda &&1.>|
+
+|<Helicóptero disponible en ronda &&1.>|
+
+|<Bomba RC disponible en ronda &&1.>|
+
+|<Distorsión temporal disponible en ronda &&1.>|
+
+|<Ocultación disponible en ronda &&1.>|
+
+|<Resistencia disponible en ronda &&1.>|
+
+|<Mantén ^3[{+activate}]^7 para comprar ataque aéreo (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar torreta (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar portal (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar napalm (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar artillería (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar perros (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar helicóptero (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar bomba RC (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar distorsión temporal (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar ocultación (primer uso: 500).
+Siguientes (coste: &&1).>|
+
+|<Esperando recuperación>|
+
+|<¡AVISO! ¡REENTRADA DE SIMIO INMINENTE!>|
+
+|<La trampa está activa.>|
+
+|<La trampa se está recargando.>|
+
+|<Torreta obtenida.>|
+
+|<Portal obtenido.>|
+
+|<Ya tienes esta aptitud.>|
+
+|<Aptitud Artillería usada.>|
+
+|<Aptitud Ataque aéreo usada.>|
+
+|<Aptitud Napalm usada.>|
+
+|<Aptitud Perros usada.>|
+
+|<Aptitud Coche de radiocontrol usada.>|
+
+|<Aptitud Ocultación usada.>|
+
+|<Aptitud Resistencia usada.>|
+
+|<Aptitud Helicóptero usada.>|
+
+|<Aptitud Torreta usada.>|
+
+|<Aptitud Portal usada.>|
+
+|<Bomba RC obtenida.>|
+
+|<Ocultación obtenida.>|
+
+|<Resistencia obtenida.>|
+
+|<Portal no disponible.>|
+
+|<Torreta no disponible.>|
+
+|<Resistencia no disponible.>|
+
+|<Ocultación no disponible.>|
+
+|<Bomba RC no disponible.>|
+
+|<Mantén ^3[{+activate}]^7 para comprar GALIL (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar COMMANDO (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar FN FAL (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar FAMAS (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar HK21 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar SPECTRE (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar CZ75DW (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar M72_LAW (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar CHINA_LAKE (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar L96A1 (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar BALLESTA_EXPLOSIVA (coste: &&1).>|
+
+|<Mantén ^3[{+activate}]^7 para comprar HS10 (coste: &&1).>|
+
+|<Reanimando >|
+
+|<Cobra>|
+
+|<Mustang y Sally>|
+
+|<Mnesia>|
+
+|<Aplastacráneos>|
+
+|<G115 Generator>|
+
+|<G16-GL35>|
+
+|<AK74 QTDN>|
+
+|<MP115 Kollider>|
+
+|<Posquemador>|
+
+|<MPL-LF>|
+
+|<Tokio y Rose>|
+
+|<MAC11 mejorado>|
+
+|<Phantom>|
+
+|<Calamity>|
+
+|<Calamity y Jane>|
+
+|<Asalto>|
+
+|<Hades>|
+
+|<SPAZ-24>|
+
+|<Typhoid y Mary>|
+
+|<Enfield mejorado>|
+
+|<AUG-50M3>|
+
+|<AUG con lanzagranadas mejorado>|
+
+|<Lamento>|
+
+|<Predator>|
+
+|<EPC WN>|
+
+|<D115 Disassembler>|
+
+|<L115 Isolator>|
+
+|<R115 Resonator>|
+
+|<H115 Oscillator>|
+
+|<Ángel de la muerte mejorado>|
+
+|<M72 Anarchy>|
+
+|<China Beach>|
+
+|<Arma de rayos X2 de Porter>|
+
+|<Wunderwaffe DG-2>|
+
+|<Wunderwaffe DG-3 JZ
+>|
+
+|<Cañón Zeus>|
+
+|<Aullido invernal>|
+
+|<Furia invernal>|
+
+|<Temible Lawton>|
+
+|<Refibrilador Krauss>|
+
+|<8’5>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<>|
+
+|<>|
+

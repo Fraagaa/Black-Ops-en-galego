@@ -1,0 +1,702 @@
+|<^LTransmisión núm. 14-15-20. Designación: DELTA^L>|
+
+|<^LSin contacto del grupo SOG X-RAY^L>|
+
+|<^LÚltima posición conocida frontera entre^L ^C1 Laos^C ^L y Vietnam^L>|
+
+|<^C1Mason^C^L y su equipo dados por muertos^L>|
+
+|<^L11:00,^L ^C1 19 de febrero de 1968^C>|
+
+|<Usa ^3[{+movestick}]^7 para moverte/desplazarte lateralmente.>|
+
+|<Pulsa ^3[{+lookstick}]^7 para apuntar.>|
+
+|<Mata al soviético>|
+
+|<Escapa de los túneles>|
+
+|<Hazte con el Hind>|
+
+|<Sube al Hind>|
+
+|<Vuela a la base de Kravchenko>|
+
+|<Destruye las defensas del NVA>|
+
+|<Destruye el HIP soviético>|
+
+|<Destruye la batería SAM>|
+
+|<Destruye los Hind soviéticos (quedan &&1)>|
+
+|<Mata a Kravchenko>|
+
+|<Consigue el AK47 con accesorio de lanzallamas>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar el lanzallamas.>|
+
+|<Libera a los prisioneros>|
+
+|<Dispara>|
+
+|<Sigue>|
+
+|<Venganza>|
+
+|<Laos>|
+
+|<12 de febrero de 1968>|
+
+|<^1INTERROGATOR: ^7For God sake... Where is the numbers station?>|
+
+|<^1INTERROGATOR: ^7¿Dónde está la emisora?>|
+
+|<^1REZNOV: ^7Todos deben morir.>|
+
+|<^1MASON: ^7Woods...>|
+
+|<^1MASON: ^7Dragovich nos está jodiendo.>|
+
+|<^1MASON: ^7Bowman...>|
+
+|<^1BOWMAN: ^7 Estoy cansado.>|
+
+|<^1MASON: ^7¡Bowman, no!>|
+
+|<^1MASON: ^7No lo dice en serio, Bowman.>|
+
+|<^1BOWMAN: ^7A la mierda, Charlie...>|
+
+|<^1BOWMAN: ^A la mierda, Charlie...>|
+
+|<^1VC BOOKIE: ^7Está muerto, americano.>|
+
+|<^1BOWMAN: ^7No me asusta, montón de mierda comunista...>|
+
+|<^1BOWMAN: ^7No me asusta, comunista inmundo...>|
+
+|<^1MASON: ^7¡Bowman, no lo haga!>|
+
+|<^1SPETSNAZ OPERATIVE: ^7¡Argh! ¡Argh! ¡Argh!>|
+
+|<^1MASON: ^7¡Bowman! ¡Bowman! ¡Cabronazo!>|
+
+|<^1MASON: ^7¡Bowman! ¡Bowman!>|
+
+|<^1SPETSNAZ OPERATIVE: ^7Siguiente.>|
+
+|<^1MASON: ^7¡Voy a acabar con todos!>|
+
+|<^1WOODS: ^7No me toque...>|
+
+|<^1MASON: ^7¿Woods? Joder...>|
+
+|<^1WOODS: ^7Cabrones. Les haremos pagar.>|
+
+|<^1VC BOOKIE: ^7¡Nada de hablar! ¡Jugar!>|
+
+|<^1WOODS: ^7¿Cuál es el plan?>|
+
+|<^1MASON: ^7Estoy pensando...>|
+
+|<^1VC BOOKIE: ^7¡No hablar!>|
+
+|<^1WOODS: ^7Una oportunidad, Mason.>|
+
+|<^1MASON: ^7La aprovecharemos.>|
+
+|<^1VC BOOKIE: ^7¡Bac bac bac!>|
+
+|<^1WOODS: ^7Bien.>|
+
+|<^1VC BOOKIE: ^7¡Disparar soldado! ¡Disparar!>|
+
+|<^1WOODS: ^7¡No puede matarme!>|
+
+|<^1WOODS: ^7¡Joder!>|
+
+|<^1WOODS: ^7¡Mierda!>|
+
+|<^1WOODS: ^7Esta vez... ¡Esta vez hágalo!>|
+
+|<^1MASON: ^7Vale. Tengo el hacha.>|
+
+|<^1WOODS: ^7Listo.>|
+
+|<^1VC BOOKIE: ^7¡Jugar!>|
+
+|<^1MASON: ^7Seis y ocho en punto.>|
+
+|<^1VC BOOKIE: ^7¡Bac bac!>|
+
+|<^1WOODS: ^7Malditos cabronazos.>|
+
+|<^1MASON: ^7El ruso. Ahora.>|
+
+|<^1WOODS: ^7Vamos.>|
+
+|<^1WOODS: ^7¡No deje que ese cabrón escape!>|
+
+|<^1WOODS: ^7¡Adelante!>|
+
+|<^1WOODS: ^7¡Lo quiero vivo!>|
+
+|<^1WOODS: ^7¡Lo perdemos, Mason!>|
+
+|<^1WOODS: ^7¡Se escapa!>|
+
+|<^1WOODS: ^7Lo hemos perdido...>|
+
+|<^1WOODS: ^7Si consigue salir, ¡avisará a Kravchenko!>|
+
+|<^1MASON: ^7¡No va a salir!>|
+
+|<^1WOODS: ^7¡El ruso va a morir!>|
+
+|<^1MASON: ^7Por supuesto.>|
+
+|<^1WOODS: ^7¡Pagará por lo que hizo!>|
+
+|<^1MASON: ^7Él y también Kravchenko.>|
+
+|<^1WOODS: ^7Por Bowman.>|
+
+|<^1MASON: ^7Por Bowman.>|
+
+|<^1WOODS: ^7¡Quiero a ese ruso muerto!>|
+
+|<^1MASON: ^7¡No lo pierda, Woods!>|
+
+|<^1MASON: ^7Voy a matarlo. Por Bowman.>|
+
+|<^1MASON: ^7¡El VC está por todas partes!>|
+
+|<^1WOODS: ^7Acabe con ellos... Solo nos interesa el ruso.>|
+
+|<^1WOODS: ^7¡Allí! ¡El muy cabrón intenta escapar!>|
+
+|<^1WOODS: ^7¡Derríbelo, Mason!>|
+
+|<^1MASON: ^7¡No va a ir a ninguna parte!>|
+
+|<^1WOODS: ^7¿Conoce esa vocecita en su mente que lo avisa cuando algo está mal?>|
+
+|<^1WOODS: ^7Yo no la oigo.>|
+
+|<^1WOODS: ^7Que se desangre...>|
+
+|<^1WOODS: ^7Ayúdeme a levantarme.>|
+
+|<^1WOODS: ^7El complejo de Kravchenko no está lejos.>|
+
+|<^1WOODS: ^7Ese cabrón tiene los días contados.>|
+
+|<^1WOODS: ^7Ese hijo de perra vive de prestado.>|
+
+|<^1WOODS: ^7¿Ve ese HIND? Vamos a llevárnoslo.>|
+
+|<^1WOODS: ^7Dispare.>|
+
+|<^1WOODS: ^7Mason, dispare cuando quiera.>|
+
+|<^1WOODS: ^7Bien. Sígame.>|
+
+|<^1WOODS: ^7¿Qué...? Muy bien. ¡Vamos, vamos!>|
+
+|<^1WOODS: ^7Despejado. Salgamos volando.>|
+
+|<^1WOODS: ^7Suba al HIND.>|
+
+|<^1WOODS: ^7Suba al helicóptero, Mason.>|
+
+|<^1WOODS: ^7¡No se duerma, Mason!>|
+
+|<^1WOODS: ^7¿Qué armas llevamos...? Cohetes UV-32... Cañón de 12 mm... Estos cabrones están listos para otra guerra mundial.>|
+
+|<^1MASON: ^7Cargue el sistema de los 32.>|
+
+|<^1WOODS: ^7Rotores en marcha. Yo piloto.>|
+
+|<^1MASON: ^7UV-32 asignados.>|
+
+|<^1MASON: ^7Cañón de 12 mm asignado.>|
+
+|<^1WOODS: ^7A plena potencia. ¿Listo?>|
+
+|<^1MASON: ^7Listo.>|
+
+|<^1WOODS: ^7Lo elevaré por encima de esto y luego le pasaré los mandos.>|
+
+|<^1MASON: ^7Despejado.>|
+
+|<^1WOODS: ^7Marcaré los blancos en cuanto los vea.>|
+
+|<^1WOODS: ^7Todos los blancos enemigos son válidos.>|
+
+|<^1MASON: ^7Entendido. Páseme el control.>|
+
+|<^1WOODS: ^7Todo suyo.>|
+
+|<^1WOODS: ^7Tenemos las coordenadas del complejo de Kravchenko. Seguiremos el río hasta el final.>|
+
+|<^1WOODS: ^7Mantenga los ojos en tierra. No quiero que me disparen en las pelotas.>|
+
+|<^1MASON: ^7Yo lo cubro, Woods.>|
+
+|<^1MASON: ^7¡Dios, sí!>|
+
+|<^1WOODS: ^7¡Buena vista, Mason!>|
+
+|<^1WOODS: ^7¡Los hemos hecho huir!>|
+
+|<^1WOODS: ^7¡Joder, sí!>|
+
+|<^1WOODS: ^7¡Dios, sí!>|
+
+|<^1MASON: ^7¡Vamos!>|
+
+|<^1WOODS: ^7¡Mire cómo corren esos cabrones!>|
+
+|<^1MASON: ^7¡Venganza, malditos cabronazos!>|
+
+|<^1MASON: ^7¡Morid, mamones!>|
+
+|<^1WOODS: ^7Joder, esto es demasiado para nosotros. ¡Retírese!>|
+
+|<^1WOODS: ^7¡Sáquenos de aquí, Mason!>|
+
+|<^1WOODS: ^7¡Retirada! ¡Nos están acribillando!>|
+
+|<^1WOODS: ^7¡Mason, mueva este puto pájaro!>|
+
+|<^1WOODS: ^7¡Hemos perdido un generador! Pasamos a reserva.>|
+
+|<^1WOODS: ^7¡Sistema antichoque muerto!>|
+
+|<^1WOODS: ^7¡Perdemos estabilidad!>|
+
+|<^1WOODS: ^7¡Radar de aviso inutilizado!>|
+
+|<^1WOODS: ^7¡Mierda! ¡Estamos cayendo!>|
+
+|<^1MASON: ^7¡Lo pierdo! ¡Agárrese!>|
+
+|<^1WOODS: ^7El rotor está dañado. ¡Nos caemos!>|
+
+|<^1MASON: ^7¡Joder! ¡Vamos a estrellarnos!>|
+
+|<^1WOODS: ^7Recargando UV-32.>|
+
+|<^1WOODS: ^7¡No quedan cohetes! ¡Espere a recargar!>|
+
+|<^1WOODS: ^7¡Negativo, Mason! ¡Tiene que esperar a la recarga!>|
+
+|<^1WOODS: ^7¡Recargo!>|
+
+|<^1WOODS: ^7Sampanes en el río. Parece que en el puente de delante hay un calibre 50.>|
+
+|<^1WOODS: ^7¡Destruya el puente!>|
+
+|<^1WOODS: ^7¡RPG! ¡Vienen de los sampanes!>|
+
+|<^1WOODS: ^7Hemos acabado con ellos. Sigamos adelante.>|
+
+|<^1WOODS: ^7¡Calibre 50 en los camiones! ¡Y un ZSU blindado! ¡Use los cohetes!>|
+
+|<^1WOODS: ^7Una autopista Charlie. ¿Ve la estación de servicio de delante?>|
+
+|<^1MASON: ^7Sí, la veo.>|
+
+|<^1WOODS: ^7¡Es hora de desatar el caos!>|
+
+|<^1WOODS: ^7¡Destruya ese silo!>|
+
+|<^1WOODS: ^7Dispare a los edificios también. No deje ninguno con vida.>|
+
+|<^1WOODS: ^7Zona despejada. ¡Continúe por el río!>|
+
+|<^1WOODS: ^7RPG en el río. ¡Destruya los barcos!>|
+
+|<^1WOODS: ^7¡Mierda! Hay un calibre 50 por ahí abajo.>|
+
+|<^1WOODS: ^7Vaya con cuidado, Mason. Esos sampanes deben de tener un puesto de suministros cerca.>|
+
+|<^1WOODS: ^7¡Un puesto de suministros del NVA! Debemos estar cerca de la ruta Ho Chi Minh. ¡Ciérreles el chiringuito, Mason!>|
+
+|<^1WOODS: ^7Creo que alguien se ha molestado, Mason.>|
+
+|<^1WOODS: ^7Joder, tampoco es que seamos muy sutiles. Eh, montones de mierda comunista, venimos a por vosotros.>|
+
+|<^1WOODS: ^7¡Mierda! Un helicóptero de ataque Mi-8 desde el norte.>|
+
+|<^1WOODS: ^7¡Acabe con el artillero!>|
+
+|<^1WOODS: ^7¡Nos está apuntando!>|
+
+|<^1WOODS: ^7¡Ya lo tiene! Fuego.>|
+
+|<^1WOODS: ^7Le hemos dado. Siga hacia el norte. Quédese cerca del río.>|
+
+|<^1WOODS: ^7Parece que han estado quemando la ruta. Fíjese en ese ataque con napalm. Ni siquiera los Charlies pueden sobrevivir a eso.>|
+
+|<^1WOODS: ^7Parece que han estado quemando la ruta. Fíjese en ese ataque con napalm.>|
+
+|<^1WOODS: ^7Eso no me gusta.>|
+
+|<^1MASON: ^7¡Nos atacan!>|
+
+|<^1WOODS: ^7¡Un SAM! ¡Deje que se acerque y esquívelo!>|
+
+|<^1MASON: ^7Vamos, hijo de...>|
+
+|<^1WOODS: ^7¡Eso es! Habrá un lanzador SAM río arriba.>|
+
+|<^1WOODS: ^7¡Nos atacan!>|
+
+|<^1MASON: ^7¡Lo tengo!>|
+
+|<^1WOODS: ^7Debemos acercarnos más. ¡En esa cueva!>|
+
+|<^1WOODS: ^7¡Nos atacan! ¡Cuidado!>|
+
+|<^1WOODS: ^7¡Nos han fijado!>|
+
+|<^1WOODS: ^7¡Aquí viene!>|
+
+|<^1WOODS: ^7¡Acabe con ellos!>|
+
+|<^1WOODS: ^7¡Dele de nuevo! ¡Destruya toda la puta montaña!>|
+
+|<^1WOODS: ^7¡Bien hecho! Es el último pájaro que esos cabrones derriban.>|
+
+|<^1WOODS: ^7Los Charlies han construido una tubería sobre el río. ¡Destrúyala y dele al puente!>|
+
+|<^1WOODS: ^7¡Convoyes moviéndose!>|
+
+|<^1WOODS: ^7¡Bien hecho!>|
+
+|<^1WOODS: ^7Virgen santa, Mason. ¡El premio gordo! Tenemos la ruta Ho Chi Minh justo debajo.>|
+
+|<^1WOODS: ^7¡El premio gordo! Tenemos la ruta Ho Chi Minh justo debajo.>|
+
+|<^1WOODS: ^7¡Tenemos una tubería al sur y el campamento principal al norte! ¡Destrúyalo todo!>|
+
+|<^1WOODS: ^7¡ZSU blindado en marcha!>|
+
+|<^1WOODS: ^7¡Vuele ese oleoducto, Mason!>|
+
+|<^1WOODS: ^7¡Los Charlies se ocultan en esos edificios! ¡Use los cohetes!>|
+
+|<^1WOODS: ^7¿Ve esa torre de radar? ¡Destrúyala!>|
+
+|<^1WOODS: ^7¡RPG en las torres!>|
+
+|<^1WOODS: ^7¡ZSU colocándose!>|
+
+|<^1WOODS: ^7¡Calibre 50 en los muelles!>|
+
+|<^1WOODS: ^7¡Los Charlies intenten esconderse! ¡Destruya los edificios!>|
+
+|<^1WOODS: ^7Búnkeres con munición en la colina. ¡Suelte los UV!>|
+
+|<^1WOODS: ^7¡Queme todos esos búnkeres!>|
+
+|<^1WOODS: ^7Joder. ¡Cómo corren los Charlies!>|
+
+|<^1WOODS: ^7¡Buen tiro, Mason!>|
+
+|<^1WOODS: ^7¡Síi! ¡Todo despejado!>|
+
+|<^1WOODS: ^7Dos antiaéreos en el puente. ¿Los ve?>|
+
+|<^1WOODS: ^7Bien. El complejo de Kravchenko debería estar ahí delante.>|
+
+|<^1WOODS: ^7¡Torre RPG junto a la tubería!>|
+
+|<^1WOODS: ^7El complejo de Kravchenko debería estar aquí. Mantenga los ojos abiertos.>|
+
+|<^1WOODS: ^7Tengo una marca en el radar, Mason. ¿Ve algo...?>|
+
+|<^1WOODS: ^7¡HIND enemigo! ¡Viene hacia aquí!>|
+
+|<^1WOODS: ^7¡Está huyendo! ¡Dele en el trasero!>|
+
+|<^1WOODS: ^7¡Acabe con ese hijo de perra!>|
+
+|<^1WOODS: ^7Le ha dado. ¡Un último disparo!>|
+
+|<^1WOODS: ^7¡Contacto! ¡Ahora son dos!>|
+
+|<^1WOODS: ^7¡Contacto! ¡Objetivos múltiples, Mason! ¡Tenemos otro HIND encima!>|
+
+|<^1MASON: ^7Hijo de...>|
+
+|<^1WOODS: ^7¡Hágalo, Mason!>|
+
+|<^1MASON: ^7¡Sí!>|
+
+|<^1WOODS: ^7Uno menos. ¡Queda otro!>|
+
+|<^1WOODS: ^7¡Nos va a disparar! ¡Evasión!>|
+
+|<^1WOODS: ^7¡Siga disparándole!>|
+
+|<^1WOODS: ^7Hijo de perra. ¡El muy cabrón sabe volar!>|
+
+|<^1WOODS: ^7Perfecto... Ya está. Aterrice en ese claro.>|
+
+|<^1WOODS: ^7El complejo de Kravchenko está justo al sur.>|
+
+|<^1MASON: ^7Aterrizamos...>|
+
+|<^1WOODS: ^7Aterrizamos...>|
+
+|<^1WOODS: ^7Voy a aterrizar...>|
+
+|<^1WOODS: ^7Voy a aterrizar en el claro.>|
+
+|<^1WOODS: ^7Es aquí. Vamos.>|
+
+|<^1WOODS: ^7No tiene por qué ser tan silencioso, Mason.>|
+
+|<^1WOODS: ^7Hagámoslo.>|
+
+|<^1WOODS: ^7¡Mason, coja ese lanzallamas!>|
+
+|<^1WOODS: ^7¡Freiremos a estos cabrones!>|
+
+|<^1US PRISONER: ^7¿Quién anda ahí?>|
+
+|<^1US PRISONER: ^7¡Ayúdennos! ¡Por favor!>|
+
+|<^1WOODS: ^7¡Mason! Son prisioneros.>|
+
+|<^1US PRISONER: ^7¿Han venido a por nosotros?>|
+
+|<^1WOODS: ^7SOG. ¡Los sacaremos de aquí!>|
+
+|<^1WOODS: ^7Mason, vaya a por el otro.>|
+
+|<^1US PRISONER: ^7¡Gracias a Dios! ¡Dense prisa!>|
+
+|<^1REZNOV: ^7¡Mason! ¿Es usted?>|
+
+|<^1MASON: ^7¡Reznov! ¡Voy a sacarlo!>|
+
+|<^1REZNOV: ^7¡Kravchenko está aquí!>|
+
+|<^1REZNOV: ^7¡Por aquí! ¡No podemos permitir que se nos escape!>|
+
+|<^1WOODS: ^7¡Mason! ¿Qué coño está haciendo? Hay que sacar a estos tipos de aquí.>|
+
+|<^1WOODS: ^7¡Mason! Hay que sacar a estos tipos de aquí.>|
+
+|<^1WOODS: ^7¡Espere!>|
+
+|<^1MASON: ^7Pensaba que había muerto...>|
+
+|<^1REZNOV: ^7Cuando nos capturaron en el río, me trajeron aquí.>|
+
+|<^1REZNOV: ^7Me iban a devolver a Rusia... para que Dragovich decidiera mi destino.>|
+
+|<^1MASON: ^7Somos los dueños de nuestro propio destino, Reznov.>|
+
+|<^1MASON: ^7Kravchenko debe morir.>|
+
+|<^1WOODS: ^7Quédense conmigo.>|
+
+|<^1WOODS: ^7¡Acribíllenlos!>|
+
+|<^1WOODS: ^7¡Mason! ¡Es Kravchenko!>|
+
+|<^1WOODS: ^7Lo tenemos arrinconado.>|
+
+|<^1WOODS: ^7Quédense aquí y cúbrannos.>|
+
+|<^1WOODS: ^7Esto es personal.>|
+
+|<^1WOODS: ^7¡Mason! ¡Espere!>|
+
+|<^1WOODS: ^7Está dentro... ¿Listo, Mason?>|
+
+|<^1MASON: ^7¡Por supuesto que sí!>|
+
+|<^1MASON: ^7Debe morir.>|
+
+|<^1WOODS: ^7Le ha dado, Mason.>|
+
+|<^1KRAVCHENKO: ^7¡Esta vez no, americano!>|
+
+|<^1KRAVCHENKO: ^7Lo... conozco...>|
+
+|<^1KRAVCHENKO: ^7Otra vez usted...>|
+
+|<^1KRAVCHENKO: ^7¿Usted fue el primero...?>|
+
+|<^1KRAVCHENKO: ^7¡Debí matarlo en Vorkuta!>|
+
+|<^1KRAVCHENKO: ^7¡Aaaarg!>|
+
+|<^1WOODS: ^7¡Muere, hijo de perra!>|
+
+|<^1WOODS: ^7¡Muere, malnacido!>|
+
+|<^1KRAVCHENKO: ^7Morirá... conmigo.>|
+
+|<^1WOODS: ^7¡Dispare a la ventana!>|
+
+|<^1MASON: ^7¡Woods!>|
+
+|<^1WOODS: ^7Lo tengo, Mason...>|
+
+|<^1MASON: ^7¿Woods?>|
+
+|<^1WOODS: ^7Está bien...>|
+
+|<^1REZNOV: ^7Está bien...>|
+
+|<^1REZNOV: ^7Mason.>|
+
+|<^1MASON: ^7¿Reznov?>|
+
+|<^1REZNOV: ^7Kravchenko ha muerto...>|
+
+|<^1REZNOV: ^7Dragovich. Kravchenko. Steiner. Todos deben morir.>|
+
+|<^1WOODS: ^7¡Abra las celdas!>|
+
+|<^1WOODS: ^7¡Corra, abra las celdas!>|
+
+|<^1WOODS: ^7¡Eliminado!>|
+
+|<^1WOODS: ^7No hay tiempo que perder.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿy>|
+
+|<ÿÿÿÿÿÿy>|
+
+|<mc/mtl_p_jun_group_photo>|
+

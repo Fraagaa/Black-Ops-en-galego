@@ -1,0 +1,792 @@
+|<Tus actos han causado la muerte de tu equipo.>|
+
+|<Usa  para apuntar.>|
+
+|<Protege>|
+
+|<Cohetes Valkyrie>|
+
+|<Recoge los cohetes Valkyrie>|
+
+|<Derriba los helicópteros enemigos>|
+
+|<Blancos>|
+
+|<Blanco>|
+
+|<Aterriza con el helicóptero>|
+
+|<Destruye el Hind enemigo>|
+
+|<Protege al pelotón>|
+
+|<Asalta el Rusalka>|
+
+|<Pulsa ^3[{+melee}]^7 para acercar o alejar la vista.>|
+
+|<Usa  para moverte/desplazarte lateralmente.>|
+
+|<^L6:00, ^L^C126 de febrero de 1968^C>|
+
+|<^LCreemos que el buque está transmitiendo la señal.^L>|
+
+|<^LPosición: ^L^C1golfo de México^C>|
+
+|<^C1Mason^C^L, Hudson y Weaver se dirigen a interceptar el buque comercial soviético Rusalka.^L>|
+
+|<^LTransmisión núm. 9-19. Designación: X-RAY^L>|
+
+|<E11: Vuelta a la superficie>|
+
+|<E10: Huida>|
+
+|<E9: Código de desactivación de transmisión>|
+
+|<E8: Entra en el centro de transmisión>|
+
+|<E7: Sube por el hueco>|
+
+|<E6: La gran inundación>|
+
+|<E5: Infíltrate en la base>|
+
+|<E4: Sumérgete hasta la base>|
+
+|<E3: Gran vídeo>|
+
+|<E2: Reúnete con Weaver>|
+
+|<E1A: Dispara desde el helicóptero>|
+
+|<E1: Apoyo aéreo>|
+
+|<Neutraliza todas las amenazas>|
+
+|<Reúnete con Weaver bajo la cubierta>|
+
+|<Infíltrate en la emisora>|
+
+|<Encuentra a Dragovich y mátalo>|
+
+|<Detén la transmisión>|
+
+|<Echa abajo la puerta del centro de transmisión>|
+
+|<Escapa de la emisora>|
+
+|<Pulsa ^3[{+attack}]^7 para coger a Dragovich.>|
+
+|<Pulsa ^3[{+breath_sprint}]^7 y ^F^3[{+melee}]^7^F rápidamente para ahogar.>|
+
+|<Sigue>|
+
+|<Asiste>|
+
+|<Usa ^3[{+lookstick}]^7 para controlar el misil.>|
+
+|<^1WEAVER: ^7Alpha, tenemos el Rusalka a la vista.>|
+
+|<^1HUDSON: ^7Recibido, Yankee 1.>|
+
+|<^1WEAVER: ^7Iniciamos aproximación.>|
+
+|<^1HUDSON: ^7Mason, pilote usted.>|
+
+|<^1WEAVER: ^7Mantengan la formación. Nos acercamos a la emisora.>|
+
+|<^1WEAVER: ^7¡Mierda! ¡Fuego antiaéreo desde la cubierta!>|
+
+|<^1WEAVER: ^7¡Dios! ¡Fuego antiaéreo desde la cubierta!>|
+
+|<^1HUDSON: ^7¡Parece que estaban esperándonos!>|
+
+|<^1HUDSON: ^7Equipo Yankee, ¡ataque escalón derecho!>|
+
+|<^1WEAVER: ^7Recibido, Alpha. Nos separamos.>|
+
+|<^1HUDSON: ^7¡Mason, llévenos a babor!>|
+
+|<^1HUDSON: ^7¡Hay que asegurar la ZA!>|
+
+|<^1MASON: ^7Venga.>|
+
+|<^1US PILOT: ^71-5, iniciamos el ataque.>|
+
+|<^1US PILOT: ^7Vamos a atacar.>|
+
+|<^1US PILOT: ^7Impacto.>|
+
+|<^1US PILOT: ^7¡Disparan desde el puente!>|
+
+|<^1US PILOT: ^7Los veo. Voy a atacar.>|
+
+|<^1US PILOT: ^7Blanco destruido.>|
+
+|<^1WEAVER: ^7Yankee 1 en posición.>|
+
+|<^1WEAVER: ^7¡Vamos, vamos, vamos!>|
+
+|<^1HUDSON: ^7¡RPG! ¡Cubierta superior!>|
+
+|<^1HUDSON: ^7¿Weaver?>|
+
+|<^1WEAVER: ^7Equipo Yankee en posición.>|
+
+|<^1US PILOT: ^7¡Vamos, vamos!>|
+
+|<^1HUDSON: ^7Alpha, vamos a proporcionar apoyo. Cambio.>|
+
+|<^1WEAVER: ^7Yankee 2, lado de estribor. ¡Deprisa!>|
+
+|<^1BROOKS: ^7Entendido. Allá vamos.>|
+
+|<^1WEAVER: ^7Yankee 1, sígame.>|
+
+|<^1WEAVER: ^7Vamos.>|
+
+|<^1HUDSON: ^7Llévenos al lado de babor.>|
+
+|<^1HUDSON: ^7Vaya al lado de babor.>|
+
+|<^1HUDSON: ^7Llévenos al lado de estribor.>|
+
+|<^1HUDSON: ^7Vaya al lado de estribor.>|
+
+|<^1HUDSON: ^7Debemos acercarnos más.>|
+
+|<^1HUDSON: ^7¡Acérquenos más!>|
+
+|<^1HUDSON: ^7¡Retroceda!>|
+
+|<^1HUDSON: ^7Estamos muy cerca. ¡Aléjenos!>|
+
+|<^1HUDSON: ^7¡Mierda! ¡Nos han dado!>|
+
+|<^1HUDSON: ^7¡Nos disparan!>|
+
+|<^1HUDSON: ^7¡Maniobra evasiva!>|
+
+|<^1HUDSON: ^7¡Sáquenos de aquí, Mason!>|
+
+|<^1HUDSON: ^7¡Demasiado peligroso! ¡Suba!>|
+
+|<^1HUDSON: ^7Bien.>|
+
+|<^1HUDSON: ^7Buena puntería, Mason.>|
+
+|<^1HUDSON: ^7Les ha dado.>|
+
+|<^1HUDSON: ^7Siga así.>|
+
+|<^1HUDSON: ^7Despejado.>|
+
+|<^1MASON: ^7Vamos a babor.>|
+
+|<^1MASON: ^7Vamos a estribor.>|
+
+|<^1MASON: ^7Dé la vuelta.>|
+
+|<^1MASON: ^7Acérquenos más.>|
+
+|<^1MASON: ^7Recibido.>|
+
+|<^1WEAVER: ^7Vamos a atacar.>|
+
+|<^1WEAVER: ^7¡Dispare ahora!>|
+
+|<^1WEAVER: ^7¡Dispare!>|
+
+|<^1WEAVER: ^7¡Pelotón Yankee acorralado!>|
+
+|<^1WEAVER: ^7¡Nos machacan!>|
+
+|<^1WEAVER: ^7¿Dónde está el apoyo aéreo?>|
+
+|<^1WEAVER: ^7Gracias por la ayuda, Alpha.>|
+
+|<^1WEAVER: ^7Yankee 1, listo para proseguir.>|
+
+|<^1WEAVER: ^7Todo despejado. Sigamos.>|
+
+|<^1BROOKS: ^7Vamos a atacar.>|
+
+|<^1BROOKS: ^7Fuego.>|
+
+|<^1BROOKS: ^7¡Yankee 2 acorralado!>|
+
+|<^1BROOKS: ^7¡Yankee 2 en peligro! Repito. Yankee 2 en peligro.>|
+
+|<^1BROOKS: ^7¡Necesitamos apoyo aéreo!>|
+
+|<^1BROOKS: ^7Buen trabajo, Alpha.>|
+
+|<^1BROOKS: ^7Yankee 2, adelante.>|
+
+|<^1BROOKS: ^7Despejado. Adelante.>|
+
+|<^1HUDSON: ^7Recibido, Yankee.>|
+
+|<^1HUDSON: ^7¡RPG en el puente!>|
+
+|<^1HUDSON: ^7¡Elimínelos!>|
+
+|<^1HUDSON: ^7¡Insista!>|
+
+|<^1WEAVER: ^7Vamos a las cubiertas inferiores.>|
+
+|<^1HUDSON: ^7Recibido, Yankee. El equipo Alpha va justo detrás.>|
+
+|<^1HUDSON: ^7Mason, bájenos.>|
+
+|<^1HUDSON: ^7¡Salten!>|
+
+|<^1HUDSON: ^7Equipo Yankee, informe.>|
+
+|<^1WEAVER: ^7Avanzamos por la cubierta 2... No hay rastro del transmisor.>|
+
+|<^1HUDSON: ^7Tiene que estar aquí.>|
+
+|<^1MASON: ^7Sé que está. Sigan buscando.>|
+
+|<^1HUDSON: ^7Divídanse. Cubran los dos lados del barco.>|
+
+|<^1HUDSON: ^7¡Venga!>|
+
+|<^1HUDSON: ^7¡Mierda! ¡HIP enemigos!>|
+
+|<^1HUDSON: ^7¡Mason! ¡Coja ese misil guiado!>|
+
+|<^1HUDSON: ^7¡Derribe esos HIP!>|
+
+|<^1WEAVER: ^7¡Hudson, tiene que ver esto!>|
+
+|<^1HUDSON: ^7¿Qué es?>|
+
+|<^1WEAVER: ^7¡Mierda!>|
+
+|<^1HUDSON: ^7¡Weaver!>|
+
+|<^1WEAVER: ^7¡Estamos inmovilizados en la cubierta inferior! Bajen aquí enseguida.>|
+
+|<^1HUDSON: ^7¡Vamos en camino!>|
+
+|<^1WEAVER: ^7Aquí hay más cosas de las que pensábamos...>|
+
+|<^1MASON: ^7La emisora. Está debajo de nosotros.>|
+
+|<^1HUDSON: ^7Joder... ¡Dragovich está iniciando la emisión!>|
+
+|<^1HUDSON: ^7Mando, aquí Alpha 1. ¡Hemos confirmado que el Rusalka es el origen de la emisión!>|
+
+|<^1HUDSON: ^7Envíen el ataque aéreo. ¡Nos vamos de aquí!>|
+
+|<^1MASON: ^7Aún no. Hay que encontrar a Dragovich.>|
+
+|<^1HUDSON: ^7¡La marina americana va a volar todo por los aires en menos de 15 minutos!>|
+
+|<^1MASON: ^7Hace 5 años, en Baikonur, cometí el error de no confirmar la baja.>|
+
+|<^1HUDSON: ^7¿Seguro que no sigue abducido?>|
+
+|<^1MASON: ^7¿Importaría acaso? Ese hijo de puta tiene que morir de una vez por todas.>|
+
+|<^1HUDSON: ^7Salga de aquí, Weaver... Vamos a terminar con esto.>|
+
+|<^1MASON: ^7Hudson... ¿Ve las boyas?>|
+
+|<^1HUDSON: ^7Tienen que transmitir desde la superficie... Por eso nunca encontrábamos el origen de la emisión.>|
+
+|<^1HUDSON: ^7La estructura de abajo... es más que un transmisor.>|
+
+|<^1MASON: ^7Es un puesto de suministros para los submarinos soviéticos...>|
+
+|<^1MASON: ^7Parte del plan de invasión de Dragovich... una vez liberado el Nova 6.>|
+
+|<^1HUDSON: ^7Suelten los pesos.>|
+
+|<^1HUDSON: ^7Por aquí.>|
+
+|<^1HUDSON: ^7¡Mason, otra piscina abierta!>|
+
+|<^1HUDSON: ^7¡Corra, Mason! ¡Las bombas están a punto de caer!>|
+
+|<^1HUDSON: ^7¡Vamos, Mason! ¡Hay que darse prisa!>|
+
+|<^1HUDSON: ^7¡Han iniciado el ataque!>|
+
+|<^1HUDSON: ^7¡Weaver! ¿Qué está pasando?>|
+
+|<^1HUDSON: ^7¡Joder!>|
+
+|<^1MASON: ^7No podemos volver atrás. ¡Sigamos!>|
+
+|<^1HUDSON: ^7¡No hay salida!>|
+
+|<^1HUDSON: ^7Más adelante está inundado. Vamos a tener que nadar.>|
+
+|<^1HUDSON: ^7¡Hay que encontrar a Dragovich antes de que todo se venga abajo!>|
+
+|<^1HUDSON: ^7¿Listos?>|
+
+|<^1MASON: ^7Listo.>|
+
+|<^1HUDSON: ^7Por la escalera.>|
+
+|<^1HUDSON: ^7¡Hay que detener esa transmisión ya mismo!>|
+
+|<^1HUDSON: ^7¡Dragovich!>|
+
+|<^1MASON: ^7¡Dragovich!>|
+
+|<^1HUDSON: ^7¡Mason, dispare!>|
+
+|<^1DRAGOVICH: ^7Usted... no puede hacer nada bien.>|
+
+|<^1DRAGOVICH: ^7Debería haber sido mi mejor agente... Habría sido todo mucho más sencillo.>|
+
+|<^1MASON: ^7Es sencillo.>|
+
+|<^1MASON: ^7¡Voy a matarlo!>|
+
+|<^1MASON: ^7Intentó manipularme la mente... ¡Y falló!>|
+
+|<^1DRAGOVICH: ^7Usted no sabe nada...>|
+
+|<^1MASON: ^7¡Intentó volverme contra los míos!>|
+
+|<^1DRAGOVICH: ^7... Con certeza.>|
+
+|<^1MASON: ^7¡Intentó hacer que matase a mi presidente!>|
+
+|<^1DRAGOVICH: ^7Tried?>|
+
+|<^1HUDSON: ^7¡Mason! Por aquí.>|
+
+|<^1HUDSON: ^7¡Vamos, vamos, vamos!>|
+
+|<^1HUDSON: ^7¡Vamos, Mason!>|
+
+|<^1WEAVER: ^7Mason.>|
+
+|<^1WEAVER: ^7Se acabó... Hemos ganado.>|
+
+|<^1MASON: ^7Por ahora...>|
+
+|<^1HUDSON: ^7Sabía que no nos defraudaría, Mason.>|
+
+|<^1HUDSON: ^7Aunque el resto de la compañía se rindió...>|
+
+|<^1HUDSON: ^7Sabía que era de fiar.>|
+
+|<^1DRAGOVICH: ^7¿Cómo sabe que no lo conseguimos?>|
+
+|<^1REZNOV: ^7¡Ha logrado lo que a mí me fue imposible, Mason! Ahora, viva. Todavía queda mucho por hacer.>|
+
+|<^1HUDSON: ^7¡Adelante! Hay que detener la emisión.>|
+
+|<^1HUDSON: ^7Hay que detener la emisión.>|
+
+|<^1HUDSON: ^7¡Mierda!>|
+
+|<^1HUDSON: ^7¡Adelante!>|
+
+|<^1HUDSON: ^7¡Conmigo!>|
+
+|<^1HUDSON: ^7¡Mason, corte la transmisión!>|
+
+|<^1HUDSON: ^7¡Esto se viene abajo!>|
+
+|<^1HUDSON: ^7Mason, suba aquí.>|
+
+|<^1HUDSON: ^7¡Se nos acaba el tiempo!>|
+
+|<^1HUDSON: ^7Hay que moverse, Mason.>|
+
+|<^1HUDSON: ^7¡Salte ya!>|
+
+|<^1HUDSON: ^7¡Nos ha localizado!>|
+
+|<^1HUDSON: ^7¡Fuera del helicóptero! ¡Salte ya!>|
+
+|<^1HUDSON: ^7Equipo Yankee, podemos verlo. Vamos a atacar.>|
+
+|<^1HUDSON: ^7¡Un Hind! ¡Maniobras evasivas!>|
+
+|<^1HUDSON: ^7¡Toma ya!>|
+
+|<^1HUDSON: ^7Yankee 2, ¡dispare al Hind!>|
+
+|<^1HUDSON: ^7No aguantaremos mucho más. ¡Mason, al helipuerto!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ˆˆ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

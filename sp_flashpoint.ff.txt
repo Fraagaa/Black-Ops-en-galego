@@ -1,0 +1,1606 @@
+|<Mantén ^3[{+activate}]^7 para colocar explosivos.>|
+
+|<^C1Baikonur, URSS^C^L: Inteligencia confirma la presencia del grupo Ascensión y de Dragovich^L>|
+
+|<^L07:00,^L^C1 17 de noviembre de 1963^C>|
+
+|<Coloca C4>|
+
+|<Detén a los científicos enemigos>|
+
+|<Penetra en la sala de control>|
+
+|<Infíltrate en el cosmódromo de Baikonur>|
+
+|<Sigue a Woods>|
+
+|<Salva a Weaver>|
+
+|<Usa los prismáticos>|
+
+|<Ponte a cubierto>|
+
+|<Pulsa ^3[{+activate}]^7 para usar Karambit.>|
+
+|<Salta por encima del conducto>|
+
+|<Lleva al guardia>|
+
+|<Oculta el cuerpo>|
+
+|<Espera a Woods>|
+
+|<Usa tu disfraz>|
+
+|<Espera al pelotón>|
+
+|<Reúnete con el pelotón>|
+
+|<Mata a los perros>|
+
+|<Agáchate, sigue a Woods>|
+
+|<Mata al soldado sigilosamente>|
+
+|<Actúa con naturalidad, sigue a Woods>|
+
+|<Entra en el edificio de comunicaciones>|
+
+|<Despeja el edificio de comunicaciones>|
+
+|<Levanta el arma, no te alejes del pelotón>|
+
+|<Detén el lanzamiento del cohete>|
+
+|<Escapa de la base>|
+
+|<Que no te descubran>|
+
+|<Obtén un disfraz>|
+
+|<Reúnete con tu pelotón>|
+
+|<Ve al edificio de comunicaciones>|
+
+|<Rescata a Weaver>|
+
+|<Ve a la sala de control del cohete>|
+
+|<Destruye la Soyuz 2>|
+
+|<Usa el disfraz, no te alejes de tu pelotón>|
+
+|<Usa la escalera para llegar al tejado>|
+
+|<Despeja el tejado>|
+
+|<Despeja las salas>|
+
+|<Ve con Woods>|
+
+|<Despeja la sala de Weaver>|
+
+|<Dispara la ballesta al blanco>|
+
+|<Lanza un misil al cohete>|
+
+|<Mata a los científicos>|
+
+|<Escapa por los túneles>|
+
+|<Coge el lanzacohetes>|
+
+|<Despliega la tirolina>|
+
+|<Coge la ballesta de Woods>|
+
+|<Correr a conducto>|
+
+|<Disfrazado>|
+
+|<Caminar por barandilla>|
+
+|<Patada a puerta>|
+
+|<Tirolina>|
+
+|<Esconderse tras muro>|
+
+|<Penetrar búnker con C4>|
+
+|<Túneles>|
+
+|<Garaje>|
+
+|<Conducir BTR>|
+
+|<^C1Mason^C^L, Woods y Bowman tienen orden de eliminar las amenazas cueste lo que cueste^L>|
+
+|<Sal de las salas de gas>|
+
+|<Entra por la ventana>|
+
+|<Entra por la puerta>|
+
+|<ATRAPA>|
+
+|<EMBISTE>|
+
+|<Llega a los túneles>|
+
+|<Mata al científico jefe>|
+
+|<Obtén un vehículo de huida>|
+
+|<Te han detectado y la misión se ha visto comprometida.>|
+
+|<Acaba con el helicóptero>|
+
+|<^LOrden presidencial núm. 8-5. Designación: ZULU^L>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para cambiar a virotes explosivos.>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar los proyectiles Dragon's Breath.>|
+
+|<Mantén ^3[{+speed_throw}]^7 para apuntar el misil guiado al cohete.>|
+
+|<Usa  para controlar el misil.>|
+
+|<Pulsa ^3[{+melee}]^7 para eliminar sigilosamente a un enemigo por la espalda.>|
+
+|<Alcanza la limusina, atrapa al pasajero con vida>|
+
+|<Encuentra a Dragovich y mátalo>|
+
+|<Tomar>|
+
+|<¡El blanco ha escapado!>|
+
+|<¡Limusina destruida!>|
+
+|<Protege a Bowman y a Brooks>|
+
+|<Usa ^3[{+melee}]^7 para dirigir el BTR.>|
+
+|<Usa ^3[{+breath_sprint}]^7 para conducir hacia delante/atrás.>|
+
+|<Pulsa ^3[{+attack}]^7 para detonar.>|
+
+|<Pulsa ^3[{+attack}]^7 para disparar.>|
+
+|<No has logrado seguir a tu equipo.>|
+
+|<Tus actos han causado la muerte de tu equipo.>|
+
+|<Sigue>|
+
+|<Coger>|
+
+|<Bowman y Brooks han muerto.>|
+
+|<No has logrado detener el lanzamiento.>|
+
+|<No dañes el cohete.>|
+
+|<Aborta el lanzamiento en búnker aux.>|
+
+|<Protege>|
+
+|<^1INTERROGATOR: ^7¿Salvar a Weaver era más importante 
+que el objetivo de matar a Dragovich?>|
+
+|<^1MASON: ^7Weaver era ruso, pero era buen tipo.>|
+
+|<^1INTERROGATOR: ^7Le salvó la vida. Luego tenía que localizar 
+al grupo Ascensión y matar a los científicos.>|
+
+|<^1MASON: ^7No. Tenía que matar a Dragovich.>|
+
+|<^1WOODS: ^7Nos han visto. Fuera pasamontañas.>|
+
+|<^1MASON: ^7Registramos toda la base y no encontramos a ese cerdo.>|
+
+|<^1MASON: ^7Robamos un BTR y nos íbamos a largar.>|
+
+|<^1MASON: ^7Nos topamos con la limusina de Dragovich. Ya lo tenía.>|
+
+|<^1MASON: ^7Registramos toda la base y no encontramos a ese cerdo. Nos topamos con la limusina de Dragovich. Ya lo tenía.>|
+
+|<^1MASON: ^7Kravchenko se nos escapó de las manos.>|
+
+|<^1INTERROGATOR: ^7We're losing him again.>|
+
+|<^1INTERROGADOR: ^7Quédese conmigo, Mason.>|
+
+|<^1INTERROGADOR: ^7Se estaba acercando. Dragovich estaba allí, ¿verdad?>|
+
+|<^1INTERROGADOR: ^7Perdemos el tiempo. Tiene alucinaciones.>|
+
+|<^1INTERROGADOR: ^7Dragovich. ¿Pudo-confirmar-la-muerte?>|
+
+|<^1WOODS: ^7Yankee 1-3... ¿Me recibe?>|
+
+|<^1WOODS: ^7Aquí X-Ray 2-9. ¿Me recibe? Cambio.>|
+
+|<^1WOODS: ^7Weaver no responde... Movámonos.>|
+
+|<^1WOODS: ^7Mucho ojo, Mason.>|
+
+|<^1WOODS: ^7Algo no va bien...>|
+
+|<^1WOODS: ^7No debería haber patrullas tan lejos.>|
+
+|<^1WOODS: ^7Yankee 1-3, ¿me recibe?>|
+
+|<^1WOODS: ^7Mierda.>|
+
+|<^1WOODS: ^7Venga. Vamos.>|
+
+|<^1WOODS: ^7Whiskey, regrese.>|
+
+|<^1BOWMAN: ^7Adelante.>|
+
+|<^1WOODS: ^7El lanzamiento de la Soyuz 1 es inminente. Estamos en camino.>|
+
+|<^1BOWMAN: ^7Recibido.>|
+
+|<^1WOODS: ^7Se nos acaba el tiempo, Mason. Vámonos.>|
+
+|<^1WOODS: ^7A ver qué están tramando estos cabrones.>|
+
+|<^1WOODS: ^7No, no, no. Aquí pasa algo raro. Hay demasiada actividad.>|
+
+|<^1WOODS: ^7Yankee 1-3, informe.>|
+
+|<^1WOODS: ^7Yankee 1-3... ¡Informe!>|
+
+|<^1WOODS: ^7Weaver no responde...>|
+
+|<^1WOODS: ^7Tome, mire a ver qué ocurre.>|
+
+|<^1MASON: ^7Están con la cuenta atrás.>|
+
+|<^1MASON: ^7Ahí está la Soyuz 2. Su lanzamiento está previsto 10 minutos después que el de la Soyuz 1.>|
+
+|<^1MASON: ^7El edificio de comunicaciones.>|
+
+|<^1WOODS: ^7Mason, hay actividad en la carretera. Eche un vistazo.>|
+
+|<^1MASON: ^7Mierda, es Weaver... Lo han descubierto.>|
+
+|<^1MASON: ^7Maldita sea, es Weaver... Lo han descubierto.>|
+
+|<^1WOODS: ^7¿Quién coño es?>|
+
+|<^1WOODS: ^7¿Quién es?>|
+
+|<^1MASON: ^7Esto no me gusta.>|
+
+|<^1MASON: ^7Es Kravchenko, el lugarteniente de Dragovich.>|
+
+|<^1KRAVCHENKO: ^7Su colega no está dispuesto a explicar su presencia en estas instalaciones.>|
+
+|<^1KRAVCHENKO: ^7Ríndanse ahora... y serán tratados justamente.>|
+
+|<^1KRAVCHENKO: ^7No pienso repetirlo.>|
+
+|<^1WOODS: ^7No hay nada que hacer... Weaver está perdido.>|
+
+|<^1MASON: ^7Lo sé...>|
+
+|<^1KRAVCHENKO: ^7Como quieran.>|
+
+|<^1WEAVER: ^7¡Aaaaargh!>|
+
+|<^1MASON: ^7 ¡Hijo de perra!>|
+
+|<^1MASON: ^7¡Ese cabronazo le ha sacado un ojo!>|
+
+|<^1MASON: ¡Ese mamón le ha sacado un ojo!>|
+
+|<^1WOODS: ^7Equipo Whiskey, ¿está en posición?>|
+
+|<^1WOODS: ^7Bowman, ¿está en posición?>|
+
+|<^1BOWMAN: ^7Sí, X-Ray. Whiskey cubre la carretera.>|
+
+|<^1WOODS: ^7Weaver se ha visto comprometido. La base estará en máxima alerta.>|
+
+|<^1WOODS: ^7No se mueva. Vamos hacia allí.>|
+
+|<^1BOWMAN: ^7Vale.>|
+
+|<^1WOODS: ^7Muy bien... Adelante.>|
+
+|<^1WOODS: ^7Vale... En marcha.>|
+
+|<^1WOODS: ^7Viene un helicóptero. Agache la cabeza.>|
+
+|<^1WOODS: ^7Helicóptero en camino. ¡Vamos!>|
+
+|<^1WOODS: ^7Sígame y no se detenga.>|
+
+|<^1WOODS: ^7En marcha. Agáchense.>|
+
+|<^1WOODS: ^7Todo bien. Sigamos.>|
+
+|<^1WOODS: ^7Vuelva a cubierto. ¡Van a verlo!>|
+
+|<^1WOODS: ^7¡Vuelva aquí inmediatamente!>|
+
+|<^1WOODS: ^7¡Está revelando nuestra posición!>|
+
+|<^1WOODS: ^7¡Noo! ¡¿Adónde va?!>|
+
+|<^1WOODS: ^7¡Tiene que permanecer oculto!>|
+
+|<^1WOODS: ^7¡El helicóptero no debe vernos!>|
+
+|<^1WOODS: ^7¡El helicóptero lo ha visto!>|
+
+|<^1WOODS: ^7¡Lo tiene en la mira!>|
+
+|<^1WOODS: ^7¡Mason!>|
+
+|<^1WOODS: ^7Espere... Vale.>|
+
+|<^1WOODS: ^7Necesitamos los uniformes.>|
+
+|<^1WOODS: ^7Para mí el del suelo. Para ti el otro.>|
+
+|<^1WOODS: ^7Para ti el de la izquierda. Para mí el otro.>|
+
+|<^1MASON: ^7Venga.>|
+
+|<^1WOODS: ^7¿Listo?>|
+
+|<^1MASON: ^7Listo.>|
+
+|<^1WOODS: ^7No deben quedar a la vista.>|
+
+|<^1WOODS: ^7Espero que pudiera mejorar su ruso en Vorkuta, Mason.>|
+
+|<^1MASON: ^7Eso espero. Hay que salvar a Weaver.>|
+
+|<^1WOODS: ^7¡Mierda! Debemos silenciarlos.>|
+
+|<^1WOODS: ^7Alto el fuego. Aproveche el disfraz.>|
+
+|<^1WOODS: ^7Esos putos perros...>|
+
+|<^1WOODS: ^7Vale, vale.>|
+
+|<^1WOODS: ^7Muy bien.>|
+
+|<^1WOODS: ^7¿Adónde cojones va?>|
+
+|<^1WOODS: ^7¡Mason! ¡Quédese aquí!>|
+
+|<^1WOODS: ^7Vuelva aquí, Mason.>|
+
+|<^1WOODS: ^7¡Mason! ¡Debemos silenciar a los perros!>|
+
+|<^1WOODS: ^7¡Debemos acallar a los malditos perros!>|
+
+|<^1WOODS: ^7¿Qué coño está haciendo, Mason?>|
+
+|<^1WOODS: ^7¿Qué diablos...?>|
+
+|<^1WOODS: ^7Brooks y Bowman deberían estar ahí delante.>|
+
+|<^1BOWMAN: ^7X-Ray, aquí Whiskey. Enemigos a la vista. Voy a eliminarlos.>|
+
+|<^1WOODS: ^7Deprisa.>|
+
+|<^1WOODS: ^7Muy bien, Bowman.>|
+
+|<^1BOWMAN: ^7¿Qué ha pasado con Weaver?>|
+
+|<^1BOWMAN: ^7Esconda los cadáveres. ¿Y Weaver?>|
+
+|<^1WOODS: ^7Resultó comprometido.>|
+
+|<^1WOODS: ^7Lo hirieron. No sé si está mal.>|
+
+|<^1MASON: ^7Sigamos el plan. Intentaremos encontrar otra oportunidad.>|
+
+|<^1MASON: ^7Seguimos con la misión.>|
+
+|<^1WOODS: ^7Bien... En marcha.>|
+
+|<^1WOODS: ^7No llamen la atención.>|
+
+|<^1WOODS: ^7Tranquilo. No llame la atención.>|
+
+|<^1BOWMAN: ^7Parece que no tendremos esa suerte. Creo que han encontrado los cuerpos.>|
+
+|<^1BOWMAN: ^7Quizá hayan encontrado los cuerpos.>|
+
+|<^1WOODS: ^7No pasa nada. Hagamos como ellos.>|
+
+|<^1BOWMAN: ^7Francotiradores en el tejado.>|
+
+|<^1BOWMAN: ^7Un par de hombres delante.>|
+
+|<^1WOODS: ^7Bien... Bowman, Brooks, quítenlos de en medio.>|
+
+|<^1WOODS: ^7Bien... Bowman. Brooks.>|
+
+|<^1BOWMAN: ^7¡Eh! Ustedes.>|
+
+|<^1BOWMAN: ^7Hay un problema. Síganme.>|
+
+|<^1WOODS: ^7Desactivaré el enlace. ¡Suba y ocúpese de los tiradores!>|
+
+|<^1WOODS: ^7Despeje cada piso antes de continuar... Yo desactivaré el enlace.>|
+
+|<^1WOODS: ^7Use el cuchillo... No queremos llamar la atención.>|
+
+|<^1WOODS: ^7¡Vamos!>|
+
+|<^1MASON: ^7¡Voy!>|
+
+|<^1WOODS: ^7Bowman, Brooks... Encuentren a Weaver.>|
+
+|<^1BOWMAN: ^7¡Voy!>|
+
+|<^1MASON: ^7Despejado.>|
+
+|<^1MASON: ^7Adelante.>|
+
+|<^1MASON: ^7U menya prikaz.>|
+
+|<^1MASON: ^7Cuatro blancos... Un momento.>|
+
+|<^1MASON: ^7Planta despejada.>|
+
+|<^1MASON: ^7Tres más...>|
+
+|<^1WOODS: ^7Ya casi está. Siga así.>|
+
+|<^1MASON: ^7¡Tenemos un corredor!>|
+
+|<^1WOODS: ^7¡Tras él!>|
+
+|<^1MASON: ^7Ha caído.>|
+
+|<^1WOODS: ^7Enlace desactivado.>|
+
+|<^1WOODS: ^7Acabe con los francotiradores.>|
+
+|<^1BOWMAN: ^7X-Ray, responda, cambio.>|
+
+|<^1WOODS: ^7Adelante, Bowman.>|
+
+|<^1MASON: ^7Veo a Brooks y a Bowman ahí abajo.>|
+
+|<^1BOWMAN: ^7Acabamos de ver a Weaver... Lo están llevando a un búnker al sur del edificio de comunicaciones.>|
+
+|<^1WOODS: ^7Recibido. Vamos en camino.>|
+
+|<^1WOODS: ^7Recibido. Mason va a entrar en el edificio.>|
+
+|<^1WOODS: ^7Mason, venga aquí.>|
+
+|<^1WOODS: ^7Los disparos llaman la atención.>|
+
+|<^1WOODS: ^7¡Esos gilipollas están volviendo!>|
+
+|<^1MASON: ^7Creo que lo veo.>|
+
+|<^1BOWMAN: ^7Enemigo acercándose desde el norte. ¡Estamos acorralados!>|
+
+|<^1WOODS: ^7¡Mierda! ¡Nos han pillado!>|
+
+|<^1WOODS: ^7Virotes explosivos. ¡Ya!>|
+
+|<^1WOODS: ^7Yo cubriré la escalera.>|
+
+|<^1WOODS: ^7¡Acabe con ellos!>|
+
+|<^1WOODS: ^7Deprisa. ¡Bowman y Brooks no pueden más!>|
+
+|<^1WOODS: ^7Mason, por aquí.>|
+
+|<Aseguraré la línea. Usted dispare.>|
+
+|<Aseguraré la tirolina. Usted dispare.>|
+
+|<^1WOODS: ^7Dese prisa, Mason.>|
+
+|<^1WOODS: ^7Conseguiré tiempo.>|
+
+|<^1WOODS: ^7¡Vamos, vamos!>|
+
+|<^1WOODS: ^7¡Voy detrás de usted!>|
+
+|<^1MASON: ^7¡Weaver!>|
+
+|<^1WEAVER: ^7Cuánto ha tardado, Mason.>|
+
+|<^1BOWMAN: ^7Nada a la derecha.>|
+
+|<^1WOODS: ^7Izquierda libre.>|
+
+|<^1BOWMAN: ^7¿Puede continuar con la misión, Weaver?>|
+
+|<^1WEAVER: ^7Hagámoslo.>|
+
+|<^1WOODS: ^7Tarde o temprano acabaremos con ese cerdo de Kravchenko... Ahora hay que seguir con la misión...>|
+
+|<^1WOODS: ^7¿Ha saboteado el sistema de guía?>|
+
+|<^1WEAVER: ^7Estaba comprometido.>|
+
+|<^1BOWMAN: ^7Creo que se acabaron las sutilezas. ¿Pasamos al plan B?>|
+
+|<^1WEAVER: ^7Quizá todavía haya tiempo para abortar el lanzamiento... Hay que llegar al búnker de control auxiliar.>|
+
+|<^1WEAVER: ^7Quizá todavía haya tiempo para abortar el lanzamiento... Hay que llegar al búnker de control.>|
+
+|<^1WEAVER: ^7Vamos.>|
+
+|<^1WEAVER: ^7Por aquí...>|
+
+|<^1WOODS: ^7Mason, coja ese fusil de precisión.>|
+
+|<^1WOODS: ^7Aquí, sobre el muro.>|
+
+|<^1WOODS: ^7Blancos, 100 metros. ¡Agáchese!>|
+
+|<^1WOODS: ^7¡Ahí están los científicos del grupo Ascensión! Elimine a esos lumbreras.>|
+
+|<^1WOODS: ^7¡Los científicos del grupo Ascensión!>|
+
+|<^1WOODS: ^7Tienen todos el carné oficial de nazi.>|
+
+|<^1WOODS: ^7¡Bowman! ¡A por ellos!>|
+
+|<^1WOODS: ^7¡Mason, conmigo!>|
+
+|<^1MASON: ^7Que no escapen con vida.>|
+
+|<^1WOODS: ^7Lo estoy esperando, Mason.>|
+
+|<^1WOODS: ^7¡Mason, dispare!>|
+
+|<^1WOODS: ^7¡Mason! ¡Dispare!>|
+
+|<^1BOWMAN: ^7¡Está corriendo! Mason, ¿le ha dado?>|
+
+|<^1MASON: ^7Sí, le he dado.>|
+
+|<^1MASON: ^7¡Ha caído!>|
+
+|<^1MASON: ^7¡Maldición! ¡Está pidiendo refuerzos!>|
+
+|<^1WOODS: ^7Defiendan su posición.>|
+
+|<^1WEAVER: ^7Tenemos menos de un minuto para llegar al búnker auxiliar.>|
+
+|<^1WEAVER: ^7¡Casi no queda tiempo!>|
+
+|<^1WOODS: ^7¡Estamos acorralados!>|
+
+|<^1WOODS: ^7¡Mason! ¡Mate al piloto!>|
+
+|<^1WOODS: ^7El helicóptero nos está machacando. ¡Mate al piloto!>|
+
+|<^1WOODS: ^7¡Mate al piloto del helicóptero, Mason!>|
+
+|<^1WOODS: ^7¡Buena puntería!>|
+
+|<^1WOODS: ^7¡Deprisa!>|
+
+|<^1WEAVER: ^7Hay que destruir el cohete, ¡cueste lo que cueste!>|
+
+|<^1WOODS: ^7¡Mason, haga un agujero en ese puto muro!>|
+
+|<^1WOODS: ^7¡Maten a todos!>|
+
+|<^1WOODS: ^7Ya.>|
+
+|<^1WOODS: ^7¡Dese prisa, Weaver!>|
+
+|<^1WOODS: ^7Venga... ¡Vamos!>|
+
+|<^1WOODS: ^7¡Se acabó el tiempo!>|
+
+|<^1WEAVER: ^7¡Es tarde! ¡No puedo detenerlo!>|
+
+|<^1WEAVER: ^7¡Derríbelo!>|
+
+|<^1WOODS: ^7Plan B, Bowman. ¡Vamos!>|
+
+|<^1WOODS: ^7¡Plan B! ¡Bowman, prepare el Strela! ¡Vamos a derribar ese cohete!>|
+
+|<^1BOWMAN: ^7¡Esto servirá!>|
+
+|<^1WOODS: ^7¡De puta madre!>|
+
+|<^1WOODS: ^7¡Dios, sí!>|
+
+|<^1MASON: ^7¡Menuda forma de probar un prototipo!>|
+
+|<^1WEAVER: ^7¡Vuélelo, Mason! ¡Ya!>|
+
+|<^1WOODS: ^7¡Dispare!>|
+
+|<^1WOODS: ^7¡Joder!>|
+
+|<^1WOODS: ^7¡Madre de Dios!>|
+
+|<^1WOODS: ^7¡Joder, menuda carnicería!>|
+
+|<^1WOODS: ^7Maldición... No podemos estar aquí.>|
+
+|<^1WOODS: ^7¡A los túneles!>|
+
+|<^1WEAVER: ^7Sígame...>|
+
+|<^1BROOKS: ^7Pobres mamones...>|
+
+|<^1WOODS: ^7Son cabrones nazis... No merecen ninguna simpatía.>|
+
+|<^1WOODS: ^7Estamos aquí para cazarlos.>|
+
+|<^1WEAVER: ^7El resto del grupo Ascensión intentará escapar de las instalaciones...>|
+
+|<^1WOODS: ^7Bowman, Brooks, rodeen hasta el túnel norte. ¡Que nadie salga por la puerta de atrás!>|
+
+|<^1BOWMAN: ^7Entendido.>|
+
+|<^1WOODS: ^7Mason y Weaver, conmigo.>|
+
+|<^1WOODS: ^7¿Por dónde, Weaver?>|
+
+|<^1WEAVER: ^7A la derecha.>|
+
+|<^1WOODS: ^7¡Mierda! ¡A cubierto!>|
+
+|<^1WOODS: ^7¡A cubierto!>|
+
+|<^1WEAVER: ^7¡Spetsnaz!>|
+
+|<^1WEAVER: ^7Prepárense. ¡Tenemos una pelea entre manos!>|
+
+|<^1WOODS: ^7Sangran, ¿no?>|
+
+|<^1WOODS: ^7¡Maldito cabrón!>|
+
+|<^1WOODS: ^7¡No los pierda!>|
+
+|<^1WOODS: ^7Lo mejor de Rusia... ¡Y una polla!>|
+
+|<^1WOODS: ^7¡Vienen más!>|
+
+|<^1WOODS: ^7¡Muere, hijo de perra!>|
+
+|<^1WOODS: ^7¡Morid, cabrones!>|
+
+|<^1WEAVER: ^7¡Mason! ¡Tras los armarios!>|
+
+|<^1WEAVER: ^7Despejado.>|
+
+|<^1WOODS: ^7Un momento...>|
+
+|<^1WEAVER: ^7¡Gas lacrimógeno!>|
+
+|<^1WOODS: ^7¡Las máscaras! ¡Vamos, vamos!>|
+
+|<^1WOODS: ^7No veo nada... Creen que nos han pillado...>|
+
+|<^1WOODS: ^7Démosles una sorpresa.>|
+
+|<^1WOODS: ^7Mason, la escopeta...>|
+
+|<^1WOODS: ^7¡Intentan arrollarnos!>|
+
+|<^1WOODS: ^7¡Fuego!>|
+
+|<^1WOODS: ^7¡Ojo!>|
+
+|<^1WEAVER: ^7¡No puedo respirar con esta cosa!>|
+
+|<^1WEAVER: ^7¡Aparten!>|
+
+|<^1WOODS: ^7Despejado.>|
+
+|<^1WEAVER: ^7¡Puaaaaagh!>|
+
+|<^1WOODS: ^7¿Está bien, Weaver?>|
+
+|<^1WOODS: ^7Deje de pintar el suelo, Weaver. ¿Está bien?>|
+
+|<^1WOODS: ^7Me alegro. Vamos.>|
+
+|<^1WOODS: ^7¡Allí! ¡Es de Ascensión!>|
+
+|<^1WEAVER: ^7¡Eliminen a sus guardias!>|
+
+|<^1WOODS: ^7Bien. Debería haber otros tres... Vamos.>|
+
+|<^1WOODS: ^7¿Se está ablandando, Mason?>|
+
+|<^1WOODS: ^7Dos más... Sigamos.>|
+
+|<^1WOODS: ^7Uno más. El líder del grupo Ascensión.>|
+
+|<^1WOODS: ^7¡Allí!>|
+
+|<^1WOODS: ^7¡Mierda! ¡Un corredor!>|
+
+|<^1WOODS: ^7¡Tenemos un corredor!>|
+
+|<^1WOODS: ^7¡No lo pierda!>|
+
+|<^1WOODS: ^7¡Que no escape!>|
+
+|<^1WOODS: ^7No va a ir a ninguna parte.>|
+
+|<^1BOWMAN: ^7¿Ya está?>|
+
+|<^1WOODS: ^7Ya está. ¿Cuál es la situación arriba?>|
+
+|<^1BOWMAN: ^7Un caos. Tardarán años en averiguar qué ha ocurrido.>|
+
+|<^1WOODS: ^7Vale. Es hora de salir pitando de aquí.>|
+
+|<^1WOODS: ^7Potencial objetivo importante... ¿Mason?>|
+
+|<^1MASON: ^7Es él. Está aquí.>|
+
+|<^1WOODS: ^7¿Quién?>|
+
+|<^1MASON: ^7¡Dragovich! Ese cerdo intentó lavarme el cerebro en Vorkuta.>|
+
+|<^1WOODS: ^7Suficientemente importante para mí...>|
+
+|<^1WOODS: ^7¡Acabe con el helicóptero!>|
+
+|<^1WOODS: ^7¡Mason, por aquí!>|
+
+|<^1WOODS: ^7¡Deme cobertura!>|
+
+|<^1WOODS: ^7¡Necesito un poco de cariño!>|
+
+|<^1WOODS: ^7¡Aaaargh!>|
+
+|<^1WOODS: ^7¡Nuestro vehículo!>|
+
+|<^1WOODS: ^7¡Todos dentro!>|
+
+|<^1WOODS: ^7¡Conduzca!>|
+
+|<^1WOODS: ^7¡Larguémonos!>|
+
+|<^1MASON: ^7Aún no...>|
+
+|<^1MASON: ^7Vamos a por Dragovich.>|
+
+|<^1WOODS: ^7¡Izquierda, Mason!>|
+
+|<^1WOODS: ^7¡A nuestra izquierda!>|
+
+|<^1WOODS: ^7¡Derecha!>|
+
+|<^1WEAVER: ^7¡A nuestra derecha!>|
+
+|<^1WOODS: ^7¡12 en punto!>|
+
+|<^1WOODS: ^7¡Justo delante!>|
+
+|<^1WOODS: ^7¡A nuestras seis!>|
+
+|<^1WOODS: ^7¡Detrás de nosotros!>|
+
+|<^1WEAVER: ^7¡A la izquierda!>|
+
+|<^1WEAVER: ^7¡Delante!>|
+
+|<^1WOODS: ^7¡Francotiradores!>|
+
+|<^1WEAVER: ^7¡Más Spetsnaz!>|
+
+|<^1WOODS: ^7¡BTR!>|
+
+|<^1WOODS: ^7¡RPG!>|
+
+|<^1WOODS: ^7¡Páselos por encima!>|
+
+|<^1WOODS: ^7¡Embista a los cabrones!>|
+
+|<^1WOODS: ^7¡Acabe con ese RPG!>|
+
+|<^1WEAVER: ^7¡Acabe con los francotiradores!>|
+
+|<^1WOODS: ^7¡Atropéllelos!>|
+
+|<^1WEAVER: ^7¡Embista a los cabrones!>|
+
+|<^1WOODS: ^7¡Sufrimos daños!>|
+
+|<^1WEAVER: ^7¡No resistiremos mucho más!>|
+
+|<^1MASON: ^7¡Allí está! ¡Dragovich!>|
+
+|<^1WOODS: ^7¿Seguro que es él?>|
+
+|<^1MASON: ^7Por supuesto...>|
+
+|<^1MASON: ^7Nunca olvidaré la cara de ese cabrón.>|
+
+|<^1MASON: ^7Tengo que matarlo.>|
+
+|<^1WOODS: ^7¡No lo pierda de vista!>|
+
+|<^1WOODS: ^7¡Vuelva a golpearlo!>|
+
+|<^1WEAVER: ^7¡Sáquelo de la carretera!>|
+
+|<^1WOODS: ^7No sale nadie.>|
+
+|<^1WOODS: ^7¿Satisfecho, Mason?>|
+
+|<^1MASON: ^7 Aún no... No hasta que vea el cuerpo.>|
+
+|<^1WOODS: ^7No hay tiempo... Debemos irnos, Mason.>|
+
+|<^1WOODS: ^7Créame... Ese cabronazo está carbonizado.>|
+
+|<^1WOODS: ^7Créame... Ese mamón está carbonizado.>|
+
+|<^1WOODS: ^7¡Tenemos compañía!>|
+
+|<^1WOODS: ^7¡Cambio a punta explosiva!>|
+
+|<^1WOODS: ^7Están acorralados. ¡Elimine esos vehículos!>|
+
+|<^1WOODS: ^7¡Buen disparo! ¡Eso no lo enseñan en la instrucción!>|
+
+|<^1WOODS: ^7¡Pise el acelerador!>|
+
+|<^1WOODS: ^7¡Retroceda!>|
+
+|<^1WOODS: ^7¡Los estamos perdiendo!>|
+
+|<^1WOODS: ^7¡Dé la vuelta!>|
+
+|<^1WOODS: ^7Sin hacer ruido.>|
+
+|<^1WOODS: ^7¡Mierda! ¡Nos han visto!>|
+
+|<^1WOODS: ^7¡Nos han visto!>|
+
+|<^1WOODS: ^7¡Eliminado!>|
+
+|<^1WOODS: ^7Siga con la misión.>|
+
+|<^1WOODS: ^7Mierda. Nos han encontrado.>|
+
+|<^1WOODS: ^7Nos han encontrado.>|
+
+|<^1WOODS: ^7Mason, conmigo. Brooks, Bowman, vayan y acaben con los científicos.>|
+
+|<^1WOODS: ^7Es tarde. El cohete está despegando.>|
+
+|<^1BROOKS: ^7Despejado. Adelante.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+

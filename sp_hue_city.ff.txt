@@ -1,0 +1,1185 @@
+|<Apoyo>|
+
+|<Ciudad de Hue, Vietnam>|
+
+|<Sargento Carter>|
+
+|<Extrae al desertor y la inteligencia>|
+
+|<Pulsa X para bajar por la cuerda.>|
+
+|<Usa la radio y solicita apoyo aéreo>|
+
+|<Llega a la zona de aterrizaje>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 para solicitar apoyo aéreo.>|
+
+|<^3[{+melee}]^7>|
+
+|<Mantén ^3[{+activate}]^7 para conseguir la radio.>|
+
+|<Toma la radio>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar los proyectiles Dragon's Breath.>|
+
+|<Pulsa ^3[{+attack}]^7 para indicar un objetivo al apoyo aéreo.>|
+
+|<Bottom Feeder>|
+
+|<M113>|
+
+|<Huey artillado>|
+
+|<Pulsa ^3[{+activate}]^7 para empujar.>|
+
+|<Pulsa ^3[{+activate}]^7 para recoger explosivos.>|
+
+|<Pulsa ^3[{+actionslot 1}]^7 para equiparte con las cargas de C4.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para lanzar y ^3[{+attack}]^7 para detonar el C4.>|
+
+|<Pulsa ^3[{+actionslot 4}]^7 para equiparte con las cargas de C4.>|
+
+|<Pulsa ^3[{+attack}]^7 para usar las Claymore.>|
+
+|<Pulsa ^3[{+activate}]^7 para recoger Claymore.>|
+
+|<Mantén ^3[{+activate}]^7 para colocar explosivos.>|
+
+|<¡Llega a la embarcación!>|
+
+|<Extracción en: >|
+
+|<Sigue>|
+
+|<Incursión>|
+
+|<Aprópiate de la radio>|
+
+|<Escolta>|
+
+|<Zona de aterrizaje>|
+
+|<Coloca C4>|
+
+|<Suministros>|
+
+|<Blanco>|
+
+|<^3[{+activate}]^7>|
+
+|<Defender>|
+
+|<Observador>|
+
+|<Claymore>|
+
+|<Cargas explosivas>|
+
+|<Pide por radio una bomba termobárica>|
+
+|<Destruye el emplazamiento del cañón ZSU>|
+
+|<Defiende la zona de aterrizaje para la extracción>|
+
+|<Prepara las defensas y asegura la zona de aterrizaje>|
+
+|<MATA A LOS OBSERVADORES DE ARTILLERÍA (quedan 3 de 3)>|
+
+|<MATA A LOS OBSERVADORES DE ARTILLERÍA (quedan 2 de 3)>|
+
+|<MATA A LOS OBSERVADORES DE ARTILLERÍA (queda 1 de 3)>|
+
+|<Coge el commando con ACOG>|
+
+|<Lucha para llegar a la zona de aterrizaje>|
+
+|<Reagrúpate>|
+
+|<Blanco demasiado cercano>|
+
+|<^LTransmisión núm. 20-8-5-18-5. Designación: OSCAR^L>|
+
+|<^C1Ciudad de Hue^C ^Lha caído^L>|
+
+|<^LLa información y el desertor soviético no pueden correr peligro.^L>|
+
+|<^LJefe del equipo de extracción:^L ^C1Mason,^C ^Lintegrado en los SOG^L>|
+
+|<^L19:00,^L ^C12 de febrero de 1968^C>|
+
+|<El blanco es amigo>|
+
+|<Commando con ACOG>|
+
+|<Llega a la embarcación>|
+
+|<Pulsa repetidamente ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<Pulsa>|
+
+|<Ayuda a Woods>|
+
+|<Pulsa ^F^3[{+activate}]^7^F para abrir la puerta.>|
+
+|<Detona el explosivo>|
+
+|<No has logrado escapar a tiempo.>|
+
+|<^1INTERROGADOR: ^7Hue. Allí es donde empezó a resolverse el misterio, Mason.>|
+
+|<^1MASON: ^7El desertor.>|
+
+|<^1MASON: ^7No podía creer que Reznov estuviera en Hue, 
+ni que fuera el desertor.>|
+
+|<^1INTERROGATOR: ^7Volvió a por usted. Reznov había vuelto.>|
+
+|<^1US PILOT: ^7Negativo. El equipo Texas no está en el sector.>|
+
+|<^1US MARINE: ^7¡Necesitamos apoyo aéreo inmediato!>|
+
+|<^1US SOLDIER: ^7¡Nos han dado!>|
+
+|<^1US PILOT: ^7El MACV este ha sido invadido. Repito. MACV este perdido.>|
+
+|<^1US SOLDIER: ^7¡Traigan ese blindado! ¡Tengo heridos!>|
+
+|<^1PILOTO EE. UU.: ^7Nos están acribillando desde el norte. Nuestros chicos no resistirán.>|
+
+|<^1US MARINE: ^7No me importan sus órdenes. Dirija su ataque al sector Tango Lima 5 de inmediato.>|
+
+|<^1US SOLDIER: ^7¡Atrás! ¡Retirada!>|
+
+|<^1US PILOT: ^7Complejo del MACV a la vista. Se va a meter en un buen marrón, Woods.>|
+
+|<^1MASON: ^7Vamos a sacar a un desertor con información sobre la participación soviética en Vietnam.>|
+
+|<^1MASON: ^7Hemos perdido contacto con su equipo de seguridad. Podrían estar en la sala segura del MACV.>|
+
+|<^1WOODS: ^7Si está vivo, lo encontraremos.>|
+
+|<^1US PILOT: ^7SOG X-Ray, engánchese.>|
+
+|<^1US PILOT: ^7Equipo en el cable.>|
+
+|<^1US PILOT: ^7¡Una Quad-50! ¡Nos han dado!>|
+
+|<^1US PILOT: ^7¡Lima 9, nos caemos!>|
+
+|<^1WOODS: ^7¡Cuidado!>|
+
+|<^1US PILOT: ^7¡Agárrense!>|
+
+|<^1US PILOT: ^7Hotel 6, responda. Hotel 6, ¿me recibe?>|
+
+|<^1US PILOT: ^7Lima 9, Hotel 6 ya no existe.>|
+
+|<^1WOODS: ^7Tome. Una SPAS 12. Permite usar incendiarias. ¿Adónde vamos, Mason?>|
+
+|<^1WOODS: ^7¡En marcha!>|
+
+|<^1BOWMAN: ^7Lima 9, veo a X-Ray.>|
+
+|<^1BOWMAN: ^7El NVA está por todo el ala norte, Woods.>|
+
+|<^1WOODS: ^7¡Acribíllelos, Bowman!>|
+
+|<^1US PILOT: ^7Lima 9 en camino.>|
+
+|<^1BOWMAN: ^7¡X-Ray, agachen la cabeza!>|
+
+|<^1BOWMAN: ^7X-Ray, despejado.>|
+
+|<^1WOODS: ^7¡Vamos, en marcha!>|
+
+|<^1WOODS: ^7¡Fuera! ¡Vamos!>|
+
+|<^1WOODS: ^7¡Bowman! ¡Esquina noreste!>|
+
+|<^1BOWMAN: ^7Ya voy.>|
+
+|<^1BOWMAN: ^7X-Ray, entraremos por el tejado.>|
+
+|<^1BOWMAN: ^7¡Todo el edificio está invadido!>|
+
+|<^1WOODS: ^7Es un piso más abajo.>|
+
+|<^1BOWMAN: ^7¿Cree que el desertor habrá sobrevivido?>|
+
+|<^1WOODS: ^7Si lo ha hecho, ¡ese cabrón es muy duro!>|
+
+|<^1WOODS: ^7Bowman, ¿qué dice?>|
+
+|<^1BOWMAN: ^7Mate a los civiles.>|
+
+|<^1ALTAVOZ DE LA BASE: ^Su colaboración con los americanos demuestra su culpabilidad. Siguiendo la tradición del partido, el castigo será ejecutado inmediatamente.>|
+
+|<^1BOWMAN: ^7¡Al suelo!>|
+
+|<^1BOWMAN: ^7¡Lo siento, cabrones!>|
+
+|<^1BOWMAN: ^7¡Malditos mamones!>|
+
+|<^1US PILOT: ^7X-Ray, aquí Lima 9. El que no salga pronto se quedará aquí. El NVA ha invadido toda el ala norte.>|
+
+|<^1WOODS: ^7Recibido, Lima 9. Allá vamos.>|
+
+|<^1MASON: ^7La sala segura está ahí.>|
+
+|<^1WOODS: ^7Las salas seguras están al otro lado de la sala de guerra.>|
+
+|<^1WOODS: ^7¡Molotov!>|
+
+|<^1BOWMAN: ^7¡En la ventana!>|
+
+|<^1BOWMAN: ^7¡Listo!>|
+
+|<^1MASON: ^7La sala segura está ahí abajo.>|
+
+|<^1MASON: ^7Han forzado la sala segura.>|
+
+|<^1MASON: ^7La han forzado.>|
+
+|<^1BOWMAN: ^7¿Dónde está el contacto?>|
+
+|<^1MASON: ^7Quizá haya vuelto a la sala de mando... Puede que esté vivo.>|
+
+|<^1MASON: ^7Vamos.>|
+
+|<^1WOODS: ^7¡Lima 9, informe!>|
+
+|<^1US PILOT: ^7X-Ray, el NVA ha retomado el MACV sur. Están aislados.>|
+
+|<^1WOODS: ^7Mierda.>|
+
+|<^1WOODS: ^7Maldición.>|
+
+|<^1BOWMAN: ^7Recibido, Lima 9.>|
+
+|<^1US PILOT: ^7Será mejor que muevan el culo si quieren una evacuación.>|
+
+|<^1MASON: ^7Venga. Conmigo.>|
+
+|<^1WOODS: ^7Estamos en el mando central. La salida está al otro lado.>|
+
+|<^1WOODS: ^7¡RPG!>|
+
+|<^1MASON: ^7Debería estar en una de estas salas.>|
+
+|<^1WOODS: ^7Mason, vaya por la puerta del final del pasillo.>|
+
+|<^1WOODS: ^7Bowman, conmigo.>|
+
+|<^1WOODS: ^7¡Mason, fuerce la puerta!>|
+
+|<^1WOODS: ^7Tiene que forzar la puerta, Mason.>|
+
+|<^1WOODS: ^7¿Va a forzar la maldita puerta?>|
+
+|<^1WOODS: ^7Debemos seguir adelante. Fuerce la puerta.>|
+
+|<^1WOODS: ^7Se nos acaba el tiempo, Mason.>|
+
+|<^1DRAGOVICH: ^7Números... Construcción... Emisora de números... Números...>|
+
+|<^1REZNOV: ^7¿Mason?>|
+
+|<^1MASON: ^7Reznov. ¿Cómo escapó usted de Vorkuta?>|
+
+|<^1MASON: ^7Nunca pensé que lo vería con vida...>|
+
+|<^1REZNOV: ^7Ni yo a usted, amigo.>|
+
+|<^1MASON: ^7¿Es nuestro desertor?>|
+
+|<^1REZNOV: ^7Estoy aquí con un aviso que su gobierno debería escuchar...>|
+
+|<^1REZNOV: ^7Dragovich planea atacar Occidente.>|
+
+|<^1WOODS: ^7¡Mason! ¿Tiene lo que necesitaba?>|
+
+|<^1MASON: ^7Estamos listos.>|
+
+|<^1MASON: ^7Dragovich... Sabía que volveríamos a verlo.>|
+
+|<^1REZNOV: ^7Su influencia se propaga como un cáncer... Ni siquiera el Kremlin sabe lo que realmente planea.>|
+
+|<^1REZNOV: ^7Hay que detenerlo, Mason.>|
+
+|<^1REZNOV: ^7Dragovich... Kravchenko... Steiner... Todos deben morir.>|
+
+|<^1REZNOV: ^7¿Son sus hombres?>|
+
+|<^1MASON: ^7Woods. Bowman.>|
+
+|<^1REZNOV: ^7Soy Reznov... Viktor.>|
+
+|<^1WOODS: ^7¿Por qué ha tardado tanto? Espero que los datos merezcan la pena.>|
+
+|<^1WOODS: ^7Lima 9, ¿dónde coño está nuestra recogida?>|
+
+|<^1US PILOT: ^7X-Ray, nos informan de que hay muchos enemigos al oeste del MACV.>|
+
+|<^1US PILOT: ^7Acudan al punto de encuentro Delta, 2 kilómetros al norte, en el río.>|
+
+|<^1WOODS: ^7Lo conseguiremos. No se vayan...>|
+
+|<^1WOODS: ^7Vamos a necesitar un poco de apoyo aéreo para esta mierda.>|
+
+|<^1WOODS: ^7Vamos a necesitar un poco de apoyo aéreo para esto.>|
+
+|<^1ALTAVOZ DE LA BASE: ^7¡Soldados americanos! Bajen las armas. Esta no es su guerra. No queremos hacerles daño. ¡El ejército popular de Vietnam ha venido a liberarlos!>|
+
+|<^1CROSBY: ^7Texas, aquí 1-5. ¡Necesitamos apoyo aéreo inmediato en el sector 7 Delta Oscar Tango!>|
+
+|<^1US PILOT: ^7Negativo, 1-5. Nuestro objetivo principal es el MACV sur. Permanezca con su compañía.>|
+
+|<^1CROSBY: ^7¡No tenemos compañía! ¡Nos han aislado durante el ataque!>|
+
+|<^1US PILOT: ^71-5, no tenemos permiso en ese sector. Todo el mundo está jodido, muchacho.>|
+
+|<^1US PILOT: ^71-5, no tenemos permiso en ese sector.>|
+
+|<^1CROSBY: ^7Hijo de perra... ¡Joder!>|
+
+|<^1CROSBY: ^7Hijo de...>|
+
+|<^1MASON: ^7Eh, deme esa radio.>|
+
+|<^1CROSBY: ^7¿Es usted SOG?>|
+
+|<^1MASON: ^7Deme la radio, muchacho.>|
+
+|<^1CROSBY: ^7Buena suerte con ello.>|
+
+|<^1WOODS: ^7¡Consiga la radio, deprisa!>|
+
+|<^1WOODS: ^7¡Mason! ¡Coja la maldita radio!>|
+
+|<^1WOODS: ^7¿A qué está esperando? Necesitamos esa radio, Mason.>|
+
+|<^1MASON: ^7Texas, aquí Sierra Oscar Golf X-Ray. Autorización operación Delta. Sus órdenes quedan anuladas. Ataque de prioridad uno según mis órdenes. Ataque autentificado. Cambio.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. Díganos dónde nos necesita.>|
+
+|<^1WOODS: ^7¡X-Ray, vamos!>|
+
+|<^1WOODS: ^7¡Mason, dirija la artillería a los edificios!>|
+
+|<^1BOWMAN: ^7Mason, deme la maldita radio si no va a utilizarla.>|
+
+|<^1US PILOT: ^7X-Ray, Texas a la espera.>|
+
+|<^1US PILOT: ^7Texas esperando orden de ataque. Cambio.>|
+
+|<^1US PILOT: ^7X-Ray, no podemos ver los blancos. Solicito coordenadas. Cambio.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. A por el edificio de 2 plantas.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. Al edificio de 3 plantas.>|
+
+|<^1US PILOT: ^7Recibido. Apuntando al edificio de 4 plantas.>|
+
+|<^1US PILOT: ^7Vale, X-Ray. A por el edificio de 5 plantas.>|
+
+|<^1US PILOT: ^7Confirmado. Contacto en el edificio de 6 plantas.>|
+
+|<^1MASON: ^7Texas. Necesito apoyo.>|
+
+|<^1US PILOT: ^7Recibido. Ya vamos.>|
+
+|<^1MASON: ^7Texas, cuando yo diga.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. Agárrese.>|
+
+|<^1MASON: ^7Marcando coordenadas. Elimínenlos.>|
+
+|<^1US PILOT: ^7Váyanse, X-Ray. Vamos a atacar.>|
+
+|<^1MASON: ^7Texas, acribille ese nido. ¡Aliados cercanos!>|
+
+|<^1US PILOT: ^7Enseguida, X-Ray. Agachen la cabeza.>|
+
+|<^1MASON: ^7Blanco marcado. Denles caña.>|
+
+|<^1US PILOT: ^7Texas en camino.>|
+
+|<^1MASON: ^7Texas, blanco marcado.>|
+
+|<^1US PILOT: ^7Lo vemos, X-Ray. Apoyo en camino.>|
+
+|<^1US PILOT: ^7Negativo, X-Ray. Vemos aliados en su marca.>|
+
+|<^1US PILOT: ^7X-Ray, esas coordenadas son de aliados. Confirme. Cambio.>|
+
+|<^1US PILOT: ^7Negativo, X-Ray. No es un blanco válido.>|
+
+|<^1US PILOT: ^7Negativo, X-Ray. Vemos RPG en los tejados.>|
+
+|<^1US PILOT: ^7¡Demasiado peligroso! ¡Eliminen los RPG!>|
+
+|<^1US PILOT: ^7Entendido, X-Ray. Saque a su pelotón de la zona.>|
+
+|<^1US PILOT: ^7Entendido, X-Ray. Saque a su equipo de la zona.>|
+
+|<^1WOODS: ^7¡Despejen la zona! ¡Peligro inminente!>|
+
+|<^1US PILOT: ^7Afirmativo, X-Ray. Despeje la zona.>|
+
+|<^1WOODS: ^7¡Primer pelotón, salga de ahí! Van a atacar nuestra posición.>|
+
+|<^1US PILOT: ^7X-Ray, contacto en el tejado del edificio de 4 plantas.>|
+
+|<^1US PILOT: ^7X-Ray, RPG enemigo en el tejado.>|
+
+|<^1US PILOT: ^7Blanco eliminado.>|
+
+|<^1US PILOT: ^7Abatido.>|
+
+|<^1US PILOT: ^7Varios abatidos. Zona limpia.>|
+
+|<^1US PILOT: ^7X-Ray, edificio asegurado. Cambio.>|
+
+|<^1US PILOT: ^7Tenemos múltiples bajas confirmadas. Zona asegurada.>|
+
+|<^1US PILOT: ^7X-Ray, ya puede avanzar. Tiene ventaja.>|
+
+|<^1US PILOT: ^7X-Ray, tenemos el control del edificio. Prosiga.>|
+
+|<^1REZNOV: ^7¡Excelente!>|
+
+|<^1REZNOV: ^7¡Lluvia de fuego!>|
+
+|<^1REZNOV: ^7¡Presione, Mason!>|
+
+|<^1REZNOV: ^7¡Me alegro de volver a luchar a su lado! ¡Ura! ¡Ura!>|
+
+|<^1BOWMAN: ^7¡Blindado abatido! ¡Hay un puto tanque ahí fuera!>|
+
+|<^1BOWMAN: ^7¡Blindado abatido! ¡Hay un tanque ahí fuera!>|
+
+|<^1WOODS: ^7¡Mason! ¡Marque a ese cabrón enseguida!>|
+
+|<^1MASON: ^7Texas, necesito todo lo que tenga contra el tanque de delante.>|
+
+|<^1MASON: ^7Texas, tenemos un blindado enemigo en Victor Zulu 7 Foxtrot.>|
+
+|<^1REZNOV: ^7¡Mason! ¿A qué está esperando?>|
+
+|<^1BOWMAN: ^7¡El T-55 nos está masacrando! ¡Mason, envíe los pájaros!>|
+
+|<^1US PILOT: ^7Afirmativo, X-Ray. Texas en camino.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. Vamos a ametrallarlos.>|
+
+|<^1US PILOT: ^7Tanque destruido. X-Ray, ya puede proseguir.>|
+
+|<^1WOODS: ^7La zona de aterrizaje está cerca, al final de la calle.>|
+
+|<^1US PILOT: ^7Mierda... Maniobra evasiva... ¡X-Ray, nos acribillan!>|
+
+|<^1PILOTO EE. UU.: ^Mierda... Maniobra evasiva... ¡X-Ray, nos acribillan!>|
+
+|<^1US PILOT: ^7X-Ray, la zona está caliente. Debemos alejarnos. Acabe con ese antiaéreo y volveremos a apoyarlos. Cambio.>|
+
+|<^1MASON: ^7Entendido, Texas.>|
+
+|<^1WOODS: ^7¡Abra esa puerta! Tenemos artillería antiaérea en la zona.>|
+
+|<^1BOWMAN: ^7¡Lo veo! ZSU, segundo piso, final de la calle.>|
+
+|<^1WOODS: ^7Hay que encontrar otra ruta. Esa calle es intransitable.>|
+
+|<^1REZNOV: ^7¡Rodeemos ese edificio!>|
+
+|<^1WOODS: ^7Esto servirá. Ayúdeme con esto.>|
+
+|<^1WOODS: ^7¡Mason, ayúdeme con esto! Argh...>|
+
+|<^1WOODS: ^7¡Vamos!>|
+
+|<^1BOWMAN: ^7¡Un tanque!>|
+
+|<^1BOWMAN: ^7¡Fuera de la calle!>|
+
+|<^1MASON: ^7¡Joder!>|
+
+|<^1REZNOV: ^7¿Sigue entero, amigo?>|
+
+|<^1MASON: ^7Estoy bien.>|
+
+|<^1WOODS: ^7Mason, hay que acabar con el ZSU... Bowman, manténgalos a salvo.>|
+
+|<^1BOWMAN: ^7Entendido.>|
+
+|<^1WOODS: ^7Bloqueada. Por las escaleras.>|
+
+|<^1BOWMAN: ^7X-Ray, se aproximan Charlies. Dense prisa.>|
+
+|<^1WOODS: ^7¡Estamos en ello!>|
+
+|<^1WOODS: ^7¡Mason!>|
+
+|<^1WOODS: ^7¿Está bien, hermano?>|
+
+|<^1MASON: ^7Sigo respirando.>|
+
+|<^1MASON: ^7Nos vemos en el punto de encuentro.>|
+
+|<^1MASON: ^7Tenemos el ZSU justo encima.>|
+
+|<^1REZNOV: ^7Ponga una carga en el techo. Vuéleles el suelo donde se apoyan.>|
+
+|<^1BOWMAN: ^7Tengo a los Charlies encima, 1-0. ¿Falta mucho por ahí?>|
+
+|<^1MASON: ^7Unos 3 segundos.>|
+
+|<^1REZNOV: ^7¡Pónganse a cubierto!>|
+
+|<^1MASON: ^7¡Ya está! ¿Listo, Reznov?>|
+
+|<^1REZNOV: ^7¡Así se hace, Mason!>|
+
+|<^1US PILOT: ^7X-Ray, apoyo aéreo no operativo mientras evacuamos a los heridos.>|
+
+|<^1WOODS: ^7Recibido.>|
+
+|<^1WOODS: ^7Nuestro vehículo.>|
+
+|<^1MASON: ^7No estoy tan seguro...>|
+
+|<^1US PILOT: ^7Primero los heridos.>|
+
+|<^1US PILOT: ^7Hay más pájaros en camino. Esperen.>|
+
+|<^1BASE LOUSPEAKER: ^7¡Soldados americanos! Su agresión hacia la República popular de Vietnam no quedará sin castigo.>|
+
+|<^1WOODS: ^7Parece que hay que esperar. Prepárense todos. ¡Quiero la ZA asegurada!>|
+
+|<^1WOODS: ^7¡Mason, coloque cargas en el perímetro!>|
+
+|<^1BASE LOUSPEAKER: ^7En lugar de volver a su propio país, morirán en el nuestro.>|
+
+|<^1WOODS: ^7¡Aquí vienen!>|
+
+|<^1WOODS: ^7¡Ataquen con todo!>|
+
+|<^1WOODS: ^7¡En el tejado!>|
+
+|<^1WOODS: ^7¡Rechácenlos!>|
+
+|<^1WOODS: ^7¡Se están acercando!>|
+
+|<^1BOWMAN: ^7¡Están por todas partes!>|
+
+|<^1WOODS: ^7¡Cada vez vienen más!>|
+
+|<^1WOODS: ^7¡Desde el noreste!>|
+
+|<^1WOODS: ^7¡Al este!>|
+
+|<^1WOODS: ^7¡Desde el sudeste!>|
+
+|<^1WOODS: ^7¡Vienen desde el sur!>|
+
+|<^1WOODS: ^7¡Ojo al suroeste!>|
+
+|<^1WOODS: ^7¡Artillería!>|
+
+|<^1WOODS: ^7¡Mason, mate a los observadores!>|
+
+|<^1REZNOV: ^7¡Allí! ¡En el tejado!>|
+
+|<^1BOWMAN: ^7¡Mason, coja ese fusil con mira y elimine a los observadores!>|
+
+|<^1BOWMAN: ^7Están machacándonos, Mason. ¡Coja ese fusil!>|
+
+|<^1WOODS: ^7¡Mason, coja ese fusil con mira y elimine a los observadores!>|
+
+|<^1WOODS: ^7¡Debe eliminar a los observadores!>|
+
+|<^1WOODS: ^7¡Coja el fusil y elimine a los malditos observadores!>|
+
+|<^1WOODS: ^7Están machacándonos, Mason. ¡Coja ese fusil!>|
+
+|<^1BOWMAN: ^7¡Están retrocediendo!>|
+
+|<^1REZNOV: ^7No están retrocediendo. ¡Se están reagrupando!>|
+
+|<^1WOODS: ^7¡Mando! ¡X-Ray 1-0!>|
+
+|<^1WOODS: ^7Tenemos un incendio aquí abajo. ¿Dónde está nuestra evacuación?>|
+
+|<^1COMMAND: ^7El NVA está tomando la ciudad. Están derribando a nuestros pájaros del aire. ¡No son los únicos que intentan salir de ahí!>|
+
+|<^1WOODS: ^7Tenemos un paquete de prioridad uno. ¡Necesitamos esa evacuación!>|
+
+|<^1COMMAND: ^7Encontraremos otra cosa. Mantengan la posición.>|
+
+|<^1COMMAND: ^7X-Ray, estamos intentando conseguir un barco de la marina, pero va a tardar un tiempo. Mantenga la posición.>|
+
+|<^1WOODS: ^7¡Deprisa!>|
+
+|<^1COMMAND: ^7X-Ray, a sus 6. Una patrullera de la marina va en camino.>|
+
+|<^1WOODS: ^7¡Recibido! Justo a tiempo.>|
+
+|<^1COMMAND: ^7Dirija el apoyo para cubrir la llegada. Escuadrón Delta en posición.>|
+
+|<^1WOODS: ^7Entendido. Corto.>|
+
+|<^1WOODS: ^7¡Mason! ¡Señale el blanco!>|
+
+|<^1MASON: ^7Marcando coordenadas. Escuadrón Delta, elimínelos.>|
+
+|<^1US PILOT: ^7Bien, X-Ray. Vamos a disparar. Aparte a su gente.>|
+
+|<^1BOWMAN: ^7¡La patrullera!>|
+
+|<^1WOODS: ^7Cuidado. ¡Peligro inminente!>|
+
+|<^1WOODS: ^7¡A la embarcación!>|
+
+|<^1BOWMAN: ^7¡Venga, vamos, vamos!>|
+
+|<^1MASON: ^7¡Vamos! ¡A la embarcación!>|
+
+|<^1WOODS: ^7¡Suban!>|
+
+|<^1BOWMAN: ^7A la mierda su alto el fuego.>|
+
+|<^1REZNOV: ^7La osadía del enemigo podría deberse a su nuevo aliado...>|
+
+|<^1MASON: ^7Dragovich.>|
+
+|<^1US PILOT: ^7Recibido, X-Ray. Esperen a la pasada.>|
+
+|<^1US PILOT: ^7X-Ray, vamos a atacar.>|
+
+|<^1US PILOT: ^7X-Ray, nuestra patrullera está a 1 minuto de su posición. Resista.>|
+
+|<^1US PILOT: ^7X-Ray, evacuación en camino.>|
+
+|<^1US PILOT: ^7Llegada en 2 minutos.>|
+
+|<^1US PILOT: ^7Llegada en 1 minuto.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+

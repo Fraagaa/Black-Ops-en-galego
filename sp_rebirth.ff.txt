@@ -1,0 +1,785 @@
+|<rus_cadaver_lod0>|
+
+|<^LTransmisión núm. 8-5-19-1-25-19. Designación: ECHO^L>|
+
+|<^LCreemos que ^L^C1Mason^C^L se dirige al centro de armas biológicas ruso^L>|
+
+|<^Lde Vozrozhdeniya ^L^C1Isla "Renacimiento", URSS^C>|
+
+|<^LHudson y equipo 2 insertados para asalto y extracción de Steiner^L>|
+
+|<^L22:30, ^L^C123 de febrero de 1968^C>|
+
+|<^LTransmisión núm. 8-5-19-1-25-19. Designación: ALFA^L>|
+
+|<^LCreemos que Mason se dirige al centro de armas biológicas ruso^L>|
+
+|<^Lde Vozrozhdeniya ^L^C1Isla Renacimiento, URSS^C>|
+
+|<^C1Hudson^C^L y Weaver han sido insertados para atacar y extraer a Steiner^L>|
+
+|<^L22:00, ^L^C123 de febrero de 1968^C>|
+
+|<Infíltrate en el laboratorio soviético y haz frente al Dr. Steiner>|
+
+|<Infíltrate en el laboratorio soviético y captura al Dr. Steiner>|
+
+|<Derriba los helicópteros enemigos (quedan 2 de 2)>|
+
+|<Derriba los helicópteros enemigos (queda 1 de 2)>|
+
+|<Escapa de la isla>|
+
+|<Sigue>|
+
+|<20 MINUTOS ANTES>|
+
+|<Agentes Hudson y Weaver>|
+
+|<Al sur de la isla>|
+
+|<Mantén ^3[{+attack}]^7 para disparar la ametralladora.>|
+
+|<Mantén ^3[{+smoke}]^7 o ^3[{+frag}]^7 para disparar el lanzagranadas.>|
+
+|<Mantén ^3[{+speed_throw}]^7 para hacer zoom.>|
+
+|<Mantén ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<Pulsa ^3[{+melee}]^7 para cuerpo a cuerpo.>|
+
+|<Pulsa ^3[{+frag}]^7 para lanzar un tomahawk.>|
+
+|<Mantén ^3[{+activate}]^7 para recuperar el tomahawk.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 y ^3[{+attack}]^7 para romper la ventana.>|
+
+|<Pulsa>|
+
+|<^3[{+speed_throw}]^7>|
+
+|<y>|
+
+|<^3[{+attack}]^7>|
+
+|<para romper la ventana>|
+
+|<Pulsa ^3[{+melee}]^7 para placar a Mason.>|
+
+|<Tu traje NRBQ ha sido perforado.
+¡Has sido expuesto al Nova 6!>|
+
+|<¡Has sido expuesto al Nova 6!>|
+
+|<Te han detectado.>|
+
+|<^1MASON: ^7Llegué con Reznov a Isla Renacimiento. Por fin. Steiner era nuestro.>|
+
+|<^1MASON: ^7Juro por Dios que Steiner murió así. ¡Reznov lo mató ante mí!>|
+
+|<^1INTERROGADOR: ^7Miente, Mason. Usted mató a Steiner. Sabemos que lo hizo.>|
+
+|<^1MASON: ^7Reznov obtuvo lo que buscaba. Venganza.>|
+
+|<^1INTERROGADOR: ^7Jason Hudson presentó un informe, Mason. Viktor Reznov no mató a Friedrich Steiner. Hudson vio lo que ocurrió.>|
+
+|<^1INTERROGATOR: ^7Jason Hudson presentó un informe, Mason. Viktor Reznov no mató a Friedrich Steiner. Hudson vio lo que ocurrió.>|
+
+|<^1REZNOV: ^7Hemos llegado.>|
+
+|<^1MASON: ^7¡Reznov!>|
+
+|<^1REZNOV: ^7Isla Renacimiento... Origen del veneno de Dragovich.>|
+
+|<^1REZNOV: ^7Están preparando una entrega del Nova 6.>|
+
+|<^1MASON: ^7No en mi guardia.>|
+
+|<^1REZNOV: ^7Mátelo, Mason.>|
+
+|<^1REZNOV: ^7Coja el hacha.>|
+
+|<^1REZNOV: ^7Estamos en inferioridad, Mason.>|
+
+|<^1REZNOV: ^7No debemos llamar la atención.>|
+
+|<^1REZNOV: ^7Vaya por las sombras. Evite el foco del helicóptero.>|
+
+|<^1REZNOV: ^7Espere a que pase.>|
+
+|<^1REZNOV: ^7¡Está muy cerca del foco!>|
+
+|<^1REZNOV: ^7¡Mason, lo están viendo!>|
+
+|<^1REZNOV: ^7¡Que no lo vean!>|
+
+|<^1REZNOV: ^7¡Lo han visto!>|
+
+|<^1REZNOV: ^7Vamos. Deprisa.>|
+
+|<^1REZNOV: ^7¡Mason, quédese conmigo!>|
+
+|<^1REZNOV: ^7¡Mason, lo van a ver! ¡No se aleje!>|
+
+|<^1REZNOV: ^7¿Adónde va? ¡Siga el plan de la misión!>|
+
+|<^1REZNOV: ^7¡No podemos permitir que nos vean! ¡Agáchese!>|
+
+|<^1REZNOV: ^7Están empezando a evacuar las instalaciones...>|
+
+|<^1MASON: ^7Saben que estamos aquí...>|
+
+|<^1REZNOV: ^7Mason... Siléncielo.>|
+
+|<^1REZNOV: ^7¡Mason!>|
+
+|<^1REZNOV: ^7Bien, amigo. Sígame.>|
+
+|<^1REZNOV: ^7El helicóptero está dando la vuelta.>|
+
+|<^1REZNOV: ^7Debemos encontrar otro escondite.>|
+
+|<^1REZNOV: ^7Aléjese de la luz.>|
+
+|<^1REZNOV: ^7Espere... No se mueva de ahí.>|
+
+|<^1REZNOV: ^7No nos ha visto.>|
+
+|<^1REZNOV: ^7Subamos por las escaleras.>|
+
+|<^1REZNOV: ^7Bien... Muy bien.>|
+
+|<^1REZNOV: ^7Podemos acceder al laboratorio de Steiner desde el tejado...>|
+
+|<^1REZNOV: ^7Nos estamos acercando, Mason.>|
+
+|<^1REZNOV: ^7Han pasado a alerta máxima.>|
+
+|<^1MASON: ^7Es la CIA... Quieren a Steiner vivo.>|
+
+|<^1REZNOV: ^7Debemos llegar hasta él antes.>|
+
+|<^1HUDSON: ^7Mason, soy Hudson. Sabemos que está en Isla Renacimiento. Responda, Mason.>|
+
+|<^1REZNOV: ^7Aproveche ese blanco, Mason. Apunte bien.>|
+
+|<^1REZNOV: ^7Sígame. Usaremos el hueco del ascensor.>|
+
+|<^1REZNOV: ^7Por aquí...>|
+
+|<^1REZNOV: ^7¡Dispare! Ahora...>|
+
+|<^1REZNOV: ^7Hay que abrir esta puerta.>|
+
+|<^1MASON: ^7Yo me ocupo.>|
+
+|<^1REZNOV: ^7Cuidado, amigo...>|
+
+|<^1REZNOV: ^7Acabemos con esto...>|
+
+|<^1STEINER: ^7Los hombres de Dragovich están reuniendo a todo el personal...>|
+
+|<^1STEINER: ^7¡Están ejecutando a todos los que ya no son necesarios!>|
+
+|<^1STEINER: ^7¡Deben apresurarse antes de que me maten!>|
+
+|<^1MASON: ^7Friedrich Steiner. Se acabó.>|
+
+|<^1STEINER: ^7¿Usted...?>|
+
+|<^1STEINER: ^7¡Aaagh!>|
+
+|<^1STEINER: ^7¡Arrggh!>|
+
+|<^1STEINER: ^7Lo conozco... ¡Vorkuta!>|
+
+|<^1STEINER: ^7Usted no sabe...>|
+
+|<^1STEINER: ^7Lo que le hicimos...>|
+
+|<^1HUDSON: ^7¡Mason, hábleme!>|
+
+|<^1HUDSON: ^7¡Soy Hudson! ¡Mason, hábleme!>|
+
+|<^1REZNOV: ^7Su maldad ha destruido a muchos hombres buenos...>|
+
+|<^1REZNOV: ^7Eso se acabó.>|
+
+|<^1STEINER: ^7¡Matarme no detendrá el Nova!>|
+
+|<^1REZNOV: ^7Me da igual el Nova.>|
+
+|<^1REZNOV: ^7Me llamo Viktor Reznov.>|
+
+|<^1STEINER: ^7No...>|
+
+|<^1REZNOV: ^7Y voy a vengarme.>|
+
+|<^1HUDSON: ^7¡Weaver!>|
+
+|<^1WEAVER: ^7Adelante, Hudson.>|
+
+|<^1HUDSON: ^7Mason sigue oculto. Hay que abrirse paso hasta el centro de investigación. ¡Cúbranos!>|
+
+|<^1HUDSON: ^7Mason sigue oculto. Iremos al centro de investigación y sacaremos a Steiner. Tengan cuidado.>|
+
+|<^1WEAVER: ^7¡Pelotón Yankee, en marcha!>|
+
+|<^1HUDSON: ^7Pelotón Alpha, nos vamos.>|
+
+|<^1US SOLDIER: ^7Recibido. En marcha.>|
+
+|<^1WEAVER: ^7Ya han empezado a evacuar.>|
+
+|<^1HUDSON: ^7No es una evacuación... Es una masacre.>|
+
+|<^1HUDSON: ^7Se aseguran de que no quede nadie vivo para hablar.>|
+
+|<^1HUDSON: ^7No es una evacuación... Steiner tenía razón. Se aseguran de que no quede nadie vivo para hablar.>|
+
+|<^1HUDSON: ^7Hay que encontrar a Steiner antes de que sea tarde.>|
+
+|<^1WEAVER: ^7¡Derecha! Eso lleva al biolaboratorio.>|
+
+|<^1WEAVER: ^7Vehículo enemigo a las 12.>|
+
+|<^1WEAVER: ^7Ese es el camino a los laboratorios. El pelotón Yankee flanqueará por el oeste y se reunirán allí.>|
+
+|<^1HUDSON: ^7Entendido. ¡Pelotón Alpha, vamos!>|
+
+|<^1US SOLDIER: ^7En camino.>|
+
+|<^1US SOLDIER: ^7Blancos enemigos en el balcón.>|
+
+|<^1WEAVER: ^7¡Molotov! ¡En el tejado!>|
+
+|<^1HUDSON: ^7¡Mason! ¡Acabe con los Molotov!>|
+
+|<^1HUDSON: ^7¡RPG!>|
+
+|<^1HUDSON: ^7¡Acabe con los putos RPG!>|
+
+|<^1WEAVER: ^7¡A la izquierda!>|
+
+|<^1WEAVER: ^7¡A la derecha!>|
+
+|<^1US SOLDIER: ^7Contactos en la carretera.>|
+
+|<^1US SOLDIER: ^7Hudson, nos informan de que vienen Mi-8 hacia aquí.>|
+
+|<^1HUDSON: ^7Entendido. Nos ocuparemos.>|
+
+|<^1US SOLDIER: ^7¡Mi-8 al frente!>|
+
+|<^1US MARINE: ^7¡A cubierto!>|
+
+|<^1US SOLDIER: ^7¡Va a disparar! ¡Deprisa!>|
+
+|<^1US SOLDIER: ^7¡Nos atacan!>|
+
+|<^1US MARINE: ^7¡Nova 6! ¡Los trajes NRBQ!>|
+
+|<^1US MARINE: ^7¡Mierda! ¡Ayuda! ¡Aaaargh!>|
+
+|<^1MARINE EE. UU.: ^7¡Mierda! ¡Ayuda! ¡Aaaargh!>|
+
+|<^1HUDSON: ^7¡Pelotón Alpha, vamos a avanzar! ¡Protejan sus trajes NRBQ!>|
+
+|<^1HUDSON: ^7Si el traje se rompe, ¡morirán en unos minutos!>|
+
+|<^1US MARINE: ^7¡Ya lo han oído! ¡Cuidado con los trajes! ¡Vamos!>|
+
+|<^1US MARINE: ^7¡Spetsnaz!>|
+
+|<^1US MARINE: ^7Los vemos.>|
+
+|<^1US MARINE: ^7¡A sus 6!>|
+
+|<^1US MARINE: ^7Yo me ocupo.>|
+
+|<^1US MARINE: ^7¡Nos está friendo! ¡Fuera de la calle!>|
+
+|<^1WEAVER: ^7El pelotón Yankee ha despejado el perímetro oeste. Vamos al norte.>|
+
+|<^1US MARINE: ^7¡Sigan hacia el oeste! ¡Por ese callejón!>|
+
+|<^1HUDSON: ^7Avanzamos por el flanco. ¡Sigan hacia el norte!>|
+
+|<^1WEAVER: ^7Entendido. Los helicópteros nos están machacando.>|
+
+|<^1HUDSON: ^7Resistan. Estamos a medio kilómetro al sur del laboratorio.>|
+
+|<^1WEAVER: ^7Pelotón Alpha, el enemigo nos está acribillando. Solicitamos apoyo. Cambio.>|
+
+|<^1HUDSON: ^7Ya llegamos, Weaver. ¡Resistan!>|
+
+|<^1WEAVER: ^7¡Pelotón Yankee, salga del BTR! Nos van a...>|
+
+|<^1WEAVER: ^7Estamos vivos, Hudson. Pero nos tienen inmovilizados. Están en nuestro flanco este.>|
+
+|<^1HUDSON: ^7Entendido.>|
+
+|<^1WEAVER: ^7¡Hudson! No podemos movernos hasta que nos carguemos los helicópteros.>|
+
+|<^1HUDSON: ^7Sí, yo me ocupo.>|
+
+|<^1WEAVER: ^7¡Use el Strela contra los helicópteros!>|
+
+|<^1WEAVER: ^7¡Hudson, tiene que derribar los helicópteros!>|
+
+|<^1HUDSON: ^7Necesito fijar el blanco para disparar.>|
+
+|<^1HUDSON: ^7Hay que fijar el blanco.>|
+
+|<^1WEAVER: ^7¡Ahí tienes, hijo de puta! ¡Otro más, Hudson!>|
+
+|<^1WEAVER: ^7Ya casi hemos llegado a los laboratorios.>|
+
+|<^1WEAVER: ^7Ese es el biolaboratorio. Parece que nos esperan.>|
+
+|<^1HUDSON: ^7En marcha. Agáchense.>|
+
+|<^1WEAVER: ^7¡Fuego a discreción!>|
+
+|<^1WEAVER: ^7Hudson, flanco izquierdo conmigo. ¡Cobertura!>|
+
+|<^1WEAVER: ^7Aquí. Aquí es donde estará Steiner.>|
+
+|<^1WEAVER: ^7El biolaboratorio está debajo.>|
+
+|<^1WEAVER: ^7Hudson, ¿adónde van?>|
+
+|<^1WEAVER: ^7No nos han visto.>|
+
+|<^1WEAVER: ^7Hay que pasar por descontaminación.>|
+
+|<^1WEAVER: ^7Busquemos a Steiner.>|
+
+|<^1HUDSON: ^7Mason, aquí Hudson. ¿Está ahí?>|
+
+|<^1HUDSON: ^7Es Mason...>|
+
+|<^1WEAVER: ^7¿Qué coño está haciendo?>|
+
+|<^1HUDSON: ^7Matar a todos para llegar hasta Steiner.>|
+
+|<^1WEAVER: ^7¿Qué coño era eso?>|
+
+|<^1HUDSON: ^7Es Steiner. Intenta ponerse en contacto. Steiner, ¿qué ocurre?>|
+
+|<^1HUDSON: ^7Steiner! What's the situation?>|
+
+|<^1HUDSON: ^7¡Mason!>|
+
+|<^1WEAVER: ^7¡Tenemos que detenerlo!>|
+
+|<^1HUDSON: ^7¡Maldición! ¡Es antibalas! ¡Mason! ¿Qué hace? ¡Lo necesitamos vivo! Quieto. ¡Quieto, Mason!>|
+
+|<^1WEAVER: ^7¡Aaargh! ¡Ayuda!>|
+
+|<^1MASON: ^7Me llamo Viktor Reznov. ¡Y me vengaré!>|
+
+|<^1HUDSON: ^7Mason. ¡No!>|
+
+|<^1WEAVER: ^7Estoy bien. ¿Y Steiner?>|
+
+|<^1US MARINE: ^7Muerto.>|
+
+|<^1WEAVER: ^7¿Qué hay de Reznov, el desertor? Tenemos que encontrarlo.>|
+
+|<^1HUDSON: ^7Nada. Nunca estuvo aquí.>|
+
+|<^1HUDSON: ^7No me lo creía hasta que lo vi con mis propios ojos...>|
+
+|<^1HUDSON: ^7¿Qué le hicieron en Vorkuta, Mason?>|
+
+|<^1WEAVER: ^7Con Steiner muerto, Mason es la única conexión con los números transmitidos.>|
+
+|<^1HUDSON: ^7Tenemos que llevárnoslo...>|
+
+|<^1WEAVER: ^7Vamos.>|
+
+|<^1WEAVER: ^7Por aquí. Nos llevará al muelle. Aquí Weaver. Tenemos el paquete... Estamos en camino.>|
+
+|<^1US PILOT: ^7Recibido. Estamos tomando los muelles.>|
+
+|<^1US PILOT: ^7Todo despejado.>|
+
+|<^1WEAVER: ^7En marcha. Vámonos.>|
+
+|<^1WEAVER: ^7Vigílelo...>|
+
+|<^1HUDSON: ^7¿Qué demonios le hicieron, Mason?>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<€@>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿè¸¸>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<I³€>|
+
+|<o€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿá#	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ©´	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<á#	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ©´	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<©´	€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<í(€•C€V€>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<+ÿÿÿÿÿÿÿÿ>|
+
+|<-ÿÿÿÿÿÿÿÿ>|
+
+|<!ÿÿÿÿÿÿÿÿ>|
+
+|<%ÿÿÿÿÿÿÿÿ>|
+
+|<'>|
+
+|<>|
+
+|<)>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_rus_autopsy_cadaver_body_skin>|
+
+|<yx€>|
+
+|<õ"€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿùË€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}Q€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ùË€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ}Q€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<}Q€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<!¯€-È€ñØ€>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<(ÿÿÿÿÿÿÿÿ>|
+
+|<*ÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿ>|
+
+|<"ÿÿÿÿÿÿÿÿ>|
+
+|<%>|
+
+|<>|
+
+|<'>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_rus_autopsy_cadaver_body_cloth>|
+
+|<åo€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‰š€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÔ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<‰š€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÔ€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<Ô€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ>|
+
+|<ÿÿÿÿ>|
+
+|<mc/mtl_gen_eye_cornea>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_gen_eye_iris_darkbrown>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿY>|
+
+|<ÿÿÿÿÿÿÿÿY>|
+
+|<mc/mtl_rus_autopsy_cadaver_head>|
+

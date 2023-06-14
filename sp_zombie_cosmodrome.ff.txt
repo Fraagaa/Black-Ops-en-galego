@@ -1,0 +1,62 @@
+|<¡La trampa centrífuga precisa energía!>|
+
+|<¡La trampa cohete precisa energía!>|
+
+|<Mantén ^3[{+activate}]^7 para poner el cohete en posición.>|
+
+|<El cohete está en marcha.>|
+
+|<El cohete se está utilizando.>|
+
+|<El cohete se está recuperando.>|
+
+|<Mantén ^3[{+activate}]^7 para que el módulo lunar acuda a tu posición.>|
+
+|<No hay destinos del módulo lunar disponibles.>|
+
+|<Mantén ^3[{+activate}]^7 para activar la estación del módulo lunar.>|
+
+|<Todos los jugadores deben estar a bordo del módulo.>|
+
+|<Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 250).>|
+
+|<El módulo lunar se está utilizando.>|
+
+|<Mantén ^3[{+activate}]^7 para ir a Tierra de nadie (coste: GRATIS).>|
+
+|<Esperando &&1 conexiones...>|
+
+|<Esperando &&1 conexión...>|
+
+|<Faltan 3 jugadores en la plataforma.>|
+
+|<Faltan 2 jugadores en la plataforma.>|
+
+|<Falta 1 jugador en la plataforma.>|
+
+|<Se necesita autorización para el lanzamiento.>|
+
+|<Mantén ^3[{+activate}]^7 para activar la secuencia de lanzamiento.>|
+
+|<El módulo lunar se está enfriando.>|
+
+|<Se ha llamado al módulo lunar.>|
+
+|<El módulo lunar está repostando.>|
+
+|<El módulo lunar ya está en esta base.>|
+
+|<Primero hay que abrir la puerta.>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+

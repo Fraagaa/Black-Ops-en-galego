@@ -1,0 +1,787 @@
+|<^LTransmisión núm. 9-19. Designación: ROMEO^L>|
+
+|<^LSospechamos que está retenido en el campo de trabajo de ^L ^C1Vorkuta^C ^L, en la^L ^C1URSS^C>|
+
+|<^LPero el paradero exacto de^L ^C1Mason^C ^Lse desconoce^L>|
+
+|<^L06:00,^L ^C16 de octubre de 1963^C>|
+
+|<Escapa de Vorkuta>|
+
+|<Paso 1: hazte con las llaves>|
+
+|<Paso 2: asciende de la oscuridad>|
+
+|<Paso 3: lluvia de fuego>|
+
+|<Paso 4: libera la horda>|
+
+|<Consigue una escopeta>|
+
+|<Dispara a la cerradura>|
+
+|<Paso 5: ensarta a la bestia alada>|
+
+|<Ve al arsenal>|
+
+|<Desactiva la puerta de seguridad>|
+
+|<Paso 6: con puño de hierro>|
+
+|<Protege a Reznov>|
+
+|<Consigue el cañón automático>|
+
+|<Paso 7: libera el infierno>|
+
+|<Paso 8: libertad>|
+
+|<Salta al camión>|
+
+|<Blanco>|
+
+|<Sigue>|
+
+|<Protege>|
+
+|<Prisionero &&1>|
+
+|<^3[{+attack}]^7 para dar un puñetazo>|
+
+|<^3[{+melee}]^7 para aplastar>|
+
+|<Pulsa ^3[{+melee}]^7 para usar el cuchillo.>|
+
+|<Mueve hacia atrás  para preparar la honda y suelta para disparar.>|
+
+|<Mantén ^3[{+activate}]^7 para abrir la puerta.>|
+
+|<Pulsa ^3[{+gostand}]^7 para saltar.>|
+
+|<Pulsa ^3[{+actionslot 3}]^7 para usar el lanzagranadas GP25.>|
+
+|<Pulsa ^3[{+attack}]^7 para acelerar.>|
+
+|<Pulsa ^3[{+speed_throw}]^7 para disparar.>|
+
+|< para dirigir.
+>|
+
+|<No has logrado seguir el plan de huida.>|
+
+|<No has logrado escapar.>|
+
+|<¡El camión ha escapado!>|
+
+|<Vas demasiado lento para escapar, ¡date prisa!>|
+
+|<No has logrado seguir a Reznov.>|
+
+|<¡Sigue a Reznov o te atraparán!>|
+
+|<¡Por ahí no! ¡Cíñete al plan y sigue a Reznov!>|
+
+|<¡Te equivocas de camino, sigue a Reznov!>|
+
+|<Usa el vagón de carbón como protección.>|
+
+|<Quédate tras el vagón de carbón.>|
+
+|<^1INTERROGATOR: ^7Viktor Reznov.>|
+
+|<^1MASON: ^7Amigo mío.>|
+
+|<^1MASON: ^7No podía respirar por el gas lacrimógeno.>|
+
+|<^1INTERROGADOR: ^7¿Viktor Reznov seguía con usted?>|
+
+|<^1MASON: ^7Nunca me dejó.>|
+
+|<^1INTERROGATOR: ^7¿Y fue la última vez que vio a Viktor Reznov?>|
+
+|<^1MASON: ^7Sí. Durante un tiempo...>|
+
+|<^1REZNOV: ^7Demos un buen espectáculo.>|
+
+|<^1REZNOV: ^7¡Aaaargh!>|
+
+|<^1REZNOV: ^7Ya caerá, americano.>|
+
+|<^1MASON: ^7¡Joder! ¿Me tenía que dar tan fuerte?>|
+
+|<^1REZNOV: ^7¡Eh, Svoloch!>|
+
+|<^1MASON: ^7Reznov...>|
+
+|<^1REZNOV: ^7¡Mason...!>|
+
+|<^1REZNOV: ^7Todos los viajes empiezan con un primer paso...>|
+
+|<^1REZNOV: ^7¡Este... es el paso uno!>|
+
+|<^1CROWD: ^7¡Hacerse con las llaves!>|
+
+|<^1REZNOV: ^7Cada hombre sabe lo que se espera de él... ¡Todos deben cumplir su parte!>|
+
+|<^1REZNOV: ^7¡Vamos a tomar Vorkuta!>|
+
+|<^1REZNOV: ^7¿Cuál es el paso dos?>|
+
+|<^1CROWD: ^7¡Ascender de la oscuridad!>|
+
+|<^1REZNOV: ^7¿Tres?>|
+
+|<^1CROWD: ^7¡Lluvia de fuego!>|
+
+|<^1REZNOV: ^7¿Cuatro?>|
+
+|<^1CROWD: ^7¡Liberar la horda!>|
+
+|<^1REZNOV: ^7¿Cinco?>|
+
+|<^1CROWD: ^7¡Ensartar a la bestia alada!>|
+
+|<^1REZNOV: ^7¿Seis?>|
+
+|<^1CROWD: ^7¡Con puño de hierro!>|
+
+|<^1REZNOV: ^7¿Siete?>|
+
+|<^1CROWD: ^7¡Armar la gorda!>|
+
+|<^1REZNOV: ^7¡Sergei!>|
+
+|<^1REZNOV: ^7Permítame presentarle a Sergei Kozin, el monstruo de Magadan.>|
+
+|<^1MASON: ^7Me alegro de ser su amigo, Sergei.>|
+
+|<^1REZNOV: ^7Sergei se burló de Dragovich ante quien no debía...>|
+
+|<^1REZNOV: ^7Por su insolencia, Dragovich le cortó la lengua con una hoz oxidada...>|
+
+|<^1RUSSIAN PRISONER: ^7¡Hágalo, Reznov!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Vamos! ¡Deprisa!>|
+
+|<^1REZNOV: ^7Paciencia. ¡Paciencia, camaradas! Todo va según Mason y yo habíamos planeado.>|
+
+|<^1REZNOV: ^7¿Paso dos?>|
+
+|<^1RUSSIAN PRISONER: ^7Reznov, ¿seguro que este americano es de fiar?>|
+
+|<^1REZNOV: ^7Completamente.>|
+
+|<^1REZNOV: ^7No somos tan distintos... Fíense de Mason como se fiarían de mí.>|
+
+|<^1REZNOV: ^7Traicionados. Olvidados. Abandonados.>|
+
+|<^1REZNOV: ^7En Vorkuta, TODOS somos hermanos... Mason y yo somos iguales.>|
+
+|<^1REZNOV: ^7Mason, coja el arma.>|
+
+|<^1REZNOV: ^7Mason. ¡Venga!>|
+
+|<^1MASON: ^7Sus hombres deben de saber que esto es un suicidio.>|
+
+|<^1REZNOV: ^7La victoria no puede lograrse sin sacrificios, Mason...>|
+
+|<^1REZNOV: ^7Los rusos lo sabemos mejor que nadie.>|
+
+|<^1REZNOV: ^7¡Prepárense!>|
+
+|<^1REZNOV: ^7Atrás, Mason... ¡Espere a que el balcón esté despejado!>|
+
+|<^1RUSSIAN PRISONER: ^7¡La torre nos va a hacer pedazos!>|
+
+|<^1REZNOV: ^7¡Tenga fe, camarada!>|
+
+|<^1REZNOV: ^7¡Mason, por aquí!>|
+
+|<^1REZNOV: ^7¡Cúbrase con la vagoneta!>|
+
+|<^1REZNOV: ^7Sergei... ¡Empuje!>|
+
+|<^1REZNOV: ^7¡Quédese con la vagoneta!>|
+
+|<^1REZNOV: ^7¡Los guardias están confusos!>|
+
+|<^1REZNOV: ^7¡Nunca se han enfrentado a un motín así!>|
+
+|<^1REZNOV: ^7¡Elimínelos, Mason!>|
+
+|<^1REZNOV: ^7¡Mate a los guardias!>|
+
+|<^1REZNOV: ^7¡Mate a los guardias de la izquierda!>|
+
+|<^1REZNOV: ^7Guardias a la derecha. ¡Mátelos!>|
+
+|<^1REZNOV: ^7¡Más guardias! ¡Denos cobertura, Mason!>|
+
+|<^1REZNOV: ^7¡A la izquierda!>|
+
+|<^1REZNOV: ^7¡Derecha!>|
+
+|<^1REZNOV: ^7¿Paso tres?>|
+
+|<^1MASON: ^7¡Lluvia de fuego!>|
+
+|<^1REZNOV: ^7El ingenio de Mason convierte la chatarra en armas...>|
+
+|<^1REZNOV: ^7¡Ura! Nunca pierdan la fe, amigos... ¡Nunca!>|
+
+|<^1REZNOV: ^7¡Vamos!>|
+
+|<^1REZNOV: ^7¡Mason, cúbrase!>|
+
+|<^1REZNOV: ^7¡Adelante!>|
+
+|<^1REZNOV: ^7¡Flanco izquierdo!>|
+
+|<^1REZNOV: ^7¡Flanco derecho!>|
+
+|<^1REZNOV: ^7¡Allí! ¡La enfermería!>|
+
+|<^1REZNOV: ^7¡En la planta procesadora!>|
+
+|<^1REZNOV: ^7¡Todos los camaradas apoyarán nuestra causa en Vorkuta!>|
+
+|<^1REZNOV: ^7¡Sí! ¡Sí, amigos!>|
+
+|<^1REZNOV: ^7Meses de planificación, Mason.>|
+
+|<^1REZNOV: ^7No nos detendremos.>|
+
+|<^1REZNOV: ^7No desfalleceremos.>|
+
+|<^1REZNOV: ^7Seremos libres... ¡o moriremos!>|
+
+|<^1REZNOV: ^7¡Por aquí!>|
+
+|<^1REZNOV: ^7¡Sergei, rompa los armarios de las armas!>|
+
+|<^1REZNOV: ^7¡Mason, suba a la torre y apoye el levantamiento del sur!>|
+
+|<^1MASON: ^7¿Y usted, Reznov?>|
+
+|<^1REZNOV: ^7Para que el plan funcione, todos debemos cumplir nuestro papel.>|
+
+|<^1MASON: ^7Paso cuatro... Liberar la horda.>|
+
+|<^1REZNOV: ^7¡Reuniré a los hombres!>|
+
+|<^1MASON: ^7Tenga cuidado, Reznov.>|
+
+|<^1REZNOV: ^7Valientes camaradas de Vorkuta, ¡ha llegado la hora de rebelarnos contra nuestros opresores!>|
+
+|<^1REZNOV: ^7¡Hoy podrán ver el corazón de los auténticos rusos!>|
+
+|<^1REZNOV: ^7Todos hemos derramado sangre por la Madre Patria.>|
+
+|<^1REZNOV: ^7Hemos respondido a sus llamadas sin cuestionarlas.>|
+
+|<^1REZNOV: ^7Hemos dado nuestra juventud, incluso nuestras almas, para protegerla...>|
+
+|<^1REZNOV: ^7Como hermanos, hemos luchado unidos contra los fascistas alemanes.>|
+
+|<^1REZNOV: ^7Nos hemos arrastrado entre tierra y sangre para conseguir una gloriosa victoria...>|
+
+|<^1REZNOV: ^7No por medallas ni por gloria, sino por lo correcto.>|
+
+|<^1REZNOV: ^7Luchamos para vengarnos...>|
+
+|<^1REZNOV: ^7Y, cuando Berlín cayó, ¿cómo nos pagaron nuestros líderes?>|
+
+|<^1REZNOV: ^7No nos encontramos con una gran bienvenida... sino con sospechas y persecución.>|
+
+|<^1REZNOV: ^7Para nuestros líderes, habíamos quedado ensuciados por el capitalismo occidental.>|
+
+|<^1REZNOV: ^7Alejados de nuestros seres queridos, nos encontramos aquí...>|
+
+|<^1REZNOV: ^7En este lugar... En este terrible lugar...>|
+
+|<^1REZNOV: ^7Aquí hemos languidecido sin esperanza de liberación... Sin esperanza de justicia.>|
+
+|<^1REZNOV: ^7Hemos trabajado en las minas de Dragovich hasta despellejarnos las manos...>|
+
+|<^1REZNOV: ^7Hemos visto a nuestros camaradas sucumbir a las enfermedades...>|
+
+|<^1REZNOV: ^7Hemos sufrido hambre, palizas... ¡Pero no cederemos ante ellos!>|
+
+|<^1REZNOV: ^7Hoy enviaremos un mensaje a nuestros arrogantes y corruptos líderes.>|
+
+|<^1REZNOV: ^7No volverán a vivir en una comodidad basada en el trabajo del pueblo.>|
+
+|<^1REZNOV: ^7Ya no volverán a aplastar a la buena gente.>|
+
+|<^1REZNOV: ^7Ellos también caerán...>|
+
+|<^1REZNOV: ^7No podrán olvidarnos.>|
+
+|<^1REZNOV: ^7Hoy, camaradas...>|
+
+|<^1REZNOV: ^7Vorkuta... ¡ARDERÁ!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Preparen la honda!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Mason, vamos!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Sufrimos bajas! ¡Corra!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Mason, deprisa! ¡No podrán aguantar mucho más!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Deprisa, Mason! ¡Lo necesitan!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Tiene que tirar más hacia atrás!>|
+
+|<^1RUSSIAN PRISONER: ^7¡No disparará a no ser que tire!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Tire hacia atrás!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Dispare!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Recargue!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Al sur!>|
+
+|<^1MASON: ^7¡Le he dado!>|
+
+|<^1RUSSIAN PRISONER: ^7¡En la central eléctrica!>|
+
+|<^1MASON: ^7¡Es mío!>|
+
+|<^1RUSSIAN PRISONER: ^7¡En la torre de guardia!>|
+
+|<^1MASON: ^7¡Ya lo veo!>|
+
+|<^1RUSSIAN PRISONER: ^7¡En los barracones, enfrente!>|
+
+|<^1MASON: ^7Ya no.>|
+
+|<^1RUSSIAN PRISONER: ^7¡Veo uno! ¡En los silos!>|
+
+|<^1MASON: ^7¡Voy!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Ahí hay otro! ¡En la ventana oeste!>|
+
+|<^1MASON: ^7Fuego.>|
+
+|<^1RUSSIAN PRISONER: ^7¡La fábrica! ¡Allí, en el tejado!>|
+
+|<^1MASON: ^7¡Lo tengo!>|
+
+|<^1RUSSIAN PRISONER: ^7Al otro extremo. ¡La torre de guardia!>|
+
+|<^1MASON: ^7Liquidado.>|
+
+|<^1RUSSIAN PRISONER: ^7¡A la izquierda!>|
+
+|<^1RUSSIAN PRISONER: ^7¡A la derecha!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Justo delante!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Hombres atrapados!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Ábrales un camino!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Buen tiro, Mason!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Le ha dado, Mason!>|
+
+|<^1RUSSIAN PRISONER: ^7Está muerto, pero podría haber más.>|
+
+|<^1RUSSIAN PRISONER: ^7¡Excelente disparo, amigo!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Bien hecho, Mason!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Sí! ¡Otro menos!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Eliminado!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Ja, ja! ¡Impresionante!>|
+
+|<^1REZNOV: ^7¡A las armas, camaradas!>|
+
+|<^1REZNOV: ^7Pronto llegarán refuerzos para defender el arsenal principal...>|
+
+|<^1MASON: ^7Justo como planeamos.>|
+
+|<^1RUSSIAN PRISONER: ^7¿Cómo logramos el paso cinco?>|
+
+|<^1REZNOV: ^7El arma de Mason pronto estará lista...>|
+
+|<^1REZNOV: ^7¡Vuele la cerradura, Mason!>|
+
+|<^1REZNOV: ^7¡Adelante! ¡Reduciremos este agujero infernal a cenizas!>|
+
+|<^1REZNOV: ^7¡Sin piedad!>|
+
+|<^1REZNOV: ^7¡Saboreen la venganza, camaradas!>|
+
+|<^1REZNOV: ^7¡Pinten los muros con su sangre!>|
+
+|<^1REZNOV: ^7¡Entierren a estos animales!>|
+
+|<^1REZNOV: ^7¡Arránquenles cada miembro!>|
+
+|<^1REZNOV: ^7¡Luchen!>|
+
+|<^1REZNOV: ^7¡Vamos! ¡Pronto entraremos en el arsenal!>|
+
+|<^1REZNOV: ^7¡Ha llegado el helicóptero!>|
+
+|<^1RUSSIAN PRISONER: ^7¿Y eso no es malo?>|
+
+|<^1REZNOV: ^7No. Es lo que esperábamos...>|
+
+|<^1REZNOV: ^7Deprisa, Mason.>|
+
+|<^1REZNOV: ^7¡Mason, suba al tejado del taller! ¡Los hombres han preparado su arma!>|
+
+|<^1REZNOV: ^7¡Arriba, deprisa!>|
+
+|<^1REZNOV: ^7¡Arriba! ¡Al arpón!>|
+
+|<^1MASON: ^7¡Maldición!>|
+
+|<^1REZNOV: ^7¡Mason, coja el arpón!>|
+
+|<^1MASON: ^7Paso cinco...>|
+
+|<^1REZNOV: ^7¡Ensartar a la bestia alada!>|
+
+|<^1REZNOV: ^7¡Derribe el helicóptero!>|
+
+|<^1MASON: ^7¡Esperemos que funcione!>|
+
+|<^1MASON: ^7¡Reznov, asegure la cuerda!>|
+
+|<^1REZNOV: ^7Asegurada... ¿Listo, Mason?>|
+
+|<^1MASON: ^7Siempre.>|
+
+|<^1REZNOV: ^7Elija el momento.>|
+
+|<^1REZNOV: ^7Espere...>|
+
+|<^1REZNOV: ^7¡Aún no!>|
+
+|<^1REZNOV: ^7¡Debe afinar la puntería!>|
+
+|<^1REZNOV: ^7¡No! ¡Solo tiene un disparo!>|
+
+|<^1REZNOV: ^7¡Ahora!>|
+
+|<^1REZNOV: ^7¡Dispare!>|
+
+|<^1REZNOV: ^7¡Todos saben qué hay que hacer!>|
+
+|<^1REZNOV: ^7¡Avancen!>|
+
+|<^1REZNOV: ^7¡Sin miedo!>|
+
+|<^1REZNOV: ^7¡Por los flancos!>|
+
+|<^1REZNOV: ^7¡Suban por las escaleras! ¡Sin supervivientes!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Ya lo han oído, camaradas!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Están intentando bloquear el arsenal!>|
+
+|<^1REZNOV: ^7¡Deténganlos!>|
+
+|<^1REZNOV: ^7¡Sigan disparando!>|
+
+|<^1REZNOV: ^7¡A LUCHAR!>|
+
+|<^1REZNOV: ^7¡Están intentando sellar la puerta!>|
+
+|<^1MASON: ^7¡Sergei!>|
+
+|<^1REZNOV: ^7¡Sergei no podrá resistir mucho más!>|
+
+|<^1REZNOV: ^7¡Deprisa, Mason! ¡Vamos!>|
+
+|<^1REZNOV: ^7¡Nooo!>|
+
+|<^1REZNOV: ^7¡Mason! ¡Abra la puerta!>|
+
+|<^1REZNOV: ^7¡Mason! ¡Abra esa puerta!>|
+
+|<^1REZNOV: ^7¡Mason, vienen más guardias! ¡Abra la puerta!>|
+
+|<^1REZNOV: ^7Su muerte no será en vano, amigo... Su sacrificio no caerá en el olvido.>|
+
+|<^1REZNOV: ^7¡Arriba, vamos!>|
+
+|<^1RUSSIAN PRISONER: ^7¡El tejado! ¡Los oigo en el tejado!>|
+
+|<^1REZNOV: ^7¡Caerán como corderos en el matadero!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Reznov, han sellado la cámara!>|
+
+|<^1REZNOV: ^7Poco importa.>|
+
+|<^1MASON: ^7Paso seis.>|
+
+|<^1REZNOV: ^7Con puño de hierro.>|
+
+|<^1REZNOV: ^7Mason y yo conseguiremos el equipo necesario para abrir la cámara.>|
+
+|<^1REZNOV: ^7¡Vamos, Mason!>|
+
+|<^1REZNOV: ^7¡Más refuerzos!>|
+
+|<^1REZNOV: ^7¡Tenemos poco tiempo!>|
+
+|<^1REZNOV: ^7¡El soplete servirá para lo que queremos!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Están intentando entrar!>|
+
+|<^1REZNOV: ^7¡No lo permitan!>|
+
+|<^1REZNOV: ^7¡Cúbrame!>|
+
+|<^1REZNOV: ^7¡Despéjeme el camino, Mason!>|
+
+|<^1REZNOV: ^7¡Quédese conmigo, Mason!>|
+
+|<^1REZNOV: ^7¡Líbreme de ellos, Mason!>|
+
+|<^1REZNOV: ^7¿Adónde va?>|
+
+|<^1REZNOV: ^7¡En el tejado!>|
+
+|<^1REZNOV: ^7¡Mason, líbreme de ellos!>|
+
+|<^1REZNOV: ^7Ya casi está...>|
+
+|<^1REZNOV: ^7¡El tanque está aquí!>|
+
+|<^1RUSSIAN PRISONER: ^7Han entrado. ¡Retirada! ¡Retirada!>|
+
+|<^1REZNOV: ^7¡Mantengan su posición!>|
+
+|<^1RUSSIAN PRISONER: ^7¡Aléjense de las ventanas!>|
+
+|<^1REZNOV: ^7¡Necesito más tiempo!>|
+
+|<^1REZNOV: ^7¡Concentre el fuego!>|
+
+|<^1MASON: ^7¡Abra la cámara de una vez!>|
+
+|<^1REZNOV: ^7¡Sí!>|
+
+|<^1REZNOV: ^7¡Coja ese cañón automático!>|
+
+|<^1MASON: ^7¡¿De dónde coño ha salido esto?!>|
+
+|<^1REZNOV: ^7Un trofeo, arrancado de las manos de sus camaradas caídos...>|
+
+|<^1REZNOV: ^7Estas armas son muy cotizadas entre los miserables burócratas que controlan Vorkuta.>|
+
+|<^1REZNOV: ^7¡Destroce esos camiones!>|
+
+|<^1MASON: ^7¡Así me gusta!>|
+
+|<^1MASON: ^7¡Todavía queda uno!>|
+
+|<^1REZNOV: ^7¡Así se hace, Mason!>|
+
+|<^1REZNOV: ^7¿Paso siete, camaradas?>|
+
+|<^1REZNOV: ^7¡Quiero que arrasen este lugar, camaradas!>|
+
+|<^1REZNOV: ^7¡Adelante! ¡Casi hemos llegado a las puertas!>|
+
+|<^1REZNOV: ^7¡Morid, escoria!>|
+
+|<^1REZNOV: ^7¡Desaten el caos!>|
+
+|<^1REZNOV: ^7Maten a quien se interponga.>|
+
+|<^1REZNOV: ^7¡Maten a todos!>|
+
+|<^1REZNOV: ^7¡Por el honor!>|
+
+|<^1REZNOV: ^7¡Por la venganza!>|
+
+|<^1REZNOV: ^7¡Por Rusia!>|
+
+|<^1REZNOV: ^7¡Gas lacrimógeno!>|
+
+|<^1REZNOV: ^7¡Mason!>|
+
+|<^1MASON: ^7Espere... ¡Hay que ayudar a los demás!>|
+
+|<^1REZNOV: ^7¡No podemos hacer nada!>|
+
+|<^1REZNOV: ^7Estamos muy cerca de nuestro objetivo, Mason... Sobrevivirá... ¡Debe lograrlo!>|
+
+|<^1REZNOV: ^7La puerta no los detendrá eternamente... No tenemos mucho tiempo...>|
+
+|<^1MASON: ^7Vale, ya estoy.>|
+
+|<^1REZNOV: ^7Dentro de este templo de la decadencia hipócrita de los líderes de Vorkuta está la llave hacia el paso ocho.>|
+
+|<^1MASON: ^7La libertad.>|
+
+|<^1REZNOV: ^7¡Esto no ha acabado! Dragovich me las pagará.>|
+
+|<^1REZNOV: ^7¡Venga, Mason! ¡Deprisa!>|
+
+|<^1REZNOV: ^7¡Ahí está el tren! ¡Deprisa, Mason!>|
+
+|<^1MASON: ^7¡No dejarán que nos vayamos sin pelear!>|
+
+|<^1REZNOV: ^7¡Ametralladora!>|
+
+|<^1REZNOV: ^7¡Salte al camión!>|
+
+|<^1REZNOV: ^7¡Mason! ¡Salte!>|
+
+|<^1REZNOV: ^7¡A la ametralladora!>|
+
+|<^1REZNOV: ^7¡Insista!>|
+
+|<^1MASON: ^7¿Dónde coño está el tren?>|
+
+|<^1REZNOV: ^7¡Allí!>|
+
+|<^1REZNOV: ^7¡Vamos, Mason! ¡Vamos!>|
+
+|<^1REZNOV: ^7¡Salte, Mason! ¡Salte!>|
+
+|<^1MASON: ^7¡Su turno!>|
+
+|<^1MASON: ^7¡Vamos!>|
+
+|<^1MASON: ^7Paso ocho, Reznov... ¡Libertad!>|
+
+|<^1REZNOV: ^7Por usted, Mason...>|
+
+|<^1REZNOV: ^7No por mí...>|
+
+|<^1MASON: ^7¡Reznov!>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<€ª!…z>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
+|<ÿÿ>|
+
