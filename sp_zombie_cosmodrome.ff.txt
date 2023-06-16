@@ -1,52 +1,52 @@
-|<¡La trampa centrífuga precisa energía!>|
+|<¡A trampa centrífuga precisa energía!>|
 
-|<¡La trampa cohete precisa energía!>|
+|<¡A trampa cohete precisa energía!>|
 
-|<Mantén ^3[{+activate}]^7 para poner el cohete en posición.>|
+|<Manteña ^3[{+activate}]^7 para poner o cohete en posición.>|
 
-|<El cohete está en marcha.>|
+|<O cohete está en marcha.>|
 
-|<El cohete se está utilizando.>|
+|<O cohete estase utilizando.>|
 
-|<El cohete se está recuperando.>|
+|<O cohete estase recuperando.>|
 
-|<Mantén ^3[{+activate}]^7 para que el módulo lunar acuda a tu posición.>|
+|<Manteña ^3[{+activate}]^7 para que o módulo luar acuda a tua posición.>|
 
-|<No hay destinos del módulo lunar disponibles.>|
+|<Non hai destinos do módulo luar dispoñibles.>|
 
-|<Mantén ^3[{+activate}]^7 para activar la estación del módulo lunar.>|
+|<Manteña ^3[{+activate}]^7 para activar a estación do módulo luar.>|
 
-|<Todos los jugadores deben estar a bordo del módulo.>|
+|<Todos os xogadores deben estar a bordo do módulo.>|
 
-|<Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 250).>|
+|<Manteña ^3[{+activate}]^7 para usar o módulo luar (coste: 250).>|
 
-|<El módulo lunar se está utilizando.>|
+|<O módulo luar estase utilizando.>|
 
-|<Mantén ^3[{+activate}]^7 para ir a Tierra de nadie (coste: GRATIS).>|
+|<Manteña ^3[{+activate}]^7 para ir á Terra de ninguén (coste: GRATIS).>|
 
 |<Esperando &&1 conexiones...>|
 
 |<Esperando &&1 conexión...>|
 
-|<Faltan 3 jugadores en la plataforma.>|
+|<Faltan 3 xogadores en a plataforma.>|
 
-|<Faltan 2 jugadores en la plataforma.>|
+|<Faltan 2 xogadores en a plataforma.>|
 
-|<Falta 1 jugador en la plataforma.>|
+|<Falta 1 xogador en a plataforma.>|
 
-|<Se necesita autorización para el lanzamiento.>|
+|<Necesitase autorización para o despegue.>|
 
-|<Mantén ^3[{+activate}]^7 para activar la secuencia de lanzamiento.>|
+|<Manteña ^3[{+activate}]^7 para activar a secuencia de despegue.>|
 
-|<El módulo lunar se está enfriando.>|
+|<O módulo luar estase enfriando.>|
 
-|<Se ha llamado al módulo lunar.>|
+|<Chamouse ao módulo luar.>|
 
-|<El módulo lunar está repostando.>|
+|<O módulo luar está repostando.>|
 
-|<El módulo lunar ya está en esta base.>|
+|<O módulo luar xa está nesta base.>|
 
-|<Primero hay que abrir la puerta.>|
+|<Primeiro hai que abrir a porta.>|
 
 |<ÿÿ>|
 
