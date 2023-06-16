@@ -1,10 +1,10 @@
-|<Mantén ^3[{+activate}]^7 para piratear la excavadora.>|
+|<Manteña ^3[{+activate}]^7 para piratear a escavadora.>|
 
 |<Pirateando>|
 
-|<Acceso denegado: anulación de seguridad necesaria>|
+|<Acceso denegado: anulación da seguridad necesaria>|
 
-|<Puesto excavador inactivo>|
+|<Puesto escavador inactivo>|
 
 |<ÿÿ>|
 
