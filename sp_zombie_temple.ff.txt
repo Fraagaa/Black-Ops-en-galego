@@ -1,38 +1,38 @@
-|<Mantén ^3[{+activate}]^7 para usar el ascensor (coste: &&1).>|
+|<Manteña ^3[{+activate}]^7 para usar o ascensor (coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para llamar al ascensor.>|
+|<Manteña ^3[{+activate}]^7 para chamar ao ascensor.>|
 
-|<Ascensor bloqueado si hay monos cerca.>|
+|<Ascensor bloqueado se hai monos preto.>|
 
-|<Ascensor bloqueado en ronda de potenciación.>|
+|<Ascensor bloqueado na ronda de potenciación.>|
 
-|<Tus compañeros y tú debéis caer para poder ascender. >|
+|<Os teus compañeiros y ti debedes caer para poder ascender. >|
 
-|<Mantén ^3&&1^7 para comprar Spikemore (coste: 1.000).>|
+|<Manteña ^3&&1^7 para mercar Spikemore (coste: 1.000).>|
 
 |<Súper cerbatana>|
 
 |<Cerbatana>|
 
-|<Ya has adquirido las Spikemore.>|
+|<Xa adquiriches as Spikemore.>|
 
-|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Spikemore.>|
+|<Pulsa ^3[{+actionslot 4}]^7 e logo ^3[{+attack}]^7 para colocar unha Spikemore.>|
 
 |<Spikemore>|
 
-|<Mantén ^3&&1^7 para recoger Spikemore.>|
+|<Manteña ^3&&1^7 para recoger Spikemore.>|
 
-|<No mantengas ^3[{+activate}]^7>|
+|<Non manteñas ^3[{+activate}]^7>|
 
 |<Destino cerrado.>|
 
-|<Mantén ^3[{+activate}]^7 para arrancar la vagoneta (coste: &&1).>|
+|<Manteña ^3[{+activate}]^7 para arrancar la vagoneta (coste: &&1).>|
 
-|<La vagoneta se está utilizando.>|
+|<A vagoneta estase utilizando.>|
 
-|<Mantén ^3&&1^7 para soltar el agua.>|
+|<Manteña ^3&&1^7 para soltar a agua.>|
 
-|<El depósito se está llenando>|
+|<O depósito estase enchendo>|
 
 |<ÿÿ>|
 
