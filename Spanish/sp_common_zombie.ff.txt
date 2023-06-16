@@ -1,170 +1,170 @@
-|<A tu pistola casi no le queda munición, compra un arma mejor.>|
+|<A tu pistola casi non le queda munición, compra un arma mejor.>|
 
-|<Compra mejores armas de las paredes.>|
+|<Merca mejores armas de as paredes.>|
 
-|<¡Tienes que mejorar tu arma!>|
+|<¡Tes que mejorar tu arma!>|
 
 |<Próxima parada: TIERRA DE NADIE>|
 
-|<Coge tu marcador de muerte para recuperar el equipo perdido.>|
+|<Coge tu marcador de muerte para recuperar o equipo perdido.>|
 
-|<Pulsa ABAJO en el mando D para dejar dinero para tus compañeros.>|
+|<Pulsa ABAJO en o mando D para dejar dinero para tus compañeros.>|
 
-|<Busca en las pareces mejores armas y munición.>|
+|<Busca en as pareces mejores armas e munición.>|
 
-|<Reconstruye las barreras de las ventanas para frenar a los zombis.>|
+|<Reconstrue as barreiras de as ventanas para frenar a os zombis.>|
 
-|<¡ALERTA! ¡Plaga de zombis en el Cosmódromo!>|
+|<¡ALERTA! ¡Plaga de zombis en o Cosmódromo!>|
 
-|<Pulsa el Botón BACK para ver el mapa.>|
+|<Pulsa o Botón BACK para ver o mapa.>|
 
-|<Pulsa ARRIBA en el mando D para usar tu habilidad especial.>|
+|<Pulsa ARRIBA no mando D para usar tu habilidad especial.>|
 
-|<Abre las puertas para explorar nuevas zonas.>|
+|<Abre as portas para explorar nuevas zonas.>|
 
-|<Algunas cajas contienen armas secretas.>|
+|<Algunhas caixas conteñen armas secretas.>|
 
-|<Usa el mapa para localizar la caja sorpresa.>|
+|<Usa o mapa para localizar a caixa sorpresa.>|
 
-|<Todas las máquinas de ventajas están ya operativas.>|
+|<Todas as máquinas de vantaxes están xa operativas.>|
 
-|<Uno de tus compañeros ha caído, ¡necesita que lo reanimen!>|
+|<Un dos teus compañeiros mancou, ¡necesita que o reanimen!>|
 
-|<¡Hombre herido, hombre herido! Pide a tus compañeros que te reanimen.>|
+|<¡Home herido, hombre herido! Pide a tus compañeros que te reanimen.>|
 
-|<Usa la luz azul para localizar la caja sorpresa.>|
+|<Usa a luz azul para localizar a caixa sorpresa.>|
 
-|<El módulo lunar ha alunizado, listo para usarse>|
+|<O módulo lunar ha alunizado, listo para usarse>|
 
 |<Lanzamiento lunar en >|
 
-|<Llamando módulo lunar a posición >|
+|<Chamando módulo lunar a posición >|
 
 |<¡Masacre de motosierra!>|
 
-|<Vida perdida, reanimando jugador>|
+|<Vida perdida, reanimando xogador>|
 
 |<Vida extra concedida
 >|
 
 |<Transporte activado>|
 
-|<Transporte aguardando a todos los jugadores>|
+|<Transporte aguardando a todos os jugadores>|
 
-|<Hay que activar la tirolina antes de usarla>|
+|<Hai que activar a tirolina antes de usarla>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 950).>|
+|<Pulsa ^5&&1^7 para tirar da caixa ^1(coste: 950).>|
 
-|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2).>|
+|<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2).>|
 
-|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2),
-             munición mejorada (4.500).>|
+|<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2),
+             munición mellorada (4.500).>|
 
-|<Que comience el ataque>|
+|<Que comence o ataque>|
 
-|<Has sobrevivido al ataque>|
+|<Sobreviviches al ataque>|
 
 |<Ronda>|
 
 |<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 10).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 10).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 20).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 20).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 50).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 100).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 100).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 200).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 250).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 500).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 750).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.000).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.250).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.500).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.750).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 2.000).>|
+|<Manteña ^5&&1^7 para quitar os cascallos ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 100).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 200).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 250).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 750).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.250).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.750).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 2.500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 100).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 200).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 250).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 750).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.250).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.750).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir o arquivador ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir o arquivador ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.500).>|
+|<Manteña ^5&&1^7 para abrir o arquivador ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir o arquivador ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar AK-47 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar AK-47 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar cuchillo Bowie (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar coitelo Bowie ^1(coste: &&1).>|
 
 |<¡Zombi abatido!>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Reanimación (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Reanimación ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar una Reanimación (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Reanimación rápida ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Cola rápida (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Cola rápida ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Doble tiro (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Doble tiro ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Titán (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Titán ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar mejora de potenciación (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar mellora de potenciación ^1(coste: &&1).>|
 
-|<Baja instantánea: >|
+|<Baixa instantánea: >|
 
 |<¡Bombazo zombi!>|
 
@@ -172,189 +172,189 @@
 
 |<¡Cañón automático!>|
 
-|<¡Munición máxima!>|
+|<^3¡Munición máxima!>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 10).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 10).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 20).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 20).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 30).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 30).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 40).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 40).>|
 
-|<FIN DEL JUEGO>|
+|<FIN DO XOGO>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 50).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 50).>|
 
-|<Has sobrevivido &&1 rondas.>|
+|<Sobreviviches &&1 rondas.>|
 
-|<Has sobrevivido 1 ronda.>|
+|<Sobreviviches 1 ronda.>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 850).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 850).>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 750).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 750).>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 650).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 650).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera.>|
+|<Manteña ^5&&1^7 para reconstruir a barreira.>|
 
-|<¡Antes debes activar la corriente!>|
+|<¡Antes debes activar a electricidade!>|
 
-|<Mantén ^3&&1^7 para activar la barrera de fuego (coste: 500).>|
+|<Manteña ^5&&1^7 para activar a barreira de fogo ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 2.500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 2.500).>|
 
-|<Mantén ^3[{+activate}]^7 para activar la trampa (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para activar a trampa ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para comprar Bouncing Bettys (coste: 1.000 - una única vez).>|
+|<Manteña ^5&&1^7 para mercar Bouncing Bettys ^1(coste: 1.000 - unha única vez).>|
 
-|<Ya has adquirido las Bouncing Bettys.>|
+|<Xa has adquirido as Bouncing Bettys.>|
 
-|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Bouncing Betty.>|
+|<Pulsa ^5[{+actionslot 4}]^7 e logo ^5[{+attack}]^7 para colocar unha Bouncing Betty.>|
 
-|<Mantén ^3&&1^7 para comprar Claymore (coste: 1.000).>|
+|<Manteña ^5&&1^7 para mercar Claymore ^1(coste: 1.000).>|
 
-|<Ya has adquirido las Claymore.>|
+|<Xa has adquirido as Claymore.>|
 
-|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Claymore.>|
+|<Pulsa ^5[{+actionslot 4}]^7 e logo ^5[{+attack}]^7 para colocar unha Claymore.>|
 
-|<Mantén ^3&&1^7 para activar la torreta de la fuente (coste: 750).>|
+|<Manteña ^5&&1^7 para activar a torreta de a fuente ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para activar la corriente.>|
+|<Manteña ^5&&1^7 para activar a electricidade.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar arma Tesla (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar arma Tesla ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para comprar granadas adhesivas (coste: 10).>|
+|<Manteña ^5&&1^7 para mercar granadas adhesivas ^1(coste: 10).>|
 
-|<Antes hay que abrir la puerta.>|
+|<Antes hai que abrir a porta.>|
 
-|<Mantén ^3&&1^7 para cambiar de arma.>|
+|<Manteña ^5&&1^7 para cambiar de arma.>|
 
-|<Mantén ^3&&1^7 para activar la tirolina (coste: 1.500).>|
+|<Manteña ^5&&1^7 para activar a tirolina ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para activar la tirolina.>|
+|<Manteña ^5&&1^7 para activar a tirolina.>|
 
-|<Mantén ^3&&1^7 para comprar. >|
+|<Manteña ^5&&1^7 para mercar. >|
 
-|<Mantén ^3&&1^7 para iniciar el enlace con el ordenador central.>|
+|<Manteña ^5&&1^7 para iniciar o enlace con o ordenador central.>|
 
-|<Mantén ^3&&1^7 para teletransportarte al ordenador central (coste: 1.500).>|
+|<Manteña ^5&&1^7 para teletransportarte al ordenador central ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para enlazar la plataforma de teletransporte al ordenador central.>|
+|<Manteña ^5&&1^7 para enlazar a plataforma de teletransporte al ordenador central.>|
 
 |<Enlace activado.>|
 
-|<Hay que activar la plataforma de teletransporte.>|
+|<Hai que activar a plataforma de teletransporte.>|
 
 |<Vuelve al núcleo.>|
 
-|<El teletransporte se está recuperando.>|
+|<O teletransporte estase recuperando.>|
 
-|<Mantén ^3&&1^7 para activar la trampilla (coste: 1.000).>|
+|<Manteña ^5&&1^7 para activar a trampilla ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta.>|
+|<Manteña ^5&&1^7 para abrir a porta.>|
 
-|<Mantén ^3&&1^7 para activar el elevador (coste: 500).>|
+|<Manteña ^5&&1^7 para activar o elevador ^1(coste: 500).>|
 
-|<Mantén ^3[{+activate}]^7 para usar la torreta (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para usar a torreta ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para activar la torreta automática (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para activar a torreta automática ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para construir el puente (coste: 1.000).>|
+|<Manteña ^5&&1^7 para construir o puente ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para coger el arma mejorada.>|
+|<Manteña ^5&&1^7 para coger o arma mellorada.>|
 
-|<Mantén ^3[{+activate}]^7 para usar el teletransporte (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para usar o teletransporte ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para activar el teletransporte.>|
+|<Manteña ^5&&1^7 para activar o teletransporte.>|
 
-|<Mantén ^3&&1^7 para usar la tirolina (coste: 1.000).>|
+|<Manteña ^5&&1^7 para usar a tirolina ^1(coste: 1.000).>|
 
-|<Primero hay que activar la tirolina.>|
+|<Primeiro hai que activar a tirolina.>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 10).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 10).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar viejo P90 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar viejo P90 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar AK-74u (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar AK-74u ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Skorpion (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Skorpion ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Uzi (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Uzi ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M14 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M14 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M16 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M16 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Dragunov (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Dragunov ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar RPK (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar RPK ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Stoner 63 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Stoner 63 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar AK-47 con GP30 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar AK-47 con GP30 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M16 con M203 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M16 con M203 ^1(coste: &&1).>|
 
-|<Ataque aéreo no disponible>|
+|<Ataque aéreo non disponible>|
 
-|<Mantén ^3&&1^7 para guardar arma.>|
+|<Manteña ^5&&1^7 para gardar arma.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar arma Thunder (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar arma Thunder ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Fuerza vulnerante (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Fuerza vulnerante ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Bandolera (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Bandolera ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para activar el contador de bajas (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para activar o contador de bajas ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M1911 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M1911 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Python (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Python ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar doble Kiparis (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar doble Kiparis ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MAC-11 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MAC-11 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar AUG (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar AUG ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar G11 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar G11 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M60 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M60 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar cañón automático (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar cañón automático ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MP5K (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MP5K ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MP40 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MP40 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MPL (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MPL ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar PM63 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar PM63 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar ENFIELD (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar ENFIELD ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Olympia (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Olympia ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Stakeout (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Stakeout ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar SPAS (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar SPAS ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar WA-2000 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar WA-2000 ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para recoger célula de energía.>|
+|<Manteña ^5&&1^7 para recoger célula de enerxía.>|
 
-|<Mantén ^3&&1^7 para introducir célula de energía.>|
+|<Manteña ^5&&1^7 para introducir célula de enerxía.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Dientes de sable (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Dentes de sable ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar arma de rayos (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar arma de raios ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar granadas de fragmentación (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar granadas de fragmentación ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Claymore (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Claymore ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M202 FLASH (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M202 FLASH ^1(coste: &&1).>|
 
 |<Radar obtenido.>|
 
@@ -372,19 +372,19 @@
 
 |<Helicóptero de enlace obtenido.>|
 
-|<Radar no disponible.>|
+|<Radar non disponible.>|
 
-|<Artillería no disponible.>|
+|<Artillería non disponible.>|
 
-|<Napalm no disponible.>|
+|<Napalm non disponible.>|
 
-|<Perros no disponibles.>|
+|<Perros non disponibles.>|
 
-|<Helicóptero no disponible.>|
+|<Helicóptero non disponible.>|
 
-|<Helicóptero x 2 no disponible.>|
+|<Helicóptero x 2 non disponible.>|
 
-|<Helicóptero de enlace no disponible.>|
+|<Helicóptero de enlace non disponible.>|
 
 |<¡Ataque aéreo inminente sobre tu posición!>|
 
@@ -402,15 +402,15 @@
 
 |<Desafíos>|
 
-|<Aptitudes de jugador>|
+|<Aptitudes de xogador>|
 
 |<Mutadores>|
 
 |<Marcadores>|
 
-|<Premios y títulos>|
+|<Premios e títulos>|
 
-|<Nuevo texto>|
+|<Novo texto>|
 
 |<Premio PX>|
 
@@ -424,7 +424,7 @@
 
 |<Contra>|
 
-|<Opciones>|
+|<Opcións>|
 
 |<Créditos>|
 
@@ -454,49 +454,49 @@
 
 |<Resistencia disponible en ronda &&1.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar ataque aéreo (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar ataque aéreo (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar torreta (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar torreta (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar portal (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar portal (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar napalm (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar napalm (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar artillería (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar artillería (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar perros (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar perros (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar helicóptero (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar helicóptero (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar bomba RC (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar bomba RC (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar distorsión temporal (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar distorsión temporal (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar ocultación (primer uso: 500).
-Siguientes (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar ocultación (primer uso: 500).
+Siguientes ^1(coste: &&1).>|
 
 |<Esperando recuperación>|
 
 |<¡AVISO! ¡REENTRADA DE SIMIO INMINENTE!>|
 
-|<La trampa está activa.>|
+|<A trampa está activa.>|
 
-|<La trampa se está recargando.>|
+|<A trampa estase recargando.>|
 
 |<Torreta obtenida.>|
 
 |<Portal obtenido.>|
 
-|<Ya tienes esta aptitud.>|
+|<Xa tes esta aptitud.>|
 
 |<Aptitud Artillería usada.>|
 
@@ -524,45 +524,45 @@ Siguientes (coste: &&1).>|
 
 |<Resistencia obtenida.>|
 
-|<Portal no disponible.>|
+|<Portal non disponible.>|
 
-|<Torreta no disponible.>|
+|<Torreta non disponible.>|
 
-|<Resistencia no disponible.>|
+|<Resistencia non disponible.>|
 
-|<Ocultación no disponible.>|
+|<Ocultación non disponible.>|
 
-|<Bomba RC no disponible.>|
+|<Bomba RC non disponible.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar GALIL (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar GALIL ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar COMMANDO (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar COMMANDO ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar FN FAL (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar FN FAL ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar FAMAS (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar FAMAS ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar HK21 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar HK21 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar SPECTRE (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar SPECTRE ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar CZ75DW (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar CZ75DW ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M72_LAW (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M72_LAW ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar CHINA_LAKE (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar CHINA_LAKE ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar L96A1 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar L96A1 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar BALLESTA_EXPLOSIVA (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar BALLESTA_EXPLOSIVA ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar HS10 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar HS10 ^1(coste: &&1).>|
 
 |<Reanimando >|
 
 |<Cobra>|
 
-|<Mustang y Sally>|
+|<Mustang e Sally>|
 
 |<Mnesia>|
 
@@ -580,7 +580,7 @@ Siguientes (coste: &&1).>|
 
 |<MPL-LF>|
 
-|<Tokio y Rose>|
+|<Tokio e Rose>|
 
 |<MAC11 mejorado>|
 
@@ -588,7 +588,7 @@ Siguientes (coste: &&1).>|
 
 |<Calamity>|
 
-|<Calamity y Jane>|
+|<Calamity e Jane>|
 
 |<Asalto>|
 
@@ -596,13 +596,13 @@ Siguientes (coste: &&1).>|
 
 |<SPAZ-24>|
 
-|<Typhoid y Mary>|
+|<Typhoid e Mary>|
 
 |<Enfield mejorado>|
 
 |<AUG-50M3>|
 
-|<AUG con lanzagranadas mejorado>|
+|<AUG con lanzagranadas mellorado>|
 
 |<Lamento>|
 
@@ -618,24 +618,24 @@ Siguientes (coste: &&1).>|
 
 |<H115 Oscillator>|
 
-|<Ángel de la muerte mejorado>|
+|<Ánxel da morte mellorado>|
 
-|<M72 Anarchy>|
+|<M72 Anarquista>|
 
 |<China Beach>|
 
-|<Arma de rayos X2 de Porter>|
+|<Cala meu>|
 
 |<Wunderwaffe DG-2>|
 
-|<Wunderwaffe DG-3 JZ
+|<Marcho que teño que marchar
 >|
 
-|<Cañón Zeus>|
+|<Moza teño terras>|
 
-|<Aullido invernal>|
+|<Xaneiro en Lugo>|
 
-|<Furia invernal>|
+|<Furia Galega>|
 
 |<Temible Lawton>|
 
