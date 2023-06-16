@@ -24,7 +24,7 @@
 
 |<Non manteñas ^3[{+activate}]^7>|
 
-|<Destino cerrado.>|
+|<Destino pechado.>|
 
 |<Manteña ^3[{+activate}]^7 para arrancar la vagoneta (coste: &&1).>|
 
