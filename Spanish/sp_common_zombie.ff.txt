@@ -2,7 +2,7 @@
 
 |<Merca mejores armas de as paredes.>|
 
-|<¡Tes que mejorar tu arma!>|
+|<Tes que mejorar tu arma!>|
 
 |<Próxima parada: TIERRA DE NADIE>|
 
@@ -14,7 +14,7 @@
 
 |<Reconstrue as barreiras de as ventanas para frenar a os zombis.>|
 
-|<¡ALERTA! ¡Plaga de zombis en o Cosmódromo!>|
+|<ALERTA! Plaga de zombis en o Cosmódromo!>|
 
 |<Pulsa o Botón BACK para ver o mapa.>|
 
@@ -28,9 +28,9 @@
 
 |<Todas as máquinas de vantaxes están xa operativas.>|
 
-|<Un dos teus compañeiros mancou, ¡necesita que o reanimen!>|
+|<Un dos teus compañeiros mancou, necesita que o reanimen!>|
 
-|<¡Home herido, hombre herido! Pide a tus compañeros que te reanimen.>|
+|<Home herido, hombre herido! Pide a tus compañeros que te reanimen.>|
 
 |<Usa a luz azul para localizar a caixa sorpresa.>|
 
@@ -40,7 +40,7 @@
 
 |<Chamando módulo lunar a posición >|
 
-|<¡Masacre de motosierra!>|
+|<Masacre de motosierra!>|
 
 |<Vida perdida, reanimando xogador>|
 
@@ -58,11 +58,11 @@
 |<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2).>|
 
 |<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2),
-             munición mellorada (4.500).>|
+             munición mellorada ^1(4.500)^7.>|
 
 |<Que comence o ataque>|
 
-|<Sobreviviches al ataque>|
+|<Sobreviviches ao ataque>|
 
 |<Ronda>|
 
@@ -150,7 +150,7 @@
 
 |<Manteña ^5[{+activate}]^7 para mercar coitelo Bowie ^1(coste: &&1).>|
 
-|<¡Zombi abatido!>|
+|<Zombi abatido!>|
 
 |<Manteña ^5[{+activate}]^7 para mercar Reanimación ^1(coste: &&1).>|
 
@@ -166,13 +166,13 @@
 
 |<Baixa instantánea: >|
 
-|<¡Bombazo zombi!>|
+|<Bombazo zombi!>|
 
 |<Doble puntuación: >|
 
-|<¡Cañón automático!>|
+|<Cañón automático!>|
 
-|<^3¡Munición máxima!>|
+|<^2Munición máxima!>|
 
 |<Manteña ^5&&1^7 para reconstruir a barreira (premio: 10).>|
 
@@ -198,7 +198,7 @@
 
 |<Manteña ^5&&1^7 para reconstruir a barreira.>|
 
-|<¡Antes debes activar a electricidade!>|
+|<Antes debes activar a electricidade!>|
 
 |<Manteña ^5&&1^7 para activar a barreira de fogo ^1(coste: 500).>|
 
@@ -238,15 +238,15 @@
 
 |<Manteña ^5&&1^7 para iniciar o enlace con o ordenador central.>|
 
-|<Manteña ^5&&1^7 para teletransportarte al ordenador central ^1(coste: 1.500).>|
+|<Manteña ^5&&1^7 para teletransportarte ao ordenador central ^1(coste: 1.500).>|
 
-|<Manteña ^5&&1^7 para enlazar a plataforma de teletransporte al ordenador central.>|
+|<Manteña ^5&&1^7 para enlazar a plataforma de teletransporte ao ordenador central.>|
 
 |<Enlace activado.>|
 
-|<Hai que activar a plataforma de teletransporte.>|
+|<Hai que activar a plataforma do teletransporte.>|
 
-|<Vuelve al núcleo.>|
+|<Vuelve ao núcleo.>|
 
 |<O teletransporte estase recuperando.>|
 
@@ -386,11 +386,11 @@
 
 |<Helicóptero de enlace non disponible.>|
 
-|<¡Ataque aéreo inminente sobre tu posición!>|
+|<Ataque aéreo inminente sobre tu posición!>|
 
-|<¡Ataque con napalm inminente sobre tu posición!>|
+|<Ataque con napalm inminente sobre tu posición!>|
 
-|<¡Ataque de artillería inminente sobre tu posición!>|
+|<Ataque de artillería inminente sobre tu posición!>|
 
 |<Helicóptero x 2 en camino>|
 
@@ -486,7 +486,7 @@ Siguientes ^1(coste: &&1).>|
 
 |<Esperando recuperación>|
 
-|<¡AVISO! ¡REENTRADA DE SIMIO INMINENTE!>|
+|<AVISO! REENTRADA DE SIMIO INMINENTE!>|
 
 |<A trampa está activa.>|
 
