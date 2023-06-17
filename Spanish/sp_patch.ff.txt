@@ -1,16 +1,16 @@
 |<NOM4D>|
 
-|<Todos los usuarios deben tener la misma versión del juego para jugar en Interconexión. Inicia sesión en Xbox LIVE para comprobar que dispones de la última actualización del juego.>|
+|<Todos los usuarios deben tener a misma versión del juego para xogar en Interconexión. Inicia sesión en Xbox LIVE para comprobar que dispones de a última actualización del juego.>|
 
-|<Los datos guardados no son compatibles con la versión actual del juego. Puedes continuar desde el principio de tu misión más reciente o salir a los menús.>|
+|<Los datos guardados no son compatibles con a versión actual del juego. Puedes continuar desde o principio de tu misión más reciente o salir a los menús.>|
 
 |<Colores alt.>|
 
-|<Las versiones del juego son incompatibles con el juego en línea en este modo.>|
+|<Las versiones del juego son incompatibles co juego en línea en este modo.>|
 
 |<NOMBRE DEL SERVIDOR>|
 
-|<MÁXIMO DE JUGADORES>|
+|<MÁXIMO DE XOGADORES>|
 
 |<PING MÍNIMO>|
 
@@ -24,7 +24,7 @@
 
 |<PREPARTIDA>|
 
-|<JUGADORES MÍN. EN PREPARTIDA>|
+|<XOGADORES MÍN. EN PREPARTIDA>|
 
 |<Act./Desact. comparar amigo>|
 
@@ -36,27 +36,27 @@
 
 |<Se restablecerán los controles predeterminados del juego.>|
 
-|<Este es el nombre de tu servidor.>|
+|<Este es o nombre de tu servidor.>|
 
-|<Los jugadores que no alcancen el ping mínimo no podrán unirse.>|
+|<Los jugadores que no alcancen o ping mínimo no podrán unirse.>|
 
-|<Los jugadores que superen el ping máximo no podrán unirse.>|
+|<Los jugadores que superen o ping máximo no podrán unirse.>|
 
-|<Esta es la contraseña necesaria para unirse tu servidor.>|
+|<Esta es a contraseña necesaria para unirse tu servidor.>|
 
-|<Comunícate durante la partida mediante charla de voz.>|
+|<Comunícate durante a partida mediante charla de voz.>|
 
 |<Los jugadores se dividirán de forma equitativa entre los equipos.>|
 
-|<Permite que los jugadores voten para elegir el modo de juego y el mapa, o si expulsan a un jugador.>|
+|<Permite que los jugadores voten para elegir o modo de juego y o mapa, o si expulsan a un jugador.>|
 
-|<Juega a Contra todos, sin puntos y sin PX hasta que empiece la partida.>|
+|<Juega a Contra todos, sin puntos y sin PX hasta que empiece a partida.>|
 
-|<Cantidad de jugadores necesaria para terminar la prepartida y comenzar la partida.>|
+|<Cantidad de jugadores necesaria para terminar a prepartida y comenzar a partida.>|
 
 |<La cantidad máxima de jugadores que pueden unirse.>|
 
-|<Asegura el servidor contra tramposos.>|
+|<Asegura o servidor contra tramposos.>|
 
 |<Ratón izq. para mover>|
 
@@ -84,9 +84,9 @@
 
 |<Tus estadísticas no han podido validarse.>|
 
-|<Los datos de tu lista de partidas son más antiguos que los del host. Tienes que reiniciar el juego para obtener las nuevas listas de partidas.>|
+|<Los datos de tu lista de partidas son más antiguos que los del host. Tienes que reiniciar o juego para obtener las nuevas listas de partidas.>|
 
-|<Los datos de tu lista de partidas son más recientes que los del host. No podrás jugar con ellos hasta que se reinicien para obtener las nuevas listas de partidas.>|
+|<Los datos de tu lista de partidas son más recientes que los del host. No podrás xogar con ellos hasta que se reinicien para obtener las nuevas listas de partidas.>|
 
 |<Has sido expulsado automáticamente por un espacio reservado.>|
 
@@ -104,33 +104,33 @@
 
 |<EQUILIBRAR EQUIPOS>|
 
-|<Solo está permitido cambiar de equipo si se mantiene el equilibrio.>|
+|<Solo está permitido cambiar de equipo si se mantiene o equilibrio.>|
 
 |<PERIODO DE AGRUPACIÓN>|
 
-|<Periodo de tiempo inicial en el que se permiten los cambios de equipo y los equipos se equilibran automáticamente.>|
+|<Periodo de tiempo inicial en o que se permiten los cambios de equipo y los equipos se equilibran automáticamente.>|
 
 |<COLOREAR AMIGOS EN EQUIPO>|
 
-|<Esta demo utiliza el mod ^3&&1^7.
-Debes cargar el mod para poder ver la demo.>|
+|<Esta demo utiliza o mod ^5&&1^7.
+Debes cargar o mod para poder ver a demo.>|
 
-|<Este vídeo utiliza el mod ^3&&1^7.
-Debes cargar el mod para poder ver el vídeo.>|
+|<Este vídeo utiliza o mod ^5&&1^7.
+Debes cargar o mod para poder ver o vídeo.>|
 
-|<Estás usando el mod ^3&&1^7.
-Debes descargar el mod para poder ver la demo.>|
+|<Estás usando o mod ^5&&1^7.
+Debes descargar o mod para poder ver a demo.>|
 
-|<Estás usando el mod ^3&&1^7.
-Debes descargar el mod para poder ver el vídeo.>|
+|<Estás usando o mod ^5&&1^7.
+Debes descargar o mod para poder ver o vídeo.>|
 
 |<RADAR SIEMPRE ACTIVO>|
 
-|<Los enemigos aparecen en el radar.>|
+|<Los enemigos aparecen en o radar.>|
 
 |<TEMPORIZADOR PREVIO>|
 
-|<Cambia la cantidad de tiempo antes de que empiece la partida.>|
+|<Cambia a cantidad de tiempo antes de que empiece a partida.>|
 
 |<Comprobando partidas: &&1,&&2% - &&3/&&4 partidas buenas.>|
 
@@ -144,9 +144,9 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<No tienes amigos.>|
 
-|<Ya has alcanzado el número máximo de marcadores permitidos.>|
+|<Ya has alcanzado o número máximo de marcadores permitidos.>|
 
-|<No puedes colocar 2 o más marcadores en el mismo punto de la línea temporal.>|
+|<No puedes colocar 2 o más marcadores en o mismo punto de a línea temporal.>|
 
 |<Modo Libre>|
 
@@ -158,9 +158,9 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<Adquirido. Elige para descargar.>|
 
-|<ASCENSION>|
+|<ASCENSIÓN>|
 
-|<Los muertos vivientes han invadido un cosmódromo soviético y se ha desatado un infierno. La cuenta atrás para el apocalipsis zombi ha comenzado.>|
+|<Os mortos vivientes invadiron un cosmódromo soviético e dsatouse un inferno. A conta atrás para o apocalipsis zombi comenzou.>|
 
 |<Editar marc. cámara dolly &&1>|
 
@@ -172,13 +172,13 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<¿Seguro que quieres borrar todos los marcadores de cámara?>|
 
-|<CALL OF THE DEAD>|
+|<CHAMADA DOS MORTOS>|
 
-|<Un grupo de intrépidos exploradores naufragados se encuentra aislado en un puesto avanzado de Siberia. Su sueño de descubrir el auténtico origen del misterioso elemento 115 se convertirá en una horrible pesadilla.>|
+|<Un grupo de intrépidos exploradores naufragados encontrase aislado nun posto avanzado de Siberia. O seu sueño de descubrir a auténtica orixe dp misterioso elemento 115 convertirase nunha horrible pesadilla.>|
 
-|<Has cambiado a la cámara dolly, pero no has colocado ningún marcador. Asegúrate de colocarlos en Editar modo de cámara. >|
+|<Has cambiado a a cámara dolly, pero no has colocado ningún marcador. Asegúrate de colocarlos en Editar modo de cámara. >|
 
-|<Jugar como invitado>|
+|<Xogar como invitado>|
 
 |<PlayStation®Store>|
 
@@ -212,19 +212,19 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<CÁMARA &&1>|
 
-|<^3BOTÓN DCHO. RATÓN^7 Modo cámara libre ant.>|
+|<^3BOTÓN DCHO. RATO^7 Modo cámara libre ant.>|
 
-|<^3BOTÓN IZDO. RATÓN^7 Modo cámara libre sig.>|
+|<^3BOTÓN IZDO. RATO^7 Modo cámara libre sig.>|
 
-|<Uno o más miembros de tu grupo tienen NAT estricta o moderada; puede afectar al Matchmaking.>|
+|<Uno o más miembros de tu grupo tienen NAT estricta o moderada; puede afectar ao Matchmaking.>|
 
 |<Recuperando...>|
 
 |<Shangri-La>|
 
-|<SHANGRI-LA>|
+|<HORIZONTES PERDIDOS>|
 
-|<Una exótica jungla oculta un templo legendario perdido en el que los no muertos acechan en un laberinto de cuevas subterráneas, trampas letales y oscuros secretos.>|
+|<Unha exótica xungla oculta un templo legendario perdido no que os non mortos acechan nun laberinto de covas subterráneas, trampas letales e oscuros secretos.>|
 
 |<Paquete de Zombis clásicos>|
 
@@ -236,21 +236,21 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<Paquete Rezurrection>|
 
-|<Duelo por equipos con HUD limitado, balas más dañinas y fuego amigo activado.>|
+|<Duelo por equipos con HUD limitado, balas más dañinas y lume amigo activado.>|
 
 |<Sálvese quien pueda. HUD limitado, balas más dañinas. Sin regeneración de salud ni inserciones tácticas.>|
 
 |<Tienes una ballesta, un cuchillo balístico y un tomahawk. Matar jugadores da puntos. Las bajas con tomahawk quitan todos los puntos.>|
 
-|<Una bala en la recámara, un cuchillo, 3 vidas y bajas instantáneas. Los jugadores reciben 1 bala después de cada baja.>|
+|<Una bala en a recámara, un cuchillo, 3 vidas y bajas instantáneas. Los jugadores reciben 1 bala después de cada baja.>|
 
-|<Mata jugadores con tu arma para avanzar a la siguiente. Gana el primero en conseguir una baja con cada arma.>|
+|<Mata jugadores con tu arma para avanzar a a siguiente. Gana o primero en conseguir una baja con cada arma.>|
 
-|<Las armas cambian cada 45 segundos. Mata jugadores para conseguir puntos. Recibe ventajas al conseguir rachas de bajas.>|
+|<Las armas cambian cada 45 segundos. Mata jugadores para conseguir puntos. Recibe ventajas ao conseguir rachas de bajas.>|
 
 |<P: &&1>|
 
-|<BLACK OPS SIN MODS>|
+|<BLACK OPS SEN MODS>|
 
 |<Descarga los mods actuales.>|
 
@@ -260,11 +260,11 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<Moon>|
 
-|<MOON>|
+|<LUA>|
 
-|<Creo que este país debería dedicarse a lograr, antes de que acabe la década, que un hombre aterrice en la Luna y regrese a la Tierra sano y salvo. (JFK, 1961)>|
+|<Creo que este país debería dedicarse a lograr, antes de que acabe a década, que un home aterrice na Lua e regrese á Terra sano e salvo. (JFK, 1961)>|
 
-|<Tierra de nadie>|
+|<Terra de ninguén>|
 
 |<Tiempo sobrevivido>|
 
@@ -274,11 +274,11 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<Visita >|
 
-|< para descargar la banda sonora de Call of Duty: zombis con 3 temas extra.>|
+|< para descargar a banda sonora de Call of Duty: zombis con 3 temas extra.>|
 
 |<Código de oferta: >|
 
-|<¡Visita callofduty.com/blackops/dlc/zombies para descargar la banda sonora de Call of Duty: zombis con 3 temas extra!>|
+|<¡Visita callofduty.com/blackops/dlc/zombies para descargar a banda sonora de Call of Duty: zombis con 3 temas extra!>|
 
 |<Discovery>|
 
@@ -310,17 +310,17 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<STADIUM>|
 
-|<Descubre los misterios de este puesto de investigación alemán abandonado en la Antártida.>|
+|<Descubre los misterios de este puesto de investigación alemán abandonado en a Antártida.>|
 
-|<Cuidado con la tierra de nadie mientras luchas por el control del Muro de Berlín.>|
+|<Cuidado con a tierra de nadie mientras luchas por o control del Muro de Berlín.>|
 
 |<Nidos de francotirador y rutas escurridizas en los tejados tormentosos de Kowloon.>|
 
 |<Combate frenético dentro y alrededor del estadio de hockey del Chance Stadium.>|
 
-|<Hay que comprar una descarga de contenido para usar esta lista de partidas.>|
+|<Hai que mercar una descarga de contenido para usar esta lista de partidas.>|
 
-|<No todos los miembros de tu grupo tienen el contenido necesario para jugar en este mapa.>|
+|<No todos los miembros de tu grupo tienen o contenido necesario para xogar en este mapa.>|
 
 |<MODOS DE JUEGO>|
 
@@ -344,7 +344,7 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<ALÍSTATE.>|
 
-|<Introduce una dirección de correo electrónico válida para acceder a la lista de invitaciones de la beta.>|
+|<Introduce una dirección de correo electrónico válida para acceder a a lista de invitaciones de a beta.>|
 
 |<Las direcciones de correo se borran semanalmente. Actualmente, Call of Duty ELITE está disponible solo en inglés.>|
 
@@ -358,7 +358,7 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<MAPAS DDC>|
 
-|<Gracias por unirte a la versión ELITE de Call of Duty. Recibirás instrucciones para completar la inscripción en la dirección de correo electrónico que has proporcionado. Para obtener más información, visita CallofDuty.com/Elite.>|
+|<Gracias por unirte a a versión ELITE de Call of Duty. Recibirás instrucciones para completar a inscripción en a dirección de correo electrónico que has proporcionado. Para obtener más información, visita CallofDuty.com/Elite.>|
 
 |<CORREO ELECTRÓNICO RECHAZADO>|
 
@@ -372,15 +372,15 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<HOTEL>|
 
-|<Combate para controlar la azotea de un ostentoso hotel cubano.>|
+|<Combate para controlar a azotea de un ostentoso hotel cubano.>|
 
 |<Silo>|
 
 |<SILO>|
 
-|<Surge el conflicto cerca de unas instalaciones de lanzamiento de misiles. Combates a corta distancia y ataques por los flancos.>|
+|<Surge o conflicto cerca de unas instalaciones de lanzamiento de misiles. Combates a corta distancia y ataques por los flancos.>|
 
-|<Para competir en este marcador, debes haber conseguido prestigio al menos una vez y disponer de &&1  para gastar.>|
+|<Para competir en este marcador, debes haber conseguido prestigio ao menos una vez y disponer de &&1  para gastar.>|
 
 |<Uno o varios miembros de tu grupo no disponen de este mapa. >|
 
@@ -406,7 +406,7 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<DRIVE-IN>|
 
-|<Peleas a corta distancia y potentes apoyos en un cine al aire libre abandonado.>|
+|<Peleas a corta distancia y potentes apoyos en un cine ao aire libre abandonado.>|
 
 |<Firebase>|
 
@@ -418,13 +418,13 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<HAZARD>|
 
-|<Atento a los francotiradores mientras luchas a lo largo de la calle de este campo de golf sobre un acantilado.>|
+|<Atento a los francotiradores mientras luchas a lo largo de a calle de este campo de golf sobre un acantilado.>|
 
 |<Salvage>|
 
 |<SALVAGE>|
 
-|<Dos bandos luchan por la supremacía en un desguace.>|
+|<Dos bandos luchan por a supremacía en un desguace.>|
 
 |<Snow Mine>|
 
@@ -436,7 +436,7 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<WAR MUSEUM>|
 
-|<Batalla por el control del museo. Intensos tiroteos en interiores.>|
+|<Batalla por o control del museo. Intensos tiroteos en interiores.>|
 
 |<DISCOVERY>|
 
@@ -464,336 +464,336 @@ Debes descargar el mod para poder ver el vídeo.>|
 
 |<Error de autenticación de Steam.>|
 
-|<No tienes este mapa. Puedes descargar paquetes de mapas en la tienda de Steam.>|
+|<No tienes este mapa. Puedes descargar paquetes de mapas en a tienda de Steam.>|
 
-|<Te faltan algunos archivos referidos por el servidor:
-^3&&1^7
-Ve al menú Opciones multijugador para permitir las descargas.>|
+|<Te faltan algunos archivos referidos por o servidor:
+^5&&1^7
+Ve ao menú Opciones multijugador para permitir las descargas.>|
 
-|<Este archivo es distinto al del servidor:
+|<Este archivo es distinto ao del servidor:
 
- ^3&&1^7>|
+ ^5&&1^7>|
 
 |<Se necesita un mod para usar este cheat.>|
 
 |<DESACTIVAR EMBLEMAS>|
 
-|<Existe un archivo local con la suma de verificación incorrecta.>|
+|<Existe un archivo local con a suma de verificación incorrecta.>|
 
-|<Existe un archivo local con el tamaño incorrecto.>|
+|<Existe un archivo local co tamaño incorrecto.>|
 
 |<Esta cuenta ha sido excluida permanentemente de los servidores de Call of Duty: Black Ops.>|
 
 |<TIERRA DE NADIE (INDIVIDUAL)>|
 
-|<La banda sonora de Call of Duty: Zombis, junto con 3 temas extra, está disponible en la carpeta de instalación, en la subcarpeta Banda sonora.>|
+|<La banda sonora de Call of Duty: Zombis, junto con 3 temas extra, está disponible en a carpeta de instalación, en a subcarpeta Banda sonora.>|
 
 |<Abrir carpeta de banda sonora>|
 
 |<Desconocido>|
 
-|<No tienes este mapa. Puedes descargar paquetes de mapas en la tienda de Steam.
+|<No tienes este mapa. Puedes descargar paquetes de mapas en a tienda de Steam.
 
-Necesitas: ^3&&1^7
+Necesitas: ^5&&1^7
 >|
 
-|<Los enviaste al corazón del Reich. Pensabas que habían muerto. Te equivocaste.>|
+|<Enviachelles ao corazón do Reich. Pensabas que habían morto? equivocácheste.>|
 
-|<Terapia de choque. Pociones diseñadas en laboratorio. Hordas de nazis no muertos. ¡Encuentra el poder para reunirlos y enviarlos a todos de vuelta a sus tumbas!>|
+|<Terapia de choque. Pocións diseñadas no laboratorio. Hordas de nazis non mortos. Encontra o poder para reuniros e enviádeos a todos de vuelta as suas tumbas!>|
 
-|<Cadáveres llenos de gusanos. Pantano infestado de insectos. Cientos de soldados imperiales no muertos. ¡Elige tu táctica y lucha por tu vida!>|
+|<Cadáveres cheos de gusanos. Pantano infestado de insectos. Centos de soldados imperiales non mortos. Elixe a tua táctica e loita pola tua vida!>|
 
-|<El gigante se alza. Enfréntate al poder de los zombis nazis en su tierra natal. Aquí es donde el plan maestro cobró forma. ¿Será aquí donde acabará?>|
+|<O xigante álzase. Enfréntate ao poder dos zombis nazis na sua terra natal. Aquí é onde o plan maestro cobrou forma. Será aquí onde remate?>|
 
-|<NACHT DER UNTOTEN>|
+|<NOITE DOS MORTOS>|
 
-|<VERRÜCKT>|
+|<TOLO>|
 
-|<SHI NO NUMA>|
+|<PANTANO DOS MORTOS>|
 
-|<DER RIESE>|
+|<O XIGANTE>|
 
-|<Hay que activar la tirolina antes de usarla>|
+|<Hai que activar a tirolina antes de usarla>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 950).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 950).>|
 
-|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2).>|
+|<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2).>|
 
-|<Que comience el ataque>|
+|<Que comience o ataque>|
 
-|<Has sobrevivido al ataque>|
+|<Sobreviviches ao ataque>|
 
 |<Ronda>|
 
 |<UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 10).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 10).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 20).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 20).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 50).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para volver a comprar la barrera (coste: 100).>|
+|<Manteña ^5&&1^7 para volver a mercar a barreira ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 100).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 200).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 250).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 500).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 750).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.000).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.250).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.500).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 1.750).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para quitar los escombros (coste: 2.000).>|
+|<Manteña ^5&&1^7 para quitar los escombros ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 100).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 200).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 250).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 750).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.250).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 1.750).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.500).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 2.500).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir a porta ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 100).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 200).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 200).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 250).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 250).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 750).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.250).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.250).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 1.750).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 1.750).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 500).>|
+|<Manteña ^5&&1^7 para abrir o archivador ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 1.000).>|
+|<Manteña ^5&&1^7 para abrir o archivador ^1(coste: 1.000).>|
 
-|<Mantén ^3[{+activate}]^7 para usar el módulo lunar (coste: 1.500).>|
+|<Manteña ^5[{+activate}]^7 para usar o módulo lunar ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para abrir el archivador (coste: 2.000).>|
+|<Manteña ^5&&1^7 para abrir o archivador ^1(coste: 2.000).>|
 
-|<Mantén ^3&&1^7 para comprar Colt (coste: 50).>|
+|<Manteña ^5&&1^7 para mercar Colt ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para comprar Colt pesado (coste: 100).>|
+|<Manteña ^5&&1^7 para mercar Colt pesado ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para comprar Nambu (coste: 50).>|
+|<Manteña ^5&&1^7 para mercar Nambu ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para comprar .357 Magnum (coste: 100).>|
+|<Manteña ^5&&1^7 para mercar .357 Magnum ^1(coste: 100).>|
 
-|<Mantén ^3&&1^7 para comprar Tokarev TT-30 (coste: 50).>|
+|<Manteña ^5&&1^7 para mercar Tokarev TT-30 ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para comprar Walther P38 (coste: 50).>|
+|<Manteña ^5&&1^7 para mercar Walther P38 ^1(coste: 50).>|
 
-|<Mantén ^3&&1^7 para comprar Colt zombi (coste: 25).>|
+|<Manteña ^5&&1^7 para mercar Colt zombi ^1(coste: 25).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Kar98k (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Kar98k ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Kar98k + bayoneta (coste: 200).>|
+|<Manteña ^5[{+activate}]^7 para mercar Kar98k + bayoneta ^1(coste: 200).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant (coste: 200).>|
+|<Manteña ^5[{+activate}]^7 para mercar Mosin-Nagant ^1(coste: 200).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Springfield (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Springfield ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Springfield + bayoneta (coste: 200).>|
+|<Manteña ^5[{+activate}]^7 para mercar Springfield + bayoneta ^1(coste: 200).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Arisaka (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Arisaka ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Type 99 + bayoneta (coste: 200).>|
+|<Manteña ^5[{+activate}]^7 para mercar Type 99 + bayoneta ^1(coste: 200).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Gewehr 43 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Gewehr 43 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar carabina M1 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar carabina M1 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar carabina M1 + bayoneta (coste: 600).>|
+|<Manteña ^5[{+activate}]^7 para mercar carabina M1 + bayoneta ^1(coste: 600).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M1 Garand (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar M1 Garand ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M1 Garand + bayoneta (coste: 600).>|
+|<Manteña ^5[{+activate}]^7 para mercar M1 Garand + bayoneta ^1(coste: 600).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar SVT-40 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar SVT-40 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar granadas de fragmentación M2 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar granadas de fragmentación M2 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Molotov (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Molotov ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar granada de mango RGD-33 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar granada de mango RGD-33 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Stielhandgranate (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Stielhandgranate ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar granada Type 97 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar granada Type 97 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Kar98k + mira óptica ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Kar98k + mira óptica + bayoneta (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Kar98k + mira óptica + bayoneta ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Mosin-Nagant + mira óptica ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + mira óptica + bayoneta (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Mosin-Nagant + mira óptica + bayoneta ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar PTRS-41 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar PTRS-41 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Springfield + mira óptica ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Springfield + mira óptica + bayoneta (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Springfield + mira óptica + bayoneta ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Arisaka + mira óptica (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Arisaka + mira óptica ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Type 99 + mira óptica + bayoneta (coste: 750).>|
+|<Manteña ^5[{+activate}]^7 para mercar Type 99 + mira óptica + bayoneta ^1(coste: 750).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MP40 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MP40 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar PPSh-41 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar PPSh-41 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar STG-44 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar STG-44 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Thompson (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Thompson ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Type 100 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Type 100 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar escopeta de dos cañones (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar escopeta de dos cañones ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar escopeta recortada (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar escopeta recortada ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar escopeta M1897 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar escopeta M1897 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Browning M1919 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Browning M1919 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar BAR (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar BAR ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar DP-28 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar DP-28 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar FG42 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar FG42 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar FG42 + mira óptica (coste: 1.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar FG42 + mira óptica ^1(coste: 1.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MG42 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar MG42 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar ametralladora ligera Type 99 ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar M1 Garand + granada propulsada (coste: 1.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar M1 Garand + granada propulsada ^1(coste: 1.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Mosin-Nagant + granada propulsada (coste: 1.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar Mosin-Nagant + granada propulsada ^1(coste: 1.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Browning M1919 + patas (coste: 3.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar Browning M1919 + patas ^1(coste: 3.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar BAR + patas (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar BAR + patas ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar DP-28 + patas (coste: 2.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar DP-28 + patas ^1(coste: 2.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar FG42 + patas (coste: 2.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar FG42 + patas ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar ametralladora ligera Type 99 + patas (coste: 2.250).>|
+|<Manteña ^5[{+activate}]^7 para mercar ametralladora ligera Type 99 + patas ^1(coste: 2.250).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Bazuca M9A1 (coste: 2.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar Bazuca M9A1 ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar MG42 + patas (coste: 3.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar MG42 + patas ^1(coste: 3.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Panzerschrek (coste: 2.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar Panzerschrek ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar lanzallamas (coste: 3.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar lanzallamas ^1(coste: 3.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar munición de mortero (coste: 2.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar munición de mortero ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar carga explosiva (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar carga explosiva ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar arma de rayos (coste: 10.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar arma de rayos ^1(coste: 10.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar cuchillo Bowie (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar cuchillo Bowie ^1(coste: &&1).>|
 
 |<¡Zombi abatido!>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Reanimación (coste: 1.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar Reanimación ^1(coste: 1.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Cola rápida (coste: 3.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar Cola rápida ^1(coste: 3.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Doble tiro (coste: 2.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar Dobre tiro ^1(coste: 2.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Titán (coste: 2.500).>|
+|<Manteña ^5[{+activate}]^7 para mercar Titán ^1(coste: 2.500).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar mejora de potenciación (coste: 5.000).>|
+|<Manteña ^5[{+activate}]^7 para mercar mejora de potenciación ^1(coste: 5.000).>|
 
 |<Baja instantánea: >|
 
 |<¡Bombazo zombi!>|
 
-|<Doble puntuación: >|
+|<Dobre puntuación: >|
 
 |<¡Munición máxima!>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 10).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 10).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 20).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 20).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 30).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 30).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 40).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 40).>|
 
 |<FIN DEL JUEGO>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera (premio: 50).>|
+|<Manteña ^5&&1^7 para reconstruir a barreira (premio: 50).>|
 
-|<Has sobrevivido &&1 rondas.>|
+|<Sobreviviches &&1 rondas.>|
 
-|<Has sobrevivido 1 ronda.>|
+|<Sobreviviches 1 ronda.>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 850).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 850).>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 750).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 750).>|
 
-|<Pulsa ^3&&1^7 para arma aleatoria (coste: 650).>|
+|<Pulsa ^5&&1^7 para arma aleatoria ^1(coste: 650).>|
 
-|<Mantén ^3&&1^7 para reconstruir la barrera.>|
+|<Manteña ^5&&1^7 para reconstruir a barreira.>|
 
-|<Primero hay que activar la energía.>|
+|<Primeiro hai que activar a electricidade.>|
 
-|<Mantén ^3&&1^7 para activar la barrera de fuego (coste: 500).>|
+|<Manteña ^5&&1^7 para activar a barreira de lume ^1(coste: 500).>|
 
-|<Mantén ^3&&1^7 para abrir la zona (coste: 2500).>|
+|<Manteña ^5&&1^7 para abrir a zona ^1(coste: 2500).>|
 
-|<Mantén ^3&&1^7 para activar barrera eléctrica (coste: 1.000).>|
+|<Manteña ^5&&1^7 para activar barreira eléctrica ^1(coste: 1.000).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Bouncing Bettys (coste: 1.000 - una única vez).>|
+|<Manteña ^5[{+activate}]^7 para mercar Bouncing Bettys ^1(coste: 1.000 - una única vez).>|
 
 |<Ya has adquirido las Bouncing Bettys.>|
 
-|<Pulsa ^3[{+actionslot 4}]^7 y luego ^3[{+attack}]^7 para colocar una Bouncing Betty.>|
+|<Pulsa ^5[{+actionslot 4}]^7 y luego ^5[{+attack}]^7 para colocar una Bouncing Betty.>|
 
-|<Mantén ^3&&1^7 para activar la torreta de la fuente (coste: 750).>|
+|<Manteña ^5&&1^7 para activar a torreta de a fuente ^1(coste: 750).>|
 
-|<Mantén ^3&&1^7 para conectar la electricidad.>|
+|<Manteña ^5&&1^7 para conectar a electricidade.>|
 
 |<Berlín, Alemania>|
 
@@ -801,76 +801,76 @@ Necesitas: ^3&&1^7
 
 |<Septiembre de 1945>|
 
-|<Mantén ^3&&1^7 para comprar arma Tesla (coste: 10).>|
+|<Manteña ^5&&1^7 para mercar arma Tesla ^1(coste: 10).>|
 
-|<Mantén ^3&&1^7 para comprar granadas adhesivas (coste: 10).>|
+|<Manteña ^5&&1^7 para mercar granadas adhesivas ^1(coste: 10).>|
 
-|<Mantén ^3&&1^7 para activar la trampa (coste: 750).>|
+|<Manteña ^5&&1^7 para activar a trampa ^1(coste: 750).>|
 
-|<Antes hay que abrir la puerta.>|
+|<Antes hai que abrir a porta.>|
 
-|<Mantén ^3&&1^7 para cambiar de arma.>|
+|<Manteña ^5&&1^7 para cambiar de arma.>|
 
-|<Mantén ^3&&1^7 para activar la tirolina (coste: 1.500).>|
+|<Manteña ^5&&1^7 para activar a tirolina ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para activar la tirolina.>|
+|<Manteña ^5&&1^7 para activar a tirolina.>|
 
-|<Mantén ^3&&1^7 para comprar munición máxima (cuesta todo lo que tienes; mínimo 10.000)>|
+|<Manteña ^5&&1^7 para mercar munición máxima (cuesta todo lo que tienes; mínimo 10.000)>|
 
-|<Mantén ^3&&1^7 para comprar >|
+|<Manteña ^5&&1^7 para mercar >|
 
-|<Mantén ^3&&1^7 para iniciar el enlace con el ordenador central.>|
+|<Manteña ^5&&1^7 para iniciar o enlace co ordenador central.>|
 
-|<Mantén ^3&&1^7 para teletransportarte al ordenador central (coste: 1.500).>|
+|<Manteña ^5&&1^7 para teletransportarte ao ordenador central ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para enlazar la plataforma de teletransporte al ordenador central.>|
+|<Manteña ^5&&1^7 para enlazar a plataforma de teletransporte ao ordenador central.>|
 
 |<Enlace activado.>|
 
-|<Hay que activar la plataforma de teletransporte.>|
+|<Hai que activar a plataforma de teletransporte.>|
 
-|<Vuelve al núcleo.>|
+|<Volata ao núcleo.>|
 
-|<El teletransporte se está recuperando.>|
+|<O teletransporte estase recuperando.>|
 
-|<Mantén ^3&&1^7 para activar la trampilla (coste: 1.000).>|
+|<Manteña ^5&&1^7 para activar a trampilla ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para abrir la puerta.>|
+|<Manteña ^5&&1^7 para abrir a porta.>|
 
-|<Mantén ^3&&1^7 para activar el elevador (coste: 500).>|
+|<Manteña ^5&&1^7 para activar o elevador ^1(coste: 500).>|
 
-|<Mantén ^3[{+activate}]^7 para usar la torreta (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para usar a torreta ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para activar la torreta automática (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para activar a torreta automática ^1(coste: &&1).>|
 
-|<Mantén ^3&&1^7 para construir el puente (coste: 1.000).>|
+|<Manteña ^5&&1^7 para construir o puente ^1(coste: 1.000).>|
 
-|<Mantén ^3&&1^7 para coger el arma mejorada.>|
+|<Manteña ^5&&1^7 para coger o arma mejorada.>|
 
-|<Mantén ^3&&1^7 para usar el teletransporte (coste: 1.500).>|
+|<Manteña ^5&&1^7 para usar o teletransporte ^1(coste: 1.500).>|
 
-|<Mantén ^3&&1^7 para activar el teletransporte.>|
+|<Manteña ^5&&1^7 para activar o teletransporte.>|
 
-|<Mantén ^3&&1^7 para usar la tirolina (coste: 1.000).>|
+|<Manteña ^5&&1^7 para usar a tirolina ^1(coste: 1.000).>|
 
-|<Primero hay que activar la tirolina.>|
+|<Primeiro hai que activar a tirolina.>|
 
 |<Alrededores de Breslau, Alemania>|
 
 |<Hora: desconocida>|
 
-|<Fecha: desconocida>|
+|<Data: desconocida>|
 
-|<Mantén ^3[{+activate}]^7 arma (&&1), munición (&&2),
+|<Manteña ^5[{+activate}]^7 arma (&&1), munición (&&2),
              munición mejorada (4.500).>|
 
 |<Quedan &&1 horas para poder disponer de acceso.>|
 
 |<Quedan &&1 días para poder disponer de acceso.>|
 
-|<Esta consola ha sido excluida permanentemente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+|<Esta consola ha sido excluida permanentemente de xogar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
 
-|<Esta consola ha sido excluida temporalmente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+|<Esta consola ha sido excluida temporalmente de xogar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
 
 |<Esta consola ha sido excluida permanentemente de usar esta función. Para más información: www.callofduty.com/blackops/help.>|
 
@@ -880,9 +880,9 @@ Necesitas: ^3&&1^7
 
 |<&&1 ha sido excluido temporalmente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
 
-|<&&1 ha sido excluido permanentemente de jugar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
+|<&&1 ha sido excluido permanentemente de xogar en servidores de Call of Duty: Black Ops. Para más información: www.callofduty.com/blackops/help.>|
 
-|<&&1 ha sido excluido temporalmente de jugar en los servidores de Call of Duty: Black Ops. Para más información, visita www.callofduty.com/blackops/help.>|
+|<&&1 ha sido excluido temporalmente de xogar en los servidores de Call of Duty: Black Ops. Para más información, visita www.callofduty.com/blackops/help.>|
 
 |<&&1 ha sido excluido permanentemente de usar esta función. Para más información: www.callofduty.com/blackops/help.>|
 
@@ -904,17 +904,17 @@ Necesitas: ^3&&1^7
 
 |<Esta consola ha sido excluida permanentemente de los servidores de Call of Duty: Black Ops porque se ha detectado contenido no autorizado. Visita www.callofduty.com/blackops/help.>|
 
-|<No se puede descargar automáticamente el archivo de juego:
-^3&&1^7
+|<No se puede descargar automáticamente o archivo de juego:
+^5&&1^7
 El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más tarde.>|
 
 |<Tirolina>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Resistencia+ (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Resistencia+ ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Hoz (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Hoz ^1(coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Dr. Chungo (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Dr. Chungo ^1(coste: &&1).>|
 
 |<Dispositivo Gersh>|
 
@@ -925,7 +925,7 @@ El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más
 |<¡Ventaja gratuita!
 >|
 
-|<Mantén ^3[{+activate}]^7 para comprar Daiquiri letal (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Daiquiri letal ^1(coste: &&1).>|
 
 |<V-R11>|
 
@@ -937,13 +937,13 @@ El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más
 
 |<Desactivado>|
 
-|<Mantén ^3[{+activate}]^7 para activar.>|
+|<Manteña ^5[{+activate}]^7 para activar.>|
 
-|<Mantén ^3[{+activate}]^7 para desactivar.>|
+|<Manteña ^5[{+activate}]^7 para desactivar.>|
 
 |<Debes soltar para poder desactivar.>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Semtex (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para mercar Semtex ^1(coste: &&1).>|
 
 |<31-79 JGb215>|
 
@@ -953,15 +953,15 @@ El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más
 
 |<Arma de ondas máxima>|
 
-|<Arma eléctrica a dos manos>|
+|<Arma eléctrica a duas mans>|
 
-|<Arma eléctrica de Porter X2 a dos manos>|
+|<Arma eléctrica de Porter X2 a duas mans>|
 
-|<Mantén ^3[{+activate}]^7 para comprar Coz (coste: &&1)>|
+|<Manteña ^5[{+activate}]^7 para mercar Coz ^1(coste: &&1)>|
 
-|<Mantén ^3[{+activate}]^7 para piratear.>|
+|<Manteña ^5[{+activate}]^7 para piratear.>|
 
-|<Mantén ^3[{+activate}]^7 para piratear (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para piratear ^1(coste: &&1).>|
 
 |<Pirateando>|
 
@@ -973,15 +973,15 @@ El servidor tiene demasiadas sesiones de descarga en este momento. Inténtalo más
 
 |<Traje presurizado>|
 
-|<Mantén ^3[{+activate}]^7 para cambiar equipo por traje presurizado.>|
+|<Manteña ^5[{+activate}]^7 para cambiar equipo por traje presurizado.>|
 
-|<Pulsa ^3[{+actionslot 1}]^7 para activar el traje presurizado.>|
+|<Pulsa ^5[{+actionslot 1}]^7 para activar o traje presurizado.>|
 
 |<Pirata>|
 
-|<Mantén ^3[{+activate}]^7 para cambiar equipo por herramientas de pirata.>|
+|<Manteña ^5[{+activate}]^7 para cambiar equipo por herramientas de pirata.>|
 
-|<Pulsa ^3[{+actionslot 1}]^7 para usar herramientas de pirata.>|
+|<Pulsa ^5[{+actionslot 1}]^7 para usar herramientas de pirata.>|
 
-|<Has sobrevivido &&1.>|
+|<Sobreviviches &&1.>|
 
