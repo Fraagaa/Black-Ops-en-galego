@@ -1,16 +1,16 @@
 |<rus_cadaver_lod0>|
 
-|<Mantén ^3[{+activate}]^7 para llamar al ascensor.>|
+|<Manteña ^5[{+activate}]^7 para chamar ao ascensor.>|
 
-|<Mantén ^3[{+activate}]^7 para usar el ascensor (coste: &&1).>|
+|<Manteña ^5[{+activate}]^7 para usar o ascensor (coste: &&1).>|
 
-|<Mantén ^3[{+activate}]^7 para ajustar el nivel de deathcon.>|
+|<Manteña ^5[{+activate}]^7 para axustar o nivel de deathcon.>|
 
 |<En deathcon nivel &&1>|
 
 |<Acceso denegado: componente operativo necesario>|
 
-|<Mantén ^3[{+activate}]^7 para recoger la pieza de la trampa.
+|<Manteña ^5[{+activate}]^7 para recoller a peza da trampa.
 >|
 
 |<Acceso denegado: permiso 115 necesario.>|

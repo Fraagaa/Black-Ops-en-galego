@@ -314,7 +314,7 @@
 
 |<REINICIAR PUNTO DE CONTROL>|
 
-|<REINICIAR EL NIVEL>|
+|<REINICIAR O NIVEL >|
 
 |<Cargar última partida>|
 
@@ -470,9 +470,9 @@
 
 |<Interactuar>|
 
-|<CONTROLES PREDET.>|
+|< CONTROIS PREDET.>|
 
-|<Controles predet.>|
+|< Controlis predet.>|
 
 |<En pie/Saltar>|
 
@@ -1110,9 +1110,9 @@
 
 |<¿Continuar reinicio?>|
 
-|<Si reinicias ahora, se perderán >|
+|<Se reinicias agora, perderanse  >|
 
-|<todos los progresos realizados >|
+|<todos os progresos realizados  >|
 
 |<en esta misión.>|
 
@@ -1484,9 +1484,9 @@ o que no tengas privilegios de escritura de archivos.
 
 |<Filtrado anisótropo>|
 
-|<CONTROLES MULTIJUGADOR>|
+|< CONTROIS MULTIXOGADOR>|
 
-|<Controles multijugador...>|
+|< Controis multixogador...>|
 
 |<Sala>|
 
@@ -1632,7 +1632,7 @@ Otros jugadores verán tu icono de prestigio en la sala del juego, los marcadores
 
 |<OPCIONES/BRILLO>|
 
-|<CONTROLES>|
+|<CONTROIS >|
 
 |<OPCIONES/CONFIGURACIÓN DEL STICK>|
 
@@ -3421,9 +3421,9 @@ Puedes cambiar estos ajustes cuando quieras desde el menú OPCIONES.>|
 
 |<  ACTIVAR CORPO A TERRA>|
 
-|<XIRAR A IZQUIERDA>|
+|< XIRAR Á ESQUERDA>|
 
-|<XIRAR A DERECHA>|
+|<XIRAR Á DEREITA>|
 
 |<DESPL. LATERAL>|
 
